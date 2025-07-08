@@ -39,26 +39,34 @@
       "translated": ""
     },
     "4": {
-      "default": "TOP WEAPONS",
+      "default": "Squad Top Weapons player stats for the Last 7 days.",
       "translated": ""
     },
     "5": {
-      "default": "Weapon Kills",
+      "default": "Squad Top Weapons player stats for the Last 24 hours.",
       "translated": ""
     },
     "6": {
-      "default": "Weapon",
+      "default": "TOP WEAPONS",
       "translated": ""
     },
     "7": {
-      "default": "Total of",
+      "default": "Weapon Kills",
       "translated": ""
     },
     "8": {
-      "default": "Kills",
+      "default": "Weapon",
       "translated": ""
     },
     "9": {
+      "default": "Total of",
+      "translated": ""
+    },
+    "10": {
+      "default": "Kills",
+      "translated": ""
+    },
+    "11": {
       "default": "Weapon Deaths:",
       "translated": ""
     }
