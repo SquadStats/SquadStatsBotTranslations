@@ -180,5 +180,36 @@
     "3": { "default": "command cannot be used in a Direct Message to the bot yet." },
     "4": { "default": "You can use the command in Discord servers that use SquadStats Bot." },
     "4": { "default": "Below are some (random) examples of communities using SquadStats" }
+  },
+  "serverstatus": {
+    "1": { "default": "Online Players:" },
+    "2": { "default": "In queue:" },
+    "3": { "default": "Max players:" },
+    "4": { "default": "Map:" },
+    "5": { "default": "Game mode:" },
+    "6": { "default": "Map Duration:" },
+    "7": { "default": "Next map:" }
+  },
+  "serverstatus_map": {
+    "1": { "default": "Current map:" },
+    "2": { "default": "Current Gamemode:" },
+    "3": { "default": "Next map:" }
+  },
+  "serverstatus_player": {
+    "1": { "default": "Online Players:" },
+    "2": { "default": "In queue:" },
+    "3": { "default": "Max players" }
+  },
+  "serverstatus_time": {
+    "1": { "default": "Map Duration:" }
+  },
+  "serverstatus_nextmap": {
+    "1": { "default": "Next Map:" }
+  },
+  "silentcontroller": {
+    "1": { "default": "Control silent serverinformation messages" },
+    "2": { "default": "Send server information." },
+    "3": { "default": "Select option below." },
+    "4": { "default": "It will generate messages sended from the bot." }
   }
 }
