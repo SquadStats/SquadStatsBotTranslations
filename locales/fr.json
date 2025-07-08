@@ -1013,6 +1013,14 @@
     "1": {
       "default": "Current Settings",
       "translated": ""
+    },
+    "2": {
+      "default": "Settings Changed",
+      "translated": ""
+    },
+    "3": {
+      "default": "Changed bot setting:",
+      "translated": ""
     }
   },
   "help": {
@@ -1024,6 +1032,114 @@
   "seedcontroller": {
     "1": {
       "default": "Automatic seed messages settings",
+      "translated": ""
+    },
+    "9": {
+      "default": "``Updates`` Will send 1 (one) seed message and update it.",
+      "translated": ""
+    },
+    "5": {
+      "default": "Auto Seed\nweekdays:",
+      "translated": ""
+    },
+    "6": {
+      "default": "Auto Seed\nFridays:",
+      "translated": ""
+    },
+    "7": {
+      "default": "Auto seed\nWeekends:",
+      "translated": ""
+    },
+    "2": {
+      "default": "Current settings for **Automatic** seed messages.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Here you can turn the automatic seed messages on or off.",
+      "translated": ""
+    },
+    "4": {
+      "default": "The bot will start sending messages on the set time.",
+      "translated": ""
+    },
+    "8": {
+      "default": "Additional changes can be made using the ``/seedsettings set [option]`` command.",
+      "translated": ""
+    },
+    "10": {
+      "default": "``New`` Will send new message at all updates.",
+      "translated": ""
+    },
+    "11": {
+      "default": "Here you find the current settings for **Automatic** seed bot.",
+      "translated": ""
+    },
+    "12": {
+      "default": "Current seedchannel",
+      "translated": ""
+    },
+    "13": {
+      "default": "Auto Delete seed messages",
+      "translated": ""
+    },
+    "14": {
+      "default": "Automatic seed messages has turned On",
+      "translated": ""
+    },
+    "15": {
+      "default": "Automatic seed messages has turned Off",
+      "translated": ""
+    },
+    "16": {
+      "default": "Automatic seed messages controller",
+      "translated": ""
+    },
+    "17": {
+      "default": "Control the Automatic seed messages",
+      "translated": ""
+    },
+    "18": {
+      "default": "Seed bot started",
+      "translated": ""
+    },
+    "19": {
+      "default": "It will generate messages until match is live",
+      "translated": ""
+    },
+    "20": {
+      "default": "Seed bot stopped",
+      "translated": ""
+    },
+    "21": {
+      "default": "The seed bot stopped generating messages",
+      "translated": ""
+    },
+    "22": {
+      "default": "Seed bot deleted all messages.",
+      "translated": ""
+    },
+    "23": {
+      "default": "The seed bot cleared the seeding channel.",
+      "translated": ""
+    },
+    "24": {
+      "default": "Manual seedbot controller",
+      "translated": ""
+    },
+    "25": {
+      "default": "Here you are able to control the seed bot manually, you can start the seeding process here directly.",
+      "translated": ""
+    },
+    "26": {
+      "default": "Probably because you want to start seeding earlier or at a different time.",
+      "translated": ""
+    },
+    "27": {
+      "default": "``Updates`` Will send 1 (one) seed message and update it.",
+      "translated": ""
+    },
+    "28": {
+      "default": "``New`` Will send new message at all updates.",
       "translated": ""
     }
   }
