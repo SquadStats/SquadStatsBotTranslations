@@ -500,5 +500,111 @@
       "default": "Use",
       "translated": ""
     }
+  },
+  "linkaccount_warnings": {
+    "1": {
+      "default": "Account linking.",
+      "translated": ""
+    },
+    "2": {
+      "default": "This account is not allowed to link.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Please contact an admin if support is needed.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Banned acount trying to link account",
+      "translated": ""
+    },
+    "5": {
+      "default": "An on SquadStats banned account have tried to link their account.",
+      "translated": ""
+    },
+    "6": {
+      "default": "Name:",
+      "translated": ""
+    },
+    "7": {
+      "default": "SteamID:",
+      "translated": ""
+    },
+    "8": {
+      "default": "DiscordID:",
+      "translated": ""
+    },
+    "9": {
+      "default": "Last IP:",
+      "translated": ""
+    },
+    "10": {
+      "default": "Banned:",
+      "translated": ""
+    },
+    "11": {
+      "default": "Reason:",
+      "translated": ""
+    }
+  },
+  "linkaccount": {
+    "1": {
+      "default": "Account linking.",
+      "translated": ""
+    },
+    "2": {
+      "default": "You already linked your account in an other community.",
+      "translated": ""
+    },
+    "3": {
+      "default": "AutoLink completed.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Your account is now also linked for this community",
+      "translated": ""
+    },
+    "5": {
+      "default": "Your linking code is:",
+      "translated": ""
+    },
+    "6": {
+      "default": "How to link?",
+      "translated": ""
+    },
+    "7": {
+      "default": "Please use ",
+      "translated": ""
+    },
+    "8": {
+      "default": "in-game to link your account.",
+      "translated": ""
+    },
+    "9": {
+      "default": "This code is valid for 48 hours",
+      "translated": ""
+    },
+    "10": {
+      "default": "TOP 10",
+      "translated": ""
+    }
+  },
+  "linkaccountdirectmessage": {
+    "1": {
+      "default": "Thank you for using the SquadStats Bot!",
+      "translated": ""
+    },
+    "2": {
+      "default": "Unfortunately, the",
+      "translated": ""
+    },
+    "3": {
+      "default": "command cannot be used in a Direct Message to the bot yet.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Below are some (random) examples of communities using SquadStats",
+      "translated": ""
+    }
   }
 }
