@@ -18,6 +18,91 @@
     "1": { "default": "Server kill Stats" },
     "2": { "default": "Total Kills" },
     "3": { "default": "Total Deaths" },
-    "4": { "default": "Total Wounds" }
+    "4": { "default": "Total Wounds" },
+    "5": { "default": "Teamplayer Stats" },
+    "6": { "default": "Teamkills" },
+    "7": { "default": "Total Revives" },
+    "8": { "default": "Knifekills" },
+    "9": { "default": "Favorites" },
+    "10": { "default": "Favorite Weapon" },
+    "11": { "default": "Favorite Map" },
+    "12": { "default": "Top Victim / Top Nemesis" },
+    "13": { "default": "Top Revive / Top Revived" },
+    "14": { "default": "Want more information on player stats?" },
+    "15": { "default": "Use" }
+  },
+  "leaderboard_kills": {
+    "1": { "default": "Leaderboard kill/death AllTime." },
+    "2": { "default": "Leaderboard kill/death for the Last 30 days." },
+    "3": { "default": "Leaderboard kill/death for last week." },
+    "4": { "default": "Leaderboard kill/death for the last 24h." },
+    "5": { "default": "TOP 10" },
+    "6": { "default": "Kills" },
+    "7": { "default": "and" },
+    "8": { "default": "deaths" }
+  },
+  "leaderboard_knifekills": {
+    "1": { "default": "Leaderboard" },
+    "2": { "default": "AllTime." },
+    "3": { "default": "for the Last 30 days." },
+    "4": { "default": "for last week." },
+    "5": { "default": "for the last 24h." },
+    "6": { "default": "TOP 10" }
+  },
+  "leaderboard_wounds": {
+    "1": { "default": "Leaderboard" },
+    "2": { "default": "AllTime." },
+    "3": { "default": "for the Last 30 days." },
+    "4": { "default": "for last week." },
+    "5": { "default": "for the last 24h." },
+    "6": { "default": "TOP 10" }
+  },
+  "leaderboard_wounded": {
+    "1": { "default": "Leaderboard" },
+    "2": { "default": "AllTime." },
+    "3": { "default": "for the Last 30 days." },
+    "4": { "default": "for last week." },
+    "5": { "default": "for the last 24h." },
+    "6": { "default": "TOP 10" }
+  },
+  "leaderboard_revives": {
+    "1": { "default": "Leaderboard" },
+    "2": { "default": "AllTime." },
+    "3": { "default": "for the Last 30 days." },
+    "4": { "default": "for last week." },
+    "5": { "default": "for the last 24h." },
+    "6": { "default": "TOP 10" }
+  },
+  "leaderboard_matches": {
+    "1": { "default": "Leaderboard" },
+    "2": { "default": "AllTime." },
+    "3": { "default": "for the Last 30 days." },
+    "4": { "default": "for last week." },
+    "5": { "default": "for the last 24h." },
+    "6": { "default": "TOP 10" }
+  },
+  "leaderboard_ratio": {
+    "1": { "default": "Leaderboard" },
+    "2": { "default": "AllTime." },
+    "3": { "default": "for the Last 30 days." },
+    "4": { "default": "for last week." },
+    "5": { "default": "for the last 24h." },
+    "6": { "default": "TOP 10" }
+  },
+  "leaderboard_teamkills": {
+    "1": { "default": "Leaderboard" },
+    "2": { "default": "AllTime." },
+    "3": { "default": "for the Last 30 days." },
+    "4": { "default": "for last week." },
+    "5": { "default": "for the last 24h." },
+    "6": { "default": "TOP 10" }
+  },
+  "leaderboard_teamkilled": {
+    "1": { "default": "Leaderboard" },
+    "2": { "default": "AllTime." },
+    "3": { "default": "for the Last 30 days." },
+    "4": { "default": "for last week." },
+    "5": { "default": "for the last 24h." },
+    "6": { "default": "TOP 10" }
   }
 }
