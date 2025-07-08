@@ -543,6 +543,82 @@
     "23": {
       "default": "Squad Player Stats for the last 24 hours.",
       "translated": ""
+    },
+    "24": {
+      "default": "Players Stats",
+      "translated": ""
+    },
+    "25": {
+      "default": "Total Kills",
+      "translated": ""
+    },
+    "26": {
+      "default": "Total Deaths",
+      "translated": ""
+    },
+    "27": {
+      "default": "K/D Ratio",
+      "translated": ""
+    },
+    "28": {
+      "default": "Total Wounds",
+      "translated": ""
+    },
+    "29": {
+      "default": "Total Wounded",
+      "translated": ""
+    },
+    "30": {
+      "default": "Games",
+      "translated": ""
+    },
+    "31": {
+      "default": "Teamkills",
+      "translated": ""
+    },
+    "32": {
+      "default": "Total Revives",
+      "translated": ""
+    },
+    "33": {
+      "default": "Knifekills",
+      "translated": ""
+    },
+    "34": {
+      "default": "Times Teamkilled",
+      "translated": ""
+    },
+    "35": {
+      "default": "Total Revived",
+      "translated": ""
+    },
+    "36": {
+      "default": "Vehicle kills",
+      "translated": ""
+    },
+    "37": {
+      "default": "Favorites",
+      "translated": ""
+    },
+    "38": {
+      "default": "Favorite Weapon",
+      "translated": ""
+    },
+    "39": {
+      "default": "Favorite Map",
+      "translated": ""
+    },
+    "40": {
+      "default": "Top Victim / Top Nemesis",
+      "translated": ""
+    },
+    "41": {
+      "default": "Top Revive / Top Revived",
+      "translated": ""
+    },
+    "42": {
+      "default": "rank #",
+      "translated": ""
     }
   },
   "linkaccount_warnings": {
@@ -626,10 +702,6 @@
     },
     "9": {
       "default": "This code is valid for 48 hours",
-      "translated": ""
-    },
-    "10": {
-      "default": "TOP 10",
       "translated": ""
     }
   },
@@ -740,6 +812,42 @@
     },
     "4": {
       "default": "It will generate messages sended from the bot.",
+      "translated": ""
+    }
+  },
+  "medalsettings": {
+    "1": {
+      "default": "Here you will find the current Medal settings.",
+      "translated": ""
+    }
+  },
+  "seedsettings": {
+    "1": {
+      "default": "Seed Settings Changed",
+      "translated": ""
+    }
+  },
+  "botfunctions": {
+    "1": {
+      "default": "Bot Functions",
+      "translated": ""
+    }
+  },
+  "botsettings": {
+    "1": {
+      "default": "Current Settings",
+      "translated": ""
+    }
+  },
+  "help": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "seedcontroller": {
+    "1": {
+      "default": "Automatic seed messages settings",
       "translated": ""
     }
   }

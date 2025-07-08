@@ -156,7 +156,26 @@
     "20": { "default": "Squad Player Stats all-time." },
     "21": { "default": "Squad Player Stats for the last 30 days." },
     "22": { "default": "Squad Player Stats for the last 7 days." },
-    "23": { "default": "Squad Player Stats for the last 24 hours." }
+    "23": { "default": "Squad Player Stats for the last 24 hours." },
+    "24": { "default": "Players Stats" },
+    "25": { "default": "Total Kills" },
+    "26": { "default": "Total Deaths" },
+    "27": { "default": "K/D Ratio" },
+    "28": { "default": "Total Wounds" },
+    "29": { "default": "Total Wounded" },
+    "30": { "default": "Games" },
+    "31": { "default": "Teamkills" },
+    "32": { "default": "Total Revives" },
+    "33": { "default": "Knifekills" },
+    "34": { "default": "Times Teamkilled" },
+    "35": { "default": "Total Revived" },
+    "36": { "default": "Vehicle kills" },
+    "37": { "default": "Favorites" },
+    "38": { "default": "Favorite Weapon" },
+    "39": { "default": "Favorite Map" },
+    "40": { "default": "Top Victim / Top Nemesis" },
+    "41": { "default": "Top Revive / Top Revived" },
+    "42": { "default": "rank #" }
   },
   "linkaccount_warnings": {
     "1": { "default": "Account linking." },
@@ -180,8 +199,7 @@
     "6": { "default": "How to link?" },
     "7": { "default": "Please use " },
     "8": { "default": "in-game to link your account." },
-    "9": { "default": "This code is valid for 48 hours" },
-    "10": { "default": "TOP 10" }
+    "9": { "default": "This code is valid for 48 hours" }
   },
   "linkaccountdirectmessage": {
     "1": { "default": "Thank you for using the SquadStats Bot!" },
@@ -220,5 +238,23 @@
     "2": { "default": "Send server information." },
     "3": { "default": "Select option below." },
     "4": { "default": "It will generate messages sended from the bot." }
+  },
+  "medalsettings": {
+    "1": { "default": "Here you will find the current Medal settings." }
+  },
+  "seedsettings": {
+    "1": { "default": "Seed Settings Changed" }
+  },
+  "botfunctions": {
+    "1": { "default": "Bot Functions" }
+  },
+  "botsettings": {
+    "1": { "default": "Current Settings" }
+  },
+  "help": {
+    "1": { "default": "Instructions on how to use the bot." }
+  },
+  "seedcontroller": {
+    "1": { "default": "Automatic seed messages settings" }
   }
 }
