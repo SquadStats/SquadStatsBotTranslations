@@ -278,15 +278,56 @@
     "15": { "default": "Specified **Weekend** Time value is an incorrect time format." }
   },
   "botfunctions": {
-    "1": { "default": "Bot Functions" }
+    "1": { "default": "Bot Functions" },
+    "2": { "default": "Bellow you can enable and disable bot functions." },
+    "3": { "default": "Current settings changed!" },
+    "4": { "default": "The bot's ``medal`` function is now enabled." },
+    "5": { "default": "The bot's ``medal`` function is now disabled." },
+    "6": { "default": "The bot's ``leaderboard`` function is now enabled." },
+    "7": { "default": "The bot's ``leaderboard`` function is now disabled." },
+    "8": { "default": "The bot's ``leaderboard refresh button`` is now enabled." },
+    "9": { "default": "The bot's ``leaderboard refresh button`` is now disabled." },
+    "10": { "default": "The bot's ``serverstats`` function is now enabled." },
+    "11": { "default": "The bot's ``serverstats`` function is now disabled." },
+    "12": { "default": "The bot's ``/myweapons`` function is now enabled." },
+    "13": { "default": "The bot's ``/myweapons`` function is now disabled." }
   },
   "botsettings": {
-    "1": { "default": "Current Settings" }
+    "1": { "default": "Current Settings" },
+    "2": { "default": "Settings Changed" },
+    "3": { "default": "Changed bot setting:" }
   },
   "help": {
     "1": { "default": "Instructions on how to use the bot." }
   },
   "seedcontroller": {
-    "1": { "default": "Automatic seed messages settings" }
+    "1": { "default": "Automatic seed messages settings" },
+    "2": { "default": "Current settings for **Automatic** seed messages." },
+    "3": { "default": "Here you can turn the automatic seed messages on or off." },
+    "4": { "default": "The bot will start sending messages on the set time." },
+    "5": { "default": "Auto Seed\nweekdays:" },
+    "6": { "default": "Auto Seed\nFridays:" },
+    "7": { "default": "Auto seed\nWeekends:" },
+    "8": { "default": "Additional changes can be made using the ``/seedsettings set [option]`` command." },
+    "9": { "default": "``Updates`` Will send 1 (one) seed message and update it." },
+    "10": { "default": "``New`` Will send new message at all updates." },
+    "11": { "default": "Here you find the current settings for **Automatic** seed bot." },
+    "12": { "default": "Current seedchannel" },
+    "13": { "default": "Auto Delete seed messages" },
+    "14": { "default": "Automatic seed messages has turned On" },
+    "15": { "default": "Automatic seed messages has turned Off" },
+    "16": { "default": "Automatic seed messages controller" },
+    "17": { "default": "Control the Automatic seed messages" },
+    "18": { "default": "Seed bot started" },
+    "19": { "default": "It will generate messages until match is live" },
+    "20": { "default": "Seed bot stopped" },
+    "21": { "default": "The seed bot stopped generating messages" },
+    "22": { "default": "Seed bot deleted all messages." },
+    "23": { "default": "The seed bot cleared the seeding channel." },
+    "24": { "default": "Manual seedbot controller" },
+    "25": { "default": "Here you are able to control the seed bot manually, you can start the seeding process here directly." },
+    "26": { "default": "Probably because you want to start seeding earlier or at a different time." },
+    "27": { "default": "``Updates`` Will send 1 (one) seed message and update it." },
+    "28": { "default": "``New`` Will send new message at all updates." }
   }
 }
