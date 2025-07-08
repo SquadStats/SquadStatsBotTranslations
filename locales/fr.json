@@ -435,14 +435,18 @@
       "translated": ""
     },
     "4": {
-      "default": "Use",
+      "default": "Want more information on player stats?",
       "translated": ""
     },
     "5": {
-      "default": "No user data found for the specific SteamID.",
+      "default": "Use",
       "translated": ""
     },
     "6": {
+      "default": "No user data found for the specific SteamID.",
+      "translated": ""
+    },
+    "7": {
       "default": "Please use ``/linksqstats`` to begin linking your account.",
       "translated": ""
     }

@@ -129,9 +129,9 @@
     "2": { "default": "Please make sure you use the SteamID64." },
     "3": { "default": "Or use ``/linksqstats`` to begin linking your account." },
     "4": { "default": "Want more information on player stats?" },
-    "4": { "default": "Use" },
-    "5": { "default": "No user data found for the specific SteamID." },
-    "6": { "default": "Please use ``/linksqstats`` to begin linking your account." }
+    "5": { "default": "Use" },
+    "6": { "default": "No user data found for the specific SteamID." },
+    "7": { "default": "Please use ``/linksqstats`` to begin linking your account." }
   },
   "mysqstats": {
     "1": { "default": "Your Discord Account is not linked to an In Game Account." },
