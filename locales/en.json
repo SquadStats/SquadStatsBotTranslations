@@ -35,6 +35,16 @@
     "18": { "default": "Want more information on player stats?" },
     "19": { "default": "Use" }
   },
+  "leaderboard_default": {
+    "1": { "default": "Leaderboard kill/death AllTime." },
+    "2": { "default": "Leaderboard kill/death for the Last 30 days." },
+    "3": { "default": "Leaderboard kill/death for last week." },
+    "4": { "default": "Leaderboard kill/death for the last 24h." },
+    "5": { "default": "TOP 10" },
+    "6": { "default": "Kills" },
+    "7": { "default": "and" },
+    "8": { "default": "deaths" }
+  },
   "leaderboard_kills": {
     "1": { "default": "Leaderboard kill/death AllTime." },
     "2": { "default": "Leaderboard kill/death for the Last 30 days." },
