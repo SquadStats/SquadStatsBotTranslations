@@ -49,62 +49,78 @@
   },
   "serverstats": {
     "1": {
-      "default": "Server kill Stats",
+      "default": "Squad server Stats all-time.",
       "translated": ""
     },
     "2": {
-      "default": "Total Kills",
+      "default": "Squad server Stats for the Last 30 days.",
       "translated": ""
     },
     "3": {
-      "default": "Total Deaths",
+      "default": "Squad server Stats for the Last 7 days.",
       "translated": ""
     },
     "4": {
-      "default": "Total Wounds",
+      "default": "Squad server Stats for the Last 24h.",
       "translated": ""
     },
     "5": {
-      "default": "Teamplayer Stats",
+      "default": "Server kill Stats",
       "translated": ""
     },
     "6": {
-      "default": "Teamkills",
+      "default": "Total Kills",
       "translated": ""
     },
     "7": {
-      "default": "Total Revives",
+      "default": "Total Deaths",
       "translated": ""
     },
     "8": {
-      "default": "Knifekills",
+      "default": "Total Wounds",
       "translated": ""
     },
     "9": {
-      "default": "Favorites",
+      "default": "Teamplayer Stats",
       "translated": ""
     },
     "10": {
-      "default": "Favorite Weapon",
+      "default": "Teamkills",
       "translated": ""
     },
     "11": {
-      "default": "Favorite Map",
+      "default": "Total Revives",
       "translated": ""
     },
     "12": {
-      "default": "Top Victim / Top Nemesis",
+      "default": "Knifekills",
       "translated": ""
     },
     "13": {
-      "default": "Top Revive / Top Revived",
+      "default": "Favorites",
       "translated": ""
     },
     "14": {
-      "default": "Want more information on player stats?",
+      "default": "Favorite Weapon",
       "translated": ""
     },
     "15": {
+      "default": "Favorite Map",
+      "translated": ""
+    },
+    "16": {
+      "default": "Top Victim / Top Nemesis",
+      "translated": ""
+    },
+    "17": {
+      "default": "Top Revive / Top Revived",
+      "translated": ""
+    },
+    "18": {
+      "default": "Want more information on player stats?",
+      "translated": ""
+    },
+    "19": {
       "default": "Use",
       "translated": ""
     }
