@@ -240,7 +240,25 @@
     "4": { "default": "It will generate messages sended from the bot." }
   },
   "medalsettings": {
-    "1": { "default": "Here you will find the current Medal settings." }
+    "1": { "default": "Here you will find the current Medal settings." },
+    "2": { "default": "Current Settings:" },
+    "3": { "default": "Roles Regular:" },
+    "4": { "default": "Roles Seed:" },
+    "5": { "default": "Settings Changed" },
+    "6": { "default": "Changed medal setting:" },
+    "7": { "default": "Are you sure?!" },
+    "8": { "default": "Please confirm your action below." },
+    "9": { "default": "Press yes if you want the bot to create all the needed roles for the medal function." },
+    "10": { "default": "It also will set the roleID's in medalsettings." },
+    "11": { "default": "Creating medals." },
+    "12": { "default": "The bot started creating the needed roles for the bots medalfunction." },
+    "13": { "default": "It also will set the roleID's in medalsettings." },
+    "13": { "default": "Check the current settings by clicking on the button bellow." },
+    "13": { "default": "Sometimes the bot isnt able to create all roles at once, if that is the case, please retry." },
+    "13": { "default": "Missing permissions" },
+    "13": { "default": "The bot is missing permissions to create new roles." },
+    "13": { "default": "Please check the permissions in discord." },
+    "13": { "default": "Needed permission is ``Manage Roles``" }
   },
   "seedsettings": {
     "1": { "default": "Seed Settings Changed" }
