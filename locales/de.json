@@ -1,0 +1,68 @@
+{
+  "player_found": {
+    "1": {
+      "default": "Players Info",
+      "translated": ""
+    },
+    "2": {
+      "default": "Found in Game Name",
+      "translated": ""
+    },
+    "3": {
+      "default": "First seen",
+      "translated": ""
+    },
+    "4": {
+      "default": "Last seen",
+      "translated": ""
+    },
+    "5": {
+      "default": "Steam ID",
+      "translated": ""
+    },
+    "6": {
+      "default": "Eos ID",
+      "translated": ""
+    }
+  },
+  "myweapons": {
+    "1": {
+      "default": "TOP WEAPONS",
+      "translated": ""
+    },
+    "2": {
+      "default": "Weapon Kills",
+      "translated": ""
+    },
+    "3": {
+      "default": "Weapon",
+      "translated": ""
+    },
+    "4": {
+      "default": "Total of",
+      "translated": ""
+    },
+    "5": {
+      "default": "Kills",
+      "translated": ""
+    }
+  },
+  "serverstats": {
+    "1": {
+      "default": "Server kill Stats",
+      "translated": ""
+    },
+    "2": {
+      "default": "Total Kills",
+      "translated": ""
+    },
+    "3": {
+      "default": "Total Deaths",
+      "translated": ""
+    },
+    "4": {
+      "default": "Total Wounds",
+      "translated": ""
+    }
+  }
+}
