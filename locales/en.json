@@ -11,12 +11,14 @@
     "1": { "default": "Squad Top Weapons player stats all-time." },
     "2": { "default": "Squad Top Weapons player stats for the Last 30 days." },
     "3": { "default": "Squad Top Weapons player stats for the Last 24 hours." },
-    "4": { "default": "TOP WEAPONS" },
-    "5": { "default": "Weapon Kills" },
-    "6": { "default": "Weapon" },
-    "7": { "default": "Total of" },
-    "8": { "default": "Kills" },
-    "9": { "default": "Weapon Deaths:" }
+    "4": { "default": "Squad Top Weapons player stats for the Last 7 days." },
+    "5": { "default": "Squad Top Weapons player stats for the Last 24 hours." },
+    "6": { "default": "TOP WEAPONS" },
+    "7": { "default": "Weapon Kills" },
+    "8": { "default": "Weapon" },
+    "9": { "default": "Total of" },
+    "10": { "default": "Kills" },
+    "11": { "default": "Weapon Deaths:" }
   },
   "serverstats": {
     "1": { "default": "Squad server Stats all-time." },
