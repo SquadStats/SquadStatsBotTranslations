@@ -606,5 +606,93 @@
       "default": "Below are some (random) examples of communities using SquadStats",
       "translated": ""
     }
+  },
+  "serverstatus": {
+    "1": {
+      "default": "Online Players:",
+      "translated": ""
+    },
+    "2": {
+      "default": "In queue:",
+      "translated": ""
+    },
+    "3": {
+      "default": "Max players:",
+      "translated": ""
+    },
+    "4": {
+      "default": "Map:",
+      "translated": ""
+    },
+    "5": {
+      "default": "Game mode:",
+      "translated": ""
+    },
+    "6": {
+      "default": "Map Duration:",
+      "translated": ""
+    },
+    "7": {
+      "default": "Next map:",
+      "translated": ""
+    }
+  },
+  "serverstatus_map": {
+    "1": {
+      "default": "Current map:",
+      "translated": ""
+    },
+    "2": {
+      "default": "Current Gamemode:",
+      "translated": ""
+    },
+    "3": {
+      "default": "Next map:",
+      "translated": ""
+    }
+  },
+  "serverstatus_player": {
+    "1": {
+      "default": "Online Players:",
+      "translated": ""
+    },
+    "2": {
+      "default": "In queue:",
+      "translated": ""
+    },
+    "3": {
+      "default": "Max players",
+      "translated": ""
+    }
+  },
+  "serverstatus_time": {
+    "1": {
+      "default": "Map Duration:",
+      "translated": ""
+    }
+  },
+  "serverstatus_nextmap": {
+    "1": {
+      "default": "Next Map:",
+      "translated": ""
+    }
+  },
+  "silentcontroller": {
+    "1": {
+      "default": "Control silent serverinformation messages",
+      "translated": ""
+    },
+    "2": {
+      "default": "Send server information.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Select option below.",
+      "translated": ""
+    },
+    "4": {
+      "default": "It will generate messages sended from the bot.",
+      "translated": ""
+    }
   }
 }
