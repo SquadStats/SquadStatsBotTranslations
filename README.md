@@ -22,7 +22,7 @@ Each file is a JSON object structured by category and string key:
 }
 ```
 
-* `default`: The original English text (always from `en.json`)
+* `default`: The original English text (always from `en.json`) (will also function as fallback value.)
 * `translated`: The translated version in the target language
 
 > ⚠️ Never change `default` fields in translation files. These are automatically synced.
@@ -45,11 +45,11 @@ This lets the maintainer:
 
 ### 🔹 Step 2: Translate
 
-Once your language file is created (e.g., `locales/es.json` for Spanish), you can:
+Once your language file is availible (e.g., `locales/fr.json` for French or `locales/de.json` for Deutsch/German), you can:
 
 * Open it
 * Fill in the `"translated"` values
-* Leave `"default"` values unchanged
+* Leave `"default"` values unchanged, those fields also function as fallback value in case the `"translated"` field is not set.
 
 ### 🔹 Step 3: Submit a Pull Request
 
@@ -62,13 +62,13 @@ When you're ready, create a PR with:
 
 ## 🔁 Syncing
 
-Whenever the English file (`en.json`) is updated, the translation files will be updated to:
+Whenever the English file (`en.json`) is updated by the maintainer, the translation files will also be updated to:
 
 * Adds any new keys
 * Ensure `default` values stay in sync
 * Remove unused entries (if deleted from `en.json`)
 
-> You don't need to manually manage structure or categories — just translate the `translated` fields.
+> ⚠️ You don't need to manually manage structure or categories — just translate the `translated` fields.
 
 ---
 
