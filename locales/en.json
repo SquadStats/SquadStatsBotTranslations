@@ -253,15 +253,29 @@
     "11": { "default": "Creating medals." },
     "12": { "default": "The bot started creating the needed roles for the bots medalfunction." },
     "13": { "default": "It also will set the roleID's in medalsettings." },
-    "13": { "default": "Check the current settings by clicking on the button bellow." },
-    "13": { "default": "Sometimes the bot isnt able to create all roles at once, if that is the case, please retry." },
-    "13": { "default": "Missing permissions" },
-    "13": { "default": "The bot is missing permissions to create new roles." },
-    "13": { "default": "Please check the permissions in discord." },
-    "13": { "default": "Needed permission is ``Manage Roles``" }
+    "14": { "default": "Check the current settings by clicking on the button bellow." },
+    "15": { "default": "Sometimes the bot isnt able to create all roles at once, if that is the case, please retry." },
+    "16": { "default": "Missing permissions" },
+    "17": { "default": "The bot is missing permissions to create new roles." },
+    "18": { "default": "Please check the permissions in discord." },
+    "19": { "default": "Needed permission is ``Manage Roles``" }
   },
   "seedsettings": {
-    "1": { "default": "Seed Settings Changed" }
+    "1": { "default": "Seed Settings Changed" },
+    "2": { "default": "Changed setting:" },
+    "3": { "default": "Automatic seed messages settings" },
+    "4": { "default": "Here you find the current settings for **Automatic** seed bot." },
+    "5": { "default": "Auto Seed\nweekdays:" },
+    "6": { "default": "Auto Seed\nFridays:" },
+    "7": { "default": "Auto seed\nWeekends:" },
+    "8": { "default": "Current seedchannel:" },
+    "9": { "default": "Current ping groups:" },
+    "10": { "default": "Automatic seed messages time" },
+    "11": { "default": "Specified **Week** Time value is an incorrect time format." },
+    "12": { "default": "Please use ``HH:mm`` Ex. ``14:30``" },
+    "13": { "default": "The timesetting is not changed." },
+    "14": { "default": "Specified **Friday** Time value is an incorrect time format." },
+    "15": { "default": "Specified **Weekend** Time value is an incorrect time format." }
   },
   "botfunctions": {
     "1": { "default": "Bot Functions" }
