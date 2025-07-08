@@ -1,18 +1,22 @@
 {
   "player_found": {
     "1": { "default": "Players Info" },
-    "2": { "default": "Found in Game Name" },
-    "3": { "default": "First seen" },
-    "4": { "default": "Last seen" },
-    "5": { "default": "Steam ID" },
-    "6": { "default": "Eos ID" }
+    "2": { "default": "Found in Game Name:" },
+    "3": { "default": "First seen:" },
+    "4": { "default": "Last seen:" },
+    "5": { "default": "Steam ID:" },
+    "6": { "default": "Eos ID:" }
   },
     "myweapons": {
-    "1": { "default": "TOP WEAPONS" },
-    "2": { "default": "Weapon Kills" },
-    "3": { "default": "Weapon" },
-    "4": { "default": "Total of" },
-    "5": { "default": "Kills" }
+    "1": { "default": "Squad Top Weapons player stats all-time." },
+    "2": { "default": "Squad Top Weapons player stats for the Last 30 days." },
+    "3": { "default": "Squad Top Weapons player stats for the Last 24 hours." },
+    "4": { "default": "TOP WEAPONS" },
+    "5": { "default": "Weapon Kills" },
+    "6": { "default": "Weapon" },
+    "7": { "default": "Total of" },
+    "8": { "default": "Kills" },
+    "9": { "default": "Weapon Deaths:" }
   },
   "serverstats": {
     "1": { "default": "Squad server Stats all-time." },

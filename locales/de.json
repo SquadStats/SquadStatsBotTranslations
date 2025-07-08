@@ -5,45 +5,61 @@
       "translated": ""
     },
     "2": {
-      "default": "Found in Game Name",
+      "default": "Found in Game Name:",
       "translated": ""
     },
     "3": {
-      "default": "First seen",
+      "default": "First seen:",
       "translated": ""
     },
     "4": {
-      "default": "Last seen",
+      "default": "Last seen:",
       "translated": ""
     },
     "5": {
-      "default": "Steam ID",
+      "default": "Steam ID:",
       "translated": ""
     },
     "6": {
-      "default": "Eos ID",
+      "default": "Eos ID:",
       "translated": ""
     }
   },
   "myweapons": {
     "1": {
-      "default": "TOP WEAPONS",
+      "default": "Squad Top Weapons player stats all-time.",
       "translated": ""
     },
     "2": {
-      "default": "Weapon Kills",
+      "default": "Squad Top Weapons player stats for the Last 30 days.",
       "translated": ""
     },
     "3": {
-      "default": "Weapon",
+      "default": "Squad Top Weapons player stats for the Last 24 hours.",
       "translated": ""
     },
     "4": {
-      "default": "Total of",
+      "default": "TOP WEAPONS",
       "translated": ""
     },
     "5": {
+      "default": "Weapon Kills",
+      "translated": ""
+    },
+    "6": {
+      "default": "Weapon",
+      "translated": ""
+    },
+    "7": {
+      "default": "Total of",
+      "translated": ""
+    },
+    "8": {
       "default": "Kills",
+      "translated": ""
+    },
+    "9": {
+      "default": "Weapon Deaths:",
       "translated": ""
     }
   },
