@@ -63,6 +63,334 @@
     "4": {
       "default": "Total Wounds",
       "translated": ""
+    },
+    "5": {
+      "default": "Teamplayer Stats",
+      "translated": ""
+    },
+    "6": {
+      "default": "Teamkills",
+      "translated": ""
+    },
+    "7": {
+      "default": "Total Revives",
+      "translated": ""
+    },
+    "8": {
+      "default": "Knifekills",
+      "translated": ""
+    },
+    "9": {
+      "default": "Favorites",
+      "translated": ""
+    },
+    "10": {
+      "default": "Favorite Weapon",
+      "translated": ""
+    },
+    "11": {
+      "default": "Favorite Map",
+      "translated": ""
+    },
+    "12": {
+      "default": "Top Victim / Top Nemesis",
+      "translated": ""
+    },
+    "13": {
+      "default": "Top Revive / Top Revived",
+      "translated": ""
+    },
+    "14": {
+      "default": "Want more information on player stats?",
+      "translated": ""
+    },
+    "15": {
+      "default": "Use",
+      "translated": ""
+    }
+  },
+  "leaderboard": {
+    "1": {
+      "default": "Leaderboard kill/death AllTime.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Leaderboard kill/death for the Last 30 days.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Server",
+      "translated": ""
+    },
+    "4": {
+      "default": "Server",
+      "translated": ""
+    },
+    "5": {
+      "default": "Server",
+      "translated": ""
+    },
+    "6": {
+      "default": "Server",
+      "translated": ""
+    },
+    "7": {
+      "default": "Server",
+      "translated": ""
+    },
+    "8": {
+      "default": "Server",
+      "translated": ""
+    },
+    "9": {
+      "default": "Server",
+      "translated": ""
+    },
+    "10": {
+      "default": "Server",
+      "translated": ""
+    }
+  },
+  "leaderboard_kills": {
+    "1": {
+      "default": "Leaderboard kill/death AllTime.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Leaderboard kill/death for the Last 30 days.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Leaderboard kill/death for last week.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Leaderboard kill/death for the last 24h.",
+      "translated": ""
+    },
+    "5": {
+      "default": "TOP 10",
+      "translated": ""
+    },
+    "6": {
+      "default": "Kills",
+      "translated": ""
+    },
+    "7": {
+      "default": "and",
+      "translated": ""
+    },
+    "8": {
+      "default": "deaths",
+      "translated": ""
+    }
+  },
+  "leaderboard_knifekills": {
+    "1": {
+      "default": "Leaderboard",
+      "translated": ""
+    },
+    "2": {
+      "default": "AllTime.",
+      "translated": ""
+    },
+    "3": {
+      "default": "for the Last 30 days.",
+      "translated": ""
+    },
+    "4": {
+      "default": "for last week.",
+      "translated": ""
+    },
+    "5": {
+      "default": "for the last 24h.",
+      "translated": ""
+    },
+    "6": {
+      "default": "TOP 10",
+      "translated": ""
+    }
+  },
+  "leaderboard_wounds": {
+    "1": {
+      "default": "Leaderboard",
+      "translated": ""
+    },
+    "2": {
+      "default": "AllTime.",
+      "translated": ""
+    },
+    "3": {
+      "default": "for the Last 30 days.",
+      "translated": ""
+    },
+    "4": {
+      "default": "for last week.",
+      "translated": ""
+    },
+    "5": {
+      "default": "for the last 24h.",
+      "translated": ""
+    },
+    "6": {
+      "default": "TOP 10",
+      "translated": ""
+    }
+  },
+  "leaderboard_wounded": {
+    "1": {
+      "default": "Leaderboard",
+      "translated": ""
+    },
+    "2": {
+      "default": "AllTime.",
+      "translated": ""
+    },
+    "3": {
+      "default": "for the Last 30 days.",
+      "translated": ""
+    },
+    "4": {
+      "default": "for last week.",
+      "translated": ""
+    },
+    "5": {
+      "default": "for the last 24h.",
+      "translated": ""
+    },
+    "6": {
+      "default": "TOP 10",
+      "translated": ""
+    }
+  },
+  "leaderboard_revives": {
+    "1": {
+      "default": "Leaderboard",
+      "translated": ""
+    },
+    "2": {
+      "default": "AllTime.",
+      "translated": ""
+    },
+    "3": {
+      "default": "for the Last 30 days.",
+      "translated": ""
+    },
+    "4": {
+      "default": "for last week.",
+      "translated": ""
+    },
+    "5": {
+      "default": "for the last 24h.",
+      "translated": ""
+    },
+    "6": {
+      "default": "TOP 10",
+      "translated": ""
+    }
+  },
+  "leaderboard_matches": {
+    "1": {
+      "default": "Leaderboard",
+      "translated": ""
+    },
+    "2": {
+      "default": "AllTime.",
+      "translated": ""
+    },
+    "3": {
+      "default": "for the Last 30 days.",
+      "translated": ""
+    },
+    "4": {
+      "default": "for last week.",
+      "translated": ""
+    },
+    "5": {
+      "default": "for the last 24h.",
+      "translated": ""
+    },
+    "6": {
+      "default": "TOP 10",
+      "translated": ""
+    }
+  },
+  "leaderboard_ratio": {
+    "1": {
+      "default": "Leaderboard",
+      "translated": ""
+    },
+    "2": {
+      "default": "AllTime.",
+      "translated": ""
+    },
+    "3": {
+      "default": "for the Last 30 days.",
+      "translated": ""
+    },
+    "4": {
+      "default": "for last week.",
+      "translated": ""
+    },
+    "5": {
+      "default": "for the last 24h.",
+      "translated": ""
+    },
+    "6": {
+      "default": "TOP 10",
+      "translated": ""
+    }
+  },
+  "leaderboard_teamkills": {
+    "1": {
+      "default": "Leaderboard",
+      "translated": ""
+    },
+    "2": {
+      "default": "AllTime.",
+      "translated": ""
+    },
+    "3": {
+      "default": "for the Last 30 days.",
+      "translated": ""
+    },
+    "4": {
+      "default": "for last week.",
+      "translated": ""
+    },
+    "5": {
+      "default": "for the last 24h.",
+      "translated": ""
+    },
+    "6": {
+      "default": "TOP 10",
+      "translated": ""
+    }
+  },
+  "leaderboard_teamkilled": {
+    "1": {
+      "default": "Leaderboard",
+      "translated": ""
+    },
+    "2": {
+      "default": "AllTime.",
+      "translated": ""
+    },
+    "3": {
+      "default": "for the Last 30 days.",
+      "translated": ""
+    },
+    "4": {
+      "default": "for last week.",
+      "translated": ""
+    },
+    "5": {
+      "default": "for the last 24h.",
+      "translated": ""
+    },
+    "6": {
+      "default": "TOP 10",
+      "translated": ""
     }
   }
 }
