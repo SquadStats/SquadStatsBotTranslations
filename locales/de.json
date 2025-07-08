@@ -125,48 +125,6 @@
       "translated": ""
     }
   },
-  "leaderboard": {
-    "1": {
-      "default": "Leaderboard kill/death AllTime.",
-      "translated": ""
-    },
-    "2": {
-      "default": "Leaderboard kill/death for the Last 30 days.",
-      "translated": ""
-    },
-    "3": {
-      "default": "Server",
-      "translated": ""
-    },
-    "4": {
-      "default": "Server",
-      "translated": ""
-    },
-    "5": {
-      "default": "Server",
-      "translated": ""
-    },
-    "6": {
-      "default": "Server",
-      "translated": ""
-    },
-    "7": {
-      "default": "Server",
-      "translated": ""
-    },
-    "8": {
-      "default": "Server",
-      "translated": ""
-    },
-    "9": {
-      "default": "Server",
-      "translated": ""
-    },
-    "10": {
-      "default": "Server",
-      "translated": ""
-    }
-  },
   "leaderboard_kills": {
     "1": {
       "default": "Leaderboard kill/death AllTime.",
@@ -406,6 +364,40 @@
     },
     "6": {
       "default": "TOP 10",
+      "translated": ""
+    }
+  },
+  "leaderboard_default": {
+    "1": {
+      "default": "Leaderboard kill/death AllTime.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Leaderboard kill/death for the Last 30 days.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Leaderboard kill/death for last week.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Leaderboard kill/death for the last 24h.",
+      "translated": ""
+    },
+    "5": {
+      "default": "TOP 10",
+      "translated": ""
+    },
+    "6": {
+      "default": "Kills",
+      "translated": ""
+    },
+    "7": {
+      "default": "and",
+      "translated": ""
+    },
+    "8": {
+      "default": "deaths",
       "translated": ""
     }
   }
