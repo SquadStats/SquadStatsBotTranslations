@@ -865,6 +865,30 @@
       "translated": ""
     },
     "13": {
+      "default": "It also will set the roleID's in medalsettings.",
+      "translated": ""
+    },
+    "14": {
+      "default": "Check the current settings by clicking on the button bellow.",
+      "translated": ""
+    },
+    "15": {
+      "default": "Sometimes the bot isnt able to create all roles at once, if that is the case, please retry.",
+      "translated": ""
+    },
+    "16": {
+      "default": "Missing permissions",
+      "translated": ""
+    },
+    "17": {
+      "default": "The bot is missing permissions to create new roles.",
+      "translated": ""
+    },
+    "18": {
+      "default": "Please check the permissions in discord.",
+      "translated": ""
+    },
+    "19": {
       "default": "Needed permission is ``Manage Roles``",
       "translated": ""
     }
@@ -872,6 +896,62 @@
   "seedsettings": {
     "1": {
       "default": "Seed Settings Changed",
+      "translated": ""
+    },
+    "2": {
+      "default": "Changed setting:",
+      "translated": ""
+    },
+    "3": {
+      "default": "Automatic seed messages settings",
+      "translated": ""
+    },
+    "4": {
+      "default": "Here you find the current settings for **Automatic** seed bot.",
+      "translated": ""
+    },
+    "5": {
+      "default": "Auto Seed\nweekdays:",
+      "translated": ""
+    },
+    "6": {
+      "default": "Auto Seed\nFridays:",
+      "translated": ""
+    },
+    "7": {
+      "default": "Auto seed\nWeekends:",
+      "translated": ""
+    },
+    "8": {
+      "default": "Current seedchannel:",
+      "translated": ""
+    },
+    "9": {
+      "default": "Current ping groups:",
+      "translated": ""
+    },
+    "10": {
+      "default": "Automatic seed messages time",
+      "translated": ""
+    },
+    "11": {
+      "default": "Specified **Week** Time value is an incorrect time format.",
+      "translated": ""
+    },
+    "12": {
+      "default": "Please use ``HH:mm`` Ex. ``14:30``",
+      "translated": ""
+    },
+    "13": {
+      "default": "The timesetting is not changed.",
+      "translated": ""
+    },
+    "14": {
+      "default": "Specified **Friday** Time value is an incorrect time format.",
+      "translated": ""
+    },
+    "15": {
+      "default": "Specified **Weekend** Time value is an incorrect time format.",
       "translated": ""
     }
   },
