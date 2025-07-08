@@ -819,6 +819,54 @@
     "1": {
       "default": "Here you will find the current Medal settings.",
       "translated": ""
+    },
+    "2": {
+      "default": "Current Settings:",
+      "translated": ""
+    },
+    "3": {
+      "default": "Roles Regular:",
+      "translated": ""
+    },
+    "4": {
+      "default": "Roles Seed:",
+      "translated": ""
+    },
+    "5": {
+      "default": "Settings Changed",
+      "translated": ""
+    },
+    "6": {
+      "default": "Changed medal setting:",
+      "translated": ""
+    },
+    "7": {
+      "default": "Are you sure?!",
+      "translated": ""
+    },
+    "8": {
+      "default": "Please confirm your action below.",
+      "translated": ""
+    },
+    "9": {
+      "default": "Press yes if you want the bot to create all the needed roles for the medal function.",
+      "translated": ""
+    },
+    "10": {
+      "default": "It also will set the roleID's in medalsettings.",
+      "translated": ""
+    },
+    "11": {
+      "default": "Creating medals.",
+      "translated": ""
+    },
+    "12": {
+      "default": "The bot started creating the needed roles for the bots medalfunction.",
+      "translated": ""
+    },
+    "13": {
+      "default": "Needed permission is ``Manage Roles``",
+      "translated": ""
     }
   },
   "seedsettings": {
