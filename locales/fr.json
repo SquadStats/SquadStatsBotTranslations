@@ -465,62 +465,66 @@
       "translated": ""
     },
     "4": {
-      "default": "Want more information on player stats?",
+      "default": "Command:",
       "translated": ""
     },
     "5": {
-      "default": "[Duration]",
+      "default": "Want more information on player stats?",
       "translated": ""
     },
     "6": {
-      "default": "``all``: Return all time stats",
+      "default": "[Duration]",
       "translated": ""
     },
     "7": {
-      "default": "``month``: Return montly stats. (30 days)",
+      "default": "``all``: Return all time stats",
       "translated": ""
     },
     "8": {
-      "default": "``week``: Return weekly stats. (7 days)",
+      "default": "``month``: Return montly stats. (30 days)",
       "translated": ""
     },
     "9": {
-      "default": "``day``: Return daily stats. (24 hour)",
+      "default": "``week``: Return weekly stats. (7 days)",
       "translated": ""
     },
     "10": {
-      "default": "If no ``[duration]`` option is selected, the default is ``month``.",
+      "default": "``day``: Return daily stats. (24 hour)",
       "translated": ""
     },
     "11": {
-      "default": "[Seed]",
+      "default": "If no ``[duration]`` option is selected, the default is ``month``.",
       "translated": ""
     },
     "12": {
-      "default": "``with``: Return stats with seeding data.",
+      "default": "[Seed]",
       "translated": ""
     },
     "13": {
-      "default": "``only``: Return stats with only seeding data.",
+      "default": "``with``: Return stats with seeding data.",
       "translated": ""
     },
     "14": {
-      "default": "``without``: Return stats without seeding data.",
+      "default": "``only``: Return stats with only seeding data.",
       "translated": ""
     },
     "15": {
-      "default": "If no ``[seed]`` option is selected, the default is ``without``.",
+      "default": "``without``: Return stats without seeding data.",
       "translated": ""
     },
     "16": {
-      "default": "Example:",
+      "default": "If no ``[seed]`` option is selected, the default is ``without``.",
       "translated": ""
     },
     "17": {
-      "default": "Return all stats with seed data",
+      "default": "Example:",
       "translated": ""
     },
     "18": {
+      "default": "Return all stats with seed data",
+      "translated": ""
+    },
+    "19": {
       "default": "Use",
       "translated": ""
     }
@@ -627,6 +631,10 @@
       "translated": ""
     },
     "4": {
+      "default": "You can use the command in Discord servers that use SquadStats Bot.",
+      "translated": ""
+    },
+    "5": {
       "default": "Below are some (random) examples of communities using SquadStats",
       "translated": ""
     }
