@@ -527,6 +527,22 @@
     "19": {
       "default": "Use",
       "translated": ""
+    },
+    "20": {
+      "default": "Squad Player Stats all-time.",
+      "translated": ""
+    },
+    "21": {
+      "default": "Squad Player Stats for the last 30 days.",
+      "translated": ""
+    },
+    "22": {
+      "default": "Squad Player Stats for the last 7 days.",
+      "translated": ""
+    },
+    "23": {
+      "default": "Squad Player Stats for the last 24 hours.",
+      "translated": ""
     }
   },
   "linkaccount_warnings": {

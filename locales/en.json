@@ -152,7 +152,11 @@
     "16": { "default": "If no ``[seed]`` option is selected, the default is ``without``." },
     "17": { "default": "Example:" },
     "18": { "default": "Return all stats with seed data" },
-    "19": { "default": "Use" }
+    "19": { "default": "Use" },
+    "20": { "default": "Squad Player Stats all-time." },
+    "21": { "default": "Squad Player Stats for the last 30 days." },
+    "22": { "default": "Squad Player Stats for the last 7 days." },
+    "23": { "default": "Squad Player Stats for the last 24 hours." }
   },
   "linkaccount_warnings": {
     "1": { "default": "Account linking." },
