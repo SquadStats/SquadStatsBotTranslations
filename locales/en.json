@@ -148,5 +148,37 @@
     "16": { "default": "Example:" },
     "17": { "default": "Return all stats with seed data" },
     "18": { "default": "Use" }
+  },
+  "linkaccount_warnings": {
+    "1": { "default": "Account linking." },
+    "2": { "default": "This account is not allowed to link." },
+    "3": { "default": "Please contact an admin if support is needed." },
+    "4": { "default": "Banned acount trying to link account" },
+    "5": { "default": "An on SquadStats banned account have tried to link their account." },
+    "6": { "default": "Name:" },
+    "7": { "default": "SteamID:" },
+    "8": { "default": "DiscordID:" },
+    "9": { "default": "Last IP:" },
+    "10": { "default": "Banned:" },
+    "11": { "default": "Reason:" }
+  },
+  "linkaccount": {
+    "1": { "default": "Account linking." },
+    "2": { "default": "You already linked your account in an other community." },
+    "3": { "default": "AutoLink completed." },
+    "4": { "default": "Your account is now also linked for this community" },
+    "5": { "default": "Your linking code is:" },
+    "6": { "default": "How to link?" },
+    "7": { "default": "Please use " },
+    "8": { "default": "in-game to link your account." },
+    "9": { "default": "This code is valid for 48 hours" },
+    "10": { "default": "TOP 10" }
+  },
+  "linkaccountdirectmessage": {
+    "1": { "default": "Thank you for using the SquadStats Bot!" },
+    "2": { "default": "Unfortunately, the" },
+    "3": { "default": "command cannot be used in a Direct Message to the bot yet." },
+    "4": { "default": "You can use the command in Discord servers that use SquadStats Bot." },
+    "4": { "default": "Below are some (random) examples of communities using SquadStats" }
   }
 }
