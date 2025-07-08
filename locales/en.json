@@ -278,7 +278,19 @@
     "15": { "default": "Specified **Weekend** Time value is an incorrect time format." }
   },
   "botfunctions": {
-    "1": { "default": "Bot Functions" }
+    "1": { "default": "Bot Functions" },
+    "2": { "default": "Bellow you can enable and disable bot functions." },
+    "3": { "default": "Current settings changed!" },
+    "4": { "default": "The bot's ``medal`` function is now enabled." },
+    "5": { "default": "The bot's ``medal`` function is now disabled." },
+    "6": { "default": "The bot's ``leaderboard`` function is now enabled." },
+    "7": { "default": "The bot's ``leaderboard`` function is now disabled." },
+    "8": { "default": "The bot's ``leaderboard refresh button`` is now enabled." },
+    "9": { "default": "The bot's ``leaderboard refresh button`` is now disabled." },
+    "10": { "default": "The bot's ``serverstats`` function is now enabled." },
+    "11": { "default": "The bot's ``serverstats`` function is now disabled." },
+    "12": { "default": "The bot's ``/myweapons`` function is now enabled." },
+    "13": { "default": "The bot's ``/myweapons`` function is now disabled." }
   },
   "botsettings": {
     "1": { "default": "Current Settings" }

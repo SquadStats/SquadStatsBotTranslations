@@ -959,6 +959,54 @@
     "1": {
       "default": "Bot Functions",
       "translated": ""
+    },
+    "2": {
+      "default": "Bellow you can enable and disable bot functions.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Current settings changed!",
+      "translated": ""
+    },
+    "4": {
+      "default": "The bot's ``medal`` function is now enabled.",
+      "translated": ""
+    },
+    "5": {
+      "default": "The bot's ``medal`` function is now disabled.",
+      "translated": ""
+    },
+    "6": {
+      "default": "The bot's ``leaderboard`` function is now enabled.",
+      "translated": ""
+    },
+    "7": {
+      "default": "The bot's ``leaderboard`` function is now disabled.",
+      "translated": ""
+    },
+    "8": {
+      "default": "The bot's ``leaderboard refresh button`` is now enabled.",
+      "translated": ""
+    },
+    "9": {
+      "default": "The bot's ``leaderboard refresh button`` is now disabled.",
+      "translated": ""
+    },
+    "10": {
+      "default": "The bot's ``serverstats`` function is now enabled.",
+      "translated": ""
+    },
+    "11": {
+      "default": "The bot's ``serverstats`` function is now disabled.",
+      "translated": ""
+    },
+    "12": {
+      "default": "The bot's ``/myweapons`` function is now enabled.",
+      "translated": ""
+    },
+    "13": {
+      "default": "The bot's ``/myweapons`` function is now disabled.",
+      "translated": ""
     }
   },
   "botsettings": {
