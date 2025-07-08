@@ -118,5 +118,35 @@
     "4": { "default": "for last week." },
     "5": { "default": "for the last 24h." },
     "6": { "default": "TOP 10" }
+  },
+  "mysqstatsbyid": {
+    "1": { "default": "The value is not an SteamID." },
+    "2": { "default": "Please make sure you use the SteamID64." },
+    "3": { "default": "Or use ``/linksqstats`` to begin linking your account." },
+    "4": { "default": "Want more information on player stats?" },
+    "4": { "default": "Use" },
+    "5": { "default": "No user data found for the specific SteamID." },
+    "6": { "default": "Please use ``/linksqstats`` to begin linking your account." }
+  },
+  "mysqstats": {
+    "1": { "default": "Your Discord Account is not linked to an In Game Account." },
+    "2": { "default": "Please use ``/linksqstats`` to begin linking your account." },
+    "3": { "default": "Or use ``/mysqstatsbyid [SteamID]``" },
+    "4": { "default": "Command:" },
+    "4": { "default": "Want more information on player stats?" },
+    "5": { "default": "[Duration]" },
+    "6": { "default": "``all``: Return all time stats" },
+    "7": { "default": "``month``: Return montly stats. (30 days)" },
+    "8": { "default": "``week``: Return weekly stats. (7 days)" },
+    "9": { "default": "``day``: Return daily stats. (24 hour)" },
+    "10": { "default": "If no ``[duration]`` option is selected, the default is ``month``." },
+    "11": { "default": "[Seed]" },
+    "12": { "default": "``with``: Return stats with seeding data." },
+    "13": { "default": "``only``: Return stats with only seeding data." },
+    "14": { "default": "``without``: Return stats without seeding data." },
+    "15": { "default": "If no ``[seed]`` option is selected, the default is ``without``." },
+    "16": { "default": "Example:" },
+    "17": { "default": "Return all stats with seed data" },
+    "18": { "default": "Use" }
   }
 }

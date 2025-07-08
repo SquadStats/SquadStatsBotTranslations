@@ -400,5 +400,105 @@
       "default": "deaths",
       "translated": ""
     }
+  },
+  "mysqstatsbyid": {
+    "1": {
+      "default": "The value is not an SteamID.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Please make sure you use the SteamID64.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Or use ``/linksqstats`` to begin linking your account.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Use",
+      "translated": ""
+    },
+    "5": {
+      "default": "No user data found for the specific SteamID.",
+      "translated": ""
+    },
+    "6": {
+      "default": "Please use ``/linksqstats`` to begin linking your account.",
+      "translated": ""
+    }
+  },
+  "mysqstats": {
+    "1": {
+      "default": "Your Discord Account is not linked to an In Game Account.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Please use ``/linksqstats`` to begin linking your account.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Or use ``/mysqstatsbyid [SteamID]``",
+      "translated": ""
+    },
+    "4": {
+      "default": "Want more information on player stats?",
+      "translated": ""
+    },
+    "5": {
+      "default": "[Duration]",
+      "translated": ""
+    },
+    "6": {
+      "default": "``all``: Return all time stats",
+      "translated": ""
+    },
+    "7": {
+      "default": "``month``: Return montly stats. (30 days)",
+      "translated": ""
+    },
+    "8": {
+      "default": "``week``: Return weekly stats. (7 days)",
+      "translated": ""
+    },
+    "9": {
+      "default": "``day``: Return daily stats. (24 hour)",
+      "translated": ""
+    },
+    "10": {
+      "default": "If no ``[duration]`` option is selected, the default is ``month``.",
+      "translated": ""
+    },
+    "11": {
+      "default": "[Seed]",
+      "translated": ""
+    },
+    "12": {
+      "default": "``with``: Return stats with seeding data.",
+      "translated": ""
+    },
+    "13": {
+      "default": "``only``: Return stats with only seeding data.",
+      "translated": ""
+    },
+    "14": {
+      "default": "``without``: Return stats without seeding data.",
+      "translated": ""
+    },
+    "15": {
+      "default": "If no ``[seed]`` option is selected, the default is ``without``.",
+      "translated": ""
+    },
+    "16": {
+      "default": "Example:",
+      "translated": ""
+    },
+    "17": {
+      "default": "Return all stats with seed data",
+      "translated": ""
+    },
+    "18": {
+      "default": "Use",
+      "translated": ""
+    }
   }
 }
