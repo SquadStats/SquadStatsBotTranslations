@@ -50,19 +50,19 @@
   "serverstats": {
     "1": {
       "default": "Squad server Stats all-time.",
-      "translated": ""
+      "translated": "Squad-Server-Statistiken aller Zeiten."
     },
     "2": {
       "default": "Squad server Stats for the Last 30 days.",
-      "translated": ""
+      "translated": "Squad-Server-Statistiken für die letzten 30 Tage."
     },
     "3": {
       "default": "Squad server Stats for the Last 7 days.",
-      "translated": ""
+      "translated": "Squad-Server-Statistiken für die letzten 7 Tage."
     },
     "4": {
       "default": "Squad server Stats for the Last 24h.",
-      "translated": ""
+      "translated": "Squad-Server-Statistiken für die letzten 24 Stunden."
     },
     "5": {
       "default": "Server kill Stats",
