@@ -50,109 +50,45 @@
     "7": { "default": "and" },
     "8": { "default": "deaths" }
   },
-  "leaderboard_kills": {
-    "1": { "default": "Leaderboard kill/death AllTime." },
-    "2": { "default": "Leaderboard kill/death for the Last 30 days." },
-    "3": { "default": "Leaderboard kill/death for last week." },
-    "4": { "default": "Leaderboard kill/death for the last 24h." },
+  "leaderboard": {
+    "1": { "default": "Leaderboard {leaderboardoption} AllTime." },
+    "2": { "default": "Leaderboard {leaderboardoption} for the Last 30 days." },
+    "3": { "default": "Leaderboard {leaderboardoption} for last week." },
+    "4": { "default": "Leaderboard {leaderboardoption} for the last 24h." },
     "5": { "default": "TOP 10" },
     "6": { "default": "Kills" },
     "7": { "default": "and" },
     "8": { "default": "deaths" }
   },
-  "leaderboard_knifekills": {
-    "1": { "default": "Leaderboard" },
-    "2": { "default": "AllTime." },
-    "3": { "default": "for the Last 30 days." },
-    "4": { "default": "for last week." },
-    "5": { "default": "for the last 24h." },
-    "6": { "default": "TOP 10" }
-  },
-  "leaderboard_wounds": {
-    "1": { "default": "Leaderboard" },
-    "2": { "default": "AllTime." },
-    "3": { "default": "for the Last 30 days." },
-    "4": { "default": "for last week." },
-    "5": { "default": "for the last 24h." },
-    "6": { "default": "TOP 10" }
-  },
-  "leaderboard_wounded": {
-    "1": { "default": "Leaderboard" },
-    "2": { "default": "AllTime." },
-    "3": { "default": "for the Last 30 days." },
-    "4": { "default": "for last week." },
-    "5": { "default": "for the last 24h." },
-    "6": { "default": "TOP 10" }
-  },
-  "leaderboard_revives": {
-    "1": { "default": "Leaderboard" },
-    "2": { "default": "AllTime." },
-    "3": { "default": "for the Last 30 days." },
-    "4": { "default": "for last week." },
-    "5": { "default": "for the last 24h." },
-    "6": { "default": "TOP 10" }
-  },
-  "leaderboard_matches": {
-    "1": { "default": "Leaderboard" },
-    "2": { "default": "AllTime." },
-    "3": { "default": "for the Last 30 days." },
-    "4": { "default": "for last week." },
-    "5": { "default": "for the last 24h." },
-    "6": { "default": "TOP 10" }
-  },
-  "leaderboard_ratio": {
-    "1": { "default": "Leaderboard" },
-    "2": { "default": "AllTime." },
-    "3": { "default": "for the Last 30 days." },
-    "4": { "default": "for last week." },
-    "5": { "default": "for the last 24h." },
-    "6": { "default": "TOP 10" }
-  },
-  "leaderboard_teamkills": {
-    "1": { "default": "Leaderboard" },
-    "2": { "default": "AllTime." },
-    "3": { "default": "for the Last 30 days." },
-    "4": { "default": "for last week." },
-    "5": { "default": "for the last 24h." },
-    "6": { "default": "TOP 10" }
-  },
-  "leaderboard_teamkilled": {
-    "1": { "default": "Leaderboard" },
-    "2": { "default": "AllTime." },
-    "3": { "default": "for the Last 30 days." },
-    "4": { "default": "for last week." },
-    "5": { "default": "for the last 24h." },
-    "6": { "default": "TOP 10" }
-  },
   "mysqstatsbyid": {
     "1": { "default": "The value is not an SteamID." },
     "2": { "default": "Please make sure you use the SteamID64." },
-    "3": { "default": "Or use ``/linksqstats`` to begin linking your account." },
+    "3": { "default": "Or use {command} to begin linking your account." },
     "4": { "default": "Want more information on player stats?" },
-    "5": { "default": "Use" },
+    "5": { "default": "Use {command}" },
     "6": { "default": "No user data found for the specific SteamID." },
-    "7": { "default": "Please use ``/linksqstats`` to begin linking your account." }
+    "7": { "default": "Please use {command} to begin linking your account." }
   },
   "mysqstats": {
     "1": { "default": "Your Discord Account is not linked to an In Game Account." },
-    "2": { "default": "Please use ``/linksqstats`` to begin linking your account." },
-    "3": { "default": "Or use ``/mysqstatsbyid [SteamID]``" },
+    "2": { "default": "Please use {command} to begin linking your account." },
+    "3": { "default": "Or use {command}" },
     "4": { "default": "Command:" },
     "5": { "default": "Want more information on player stats?" },
-    "6": { "default": "[Duration]" },
-    "7": { "default": "``all``: Return all time stats" },
-    "8": { "default": "``month``: Return montly stats. (30 days)" },
-    "9": { "default": "``week``: Return weekly stats. (7 days)" },
-    "10": { "default": "``day``: Return daily stats. (24 hour)" },
-    "11": { "default": "If no ``[duration]`` option is selected, the default is ``month``." },
-    "12": { "default": "[Seed]" },
-    "13": { "default": "``with``: Return stats with seeding data." },
-    "14": { "default": "``only``: Return stats with only seeding data." },
-    "15": { "default": "``without``: Return stats without seeding data." },
-    "16": { "default": "If no ``[seed]`` option is selected, the default is ``without``." },
+    "6": { "default": "{option}" },
+    "7": { "default": "{duration}: Return all time stats" },
+    "8": { "default": "{duration}: Return montly stats. (30 days)" },
+    "9": { "default": "{duration}: Return weekly stats. (7 days)" },
+    "10": { "default": "{duration}: Return daily stats. (24 hour)" },
+    "11": { "default": "If no {option} option is selected, the default is {duration}." },
+    "12": { "default": "{option}" },
+    "13": { "default": "{seedoption}: Return stats with seeding data." },
+    "14": { "default": "{seedoption}: Return stats with only seeding data." },
+    "15": { "default": "{seedoption}: Return stats without seeding data." },
+    "16": { "default": "If no {option} option is selected, the default is {seedoption}." },
     "17": { "default": "Example:" },
     "18": { "default": "Return all stats with seed data" },
-    "19": { "default": "Use" },
+    "19": { "default": "Use {command}" },
     "20": { "default": "Squad Player Stats all-time." },
     "21": { "default": "Squad Player Stats for the last 30 days." },
     "22": { "default": "Squad Player Stats for the last 7 days." },
@@ -197,16 +133,15 @@
     "4": { "default": "Your account is now also linked for this community" },
     "5": { "default": "Your linking code is:" },
     "6": { "default": "How to link?" },
-    "7": { "default": "Please use " },
+    "7": { "default": "Please use {command}" },
     "8": { "default": "in-game to link your account." },
     "9": { "default": "This code is valid for 48 hours" }
   },
   "linkaccountdirectmessage": {
     "1": { "default": "Thank you for using the SquadStats Bot!" },
-    "2": { "default": "Unfortunately, the" },
-    "3": { "default": "command cannot be used in a Direct Message to the bot yet." },
-    "4": { "default": "You can use the command in Discord servers that use SquadStats Bot." },
-    "5": { "default": "Below are some (random) examples of communities using SquadStats" }
+    "2": { "default": "Unfortunately, the {command} command cannot be used in a Direct Message to the bot yet." },
+    "3": { "default": "You can use the command in Discord servers that use SquadStats Bot." },
+    "4": { "default": "Below are some (random) examples of communities using SquadStats" }
   },
   "serverstatus": {
     "1": { "default": "Online Players:" },
@@ -281,16 +216,9 @@
     "1": { "default": "Bot Functions" },
     "2": { "default": "Bellow you can enable and disable bot functions." },
     "3": { "default": "Current settings changed!" },
-    "4": { "default": "The bot's ``medal`` function is now enabled." },
-    "5": { "default": "The bot's ``medal`` function is now disabled." },
-    "6": { "default": "The bot's ``leaderboard`` function is now enabled." },
-    "7": { "default": "The bot's ``leaderboard`` function is now disabled." },
-    "8": { "default": "The bot's ``leaderboard refresh button`` is now enabled." },
-    "9": { "default": "The bot's ``leaderboard refresh button`` is now disabled." },
-    "10": { "default": "The bot's ``serverstats`` function is now enabled." },
-    "11": { "default": "The bot's ``serverstats`` function is now disabled." },
-    "12": { "default": "The bot's ``/myweapons`` function is now enabled." },
-    "13": { "default": "The bot's ``/myweapons`` function is now disabled." }
+    "4": { "default": "The bot's {botfunction} function is now enabled." },
+    "5": { "default": "The bot's {botfunction} function is now disabled." }
+
   },
   "botsettings": {
     "1": { "default": "Current Settings" },
@@ -308,9 +236,9 @@
     "5": { "default": "Auto Seed\nweekdays:" },
     "6": { "default": "Auto Seed\nFridays:" },
     "7": { "default": "Auto seed\nWeekends:" },
-    "8": { "default": "Additional changes can be made using the ``/seedsettings set [option]`` command." },
-    "9": { "default": "``Updates`` Will send 1 (one) seed message and update it." },
-    "10": { "default": "``New`` Will send new message at all updates." },
+    "8": { "default": "Additional changes can be made using the {command} command." },
+    "9": { "default": "{option} Will send 1 (one) seed message and update it." },
+    "10": { "default": "{option} Will send new message at all updates." },
     "11": { "default": "Here you find the current settings for **Automatic** seed bot." },
     "12": { "default": "Current seedchannel" },
     "13": { "default": "Auto Delete seed messages" },
@@ -327,7 +255,7 @@
     "24": { "default": "Manual seedbot controller" },
     "25": { "default": "Here you are able to control the seed bot manually, you can start the seeding process here directly." },
     "26": { "default": "Probably because you want to start seeding earlier or at a different time." },
-    "27": { "default": "``Updates`` Will send 1 (one) seed message and update it." },
-    "28": { "default": "``New`` Will send new message at all updates." }
+    "27": { "default": "{option} Will send 1 (one) seed message and update it." },
+    "28": { "default": "{option} Will send new message at all updates." }
   }
 }

@@ -145,248 +145,6 @@
       "translated": ""
     }
   },
-  "leaderboard_kills": {
-    "1": {
-      "default": "Leaderboard kill/death AllTime.",
-      "translated": ""
-    },
-    "2": {
-      "default": "Leaderboard kill/death for the Last 30 days.",
-      "translated": ""
-    },
-    "3": {
-      "default": "Leaderboard kill/death for last week.",
-      "translated": ""
-    },
-    "4": {
-      "default": "Leaderboard kill/death for the last 24h.",
-      "translated": ""
-    },
-    "5": {
-      "default": "TOP 10",
-      "translated": ""
-    },
-    "6": {
-      "default": "Kills",
-      "translated": ""
-    },
-    "7": {
-      "default": "and",
-      "translated": ""
-    },
-    "8": {
-      "default": "deaths",
-      "translated": ""
-    }
-  },
-  "leaderboard_knifekills": {
-    "1": {
-      "default": "Leaderboard",
-      "translated": ""
-    },
-    "2": {
-      "default": "AllTime.",
-      "translated": ""
-    },
-    "3": {
-      "default": "for the Last 30 days.",
-      "translated": ""
-    },
-    "4": {
-      "default": "for last week.",
-      "translated": ""
-    },
-    "5": {
-      "default": "for the last 24h.",
-      "translated": ""
-    },
-    "6": {
-      "default": "TOP 10",
-      "translated": ""
-    }
-  },
-  "leaderboard_wounds": {
-    "1": {
-      "default": "Leaderboard",
-      "translated": ""
-    },
-    "2": {
-      "default": "AllTime.",
-      "translated": ""
-    },
-    "3": {
-      "default": "for the Last 30 days.",
-      "translated": ""
-    },
-    "4": {
-      "default": "for last week.",
-      "translated": ""
-    },
-    "5": {
-      "default": "for the last 24h.",
-      "translated": ""
-    },
-    "6": {
-      "default": "TOP 10",
-      "translated": ""
-    }
-  },
-  "leaderboard_wounded": {
-    "1": {
-      "default": "Leaderboard",
-      "translated": ""
-    },
-    "2": {
-      "default": "AllTime.",
-      "translated": ""
-    },
-    "3": {
-      "default": "for the Last 30 days.",
-      "translated": ""
-    },
-    "4": {
-      "default": "for last week.",
-      "translated": ""
-    },
-    "5": {
-      "default": "for the last 24h.",
-      "translated": ""
-    },
-    "6": {
-      "default": "TOP 10",
-      "translated": ""
-    }
-  },
-  "leaderboard_revives": {
-    "1": {
-      "default": "Leaderboard",
-      "translated": ""
-    },
-    "2": {
-      "default": "AllTime.",
-      "translated": ""
-    },
-    "3": {
-      "default": "for the Last 30 days.",
-      "translated": ""
-    },
-    "4": {
-      "default": "for last week.",
-      "translated": ""
-    },
-    "5": {
-      "default": "for the last 24h.",
-      "translated": ""
-    },
-    "6": {
-      "default": "TOP 10",
-      "translated": ""
-    }
-  },
-  "leaderboard_matches": {
-    "1": {
-      "default": "Leaderboard",
-      "translated": ""
-    },
-    "2": {
-      "default": "AllTime.",
-      "translated": ""
-    },
-    "3": {
-      "default": "for the Last 30 days.",
-      "translated": ""
-    },
-    "4": {
-      "default": "for last week.",
-      "translated": ""
-    },
-    "5": {
-      "default": "for the last 24h.",
-      "translated": ""
-    },
-    "6": {
-      "default": "TOP 10",
-      "translated": ""
-    }
-  },
-  "leaderboard_ratio": {
-    "1": {
-      "default": "Leaderboard",
-      "translated": ""
-    },
-    "2": {
-      "default": "AllTime.",
-      "translated": ""
-    },
-    "3": {
-      "default": "for the Last 30 days.",
-      "translated": ""
-    },
-    "4": {
-      "default": "for last week.",
-      "translated": ""
-    },
-    "5": {
-      "default": "for the last 24h.",
-      "translated": ""
-    },
-    "6": {
-      "default": "TOP 10",
-      "translated": ""
-    }
-  },
-  "leaderboard_teamkills": {
-    "1": {
-      "default": "Leaderboard",
-      "translated": ""
-    },
-    "2": {
-      "default": "AllTime.",
-      "translated": ""
-    },
-    "3": {
-      "default": "for the Last 30 days.",
-      "translated": ""
-    },
-    "4": {
-      "default": "for last week.",
-      "translated": ""
-    },
-    "5": {
-      "default": "for the last 24h.",
-      "translated": ""
-    },
-    "6": {
-      "default": "TOP 10",
-      "translated": ""
-    }
-  },
-  "leaderboard_teamkilled": {
-    "1": {
-      "default": "Leaderboard",
-      "translated": ""
-    },
-    "2": {
-      "default": "AllTime.",
-      "translated": ""
-    },
-    "3": {
-      "default": "for the Last 30 days.",
-      "translated": ""
-    },
-    "4": {
-      "default": "for last week.",
-      "translated": ""
-    },
-    "5": {
-      "default": "for the last 24h.",
-      "translated": ""
-    },
-    "6": {
-      "default": "TOP 10",
-      "translated": ""
-    }
-  },
   "leaderboard_default": {
     "1": {
       "default": "Leaderboard kill/death AllTime.",
@@ -431,7 +189,7 @@
       "translated": ""
     },
     "3": {
-      "default": "Or use ``/linksqstats`` to begin linking your account.",
+      "default": "Or use {command} to begin linking your account.",
       "translated": ""
     },
     "4": {
@@ -439,7 +197,7 @@
       "translated": ""
     },
     "5": {
-      "default": "Use",
+      "default": "Use {command}",
       "translated": ""
     },
     "6": {
@@ -447,7 +205,7 @@
       "translated": ""
     },
     "7": {
-      "default": "Please use ``/linksqstats`` to begin linking your account.",
+      "default": "Please use {command} to begin linking your account.",
       "translated": ""
     }
   },
@@ -457,11 +215,11 @@
       "translated": ""
     },
     "2": {
-      "default": "Please use ``/linksqstats`` to begin linking your account.",
+      "default": "Please use {command} to begin linking your account.",
       "translated": ""
     },
     "3": {
-      "default": "Or use ``/mysqstatsbyid [SteamID]``",
+      "default": "Or use {command}",
       "translated": ""
     },
     "4": {
@@ -473,47 +231,47 @@
       "translated": ""
     },
     "6": {
-      "default": "[Duration]",
+      "default": "{option}",
       "translated": ""
     },
     "7": {
-      "default": "``all``: Return all time stats",
+      "default": "{duration}: Return all time stats",
       "translated": ""
     },
     "8": {
-      "default": "``month``: Return montly stats. (30 days)",
+      "default": "{duration}: Return montly stats. (30 days)",
       "translated": ""
     },
     "9": {
-      "default": "``week``: Return weekly stats. (7 days)",
+      "default": "{duration}: Return weekly stats. (7 days)",
       "translated": ""
     },
     "10": {
-      "default": "``day``: Return daily stats. (24 hour)",
+      "default": "{duration}: Return daily stats. (24 hour)",
       "translated": ""
     },
     "11": {
-      "default": "If no ``[duration]`` option is selected, the default is ``month``.",
+      "default": "If no {option} option is selected, the default is {duration}.",
       "translated": ""
     },
     "12": {
-      "default": "[Seed]",
+      "default": "{option}",
       "translated": ""
     },
     "13": {
-      "default": "``with``: Return stats with seeding data.",
+      "default": "{seedoption}: Return stats with seeding data.",
       "translated": ""
     },
     "14": {
-      "default": "``only``: Return stats with only seeding data.",
+      "default": "{seedoption}: Return stats with only seeding data.",
       "translated": ""
     },
     "15": {
-      "default": "``without``: Return stats without seeding data.",
+      "default": "{seedoption}: Return stats without seeding data.",
       "translated": ""
     },
     "16": {
-      "default": "If no ``[seed]`` option is selected, the default is ``without``.",
+      "default": "If no {option} option is selected, the default is {seedoption}.",
       "translated": ""
     },
     "17": {
@@ -525,7 +283,7 @@
       "translated": ""
     },
     "19": {
-      "default": "Use",
+      "default": "Use {command}",
       "translated": ""
     },
     "20": {
@@ -693,7 +451,7 @@
       "translated": ""
     },
     "7": {
-      "default": "Please use ",
+      "default": "Please use {command}",
       "translated": ""
     },
     "8": {
@@ -711,18 +469,14 @@
       "translated": ""
     },
     "2": {
-      "default": "Unfortunately, the",
+      "default": "Unfortunately, the {command} command cannot be used in a Direct Message to the bot yet.",
       "translated": ""
     },
     "3": {
-      "default": "command cannot be used in a Direct Message to the bot yet.",
-      "translated": ""
-    },
-    "4": {
       "default": "You can use the command in Discord servers that use SquadStats Bot.",
       "translated": ""
     },
-    "5": {
+    "4": {
       "default": "Below are some (random) examples of communities using SquadStats",
       "translated": ""
     }
@@ -969,43 +723,11 @@
       "translated": ""
     },
     "4": {
-      "default": "The bot's ``medal`` function is now enabled.",
+      "default": "The bot's {botfunction} function is now enabled.",
       "translated": ""
     },
     "5": {
-      "default": "The bot's ``medal`` function is now disabled.",
-      "translated": ""
-    },
-    "6": {
-      "default": "The bot's ``leaderboard`` function is now enabled.",
-      "translated": ""
-    },
-    "7": {
-      "default": "The bot's ``leaderboard`` function is now disabled.",
-      "translated": ""
-    },
-    "8": {
-      "default": "The bot's ``leaderboard refresh button`` is now enabled.",
-      "translated": ""
-    },
-    "9": {
-      "default": "The bot's ``leaderboard refresh button`` is now disabled.",
-      "translated": ""
-    },
-    "10": {
-      "default": "The bot's ``serverstats`` function is now enabled.",
-      "translated": ""
-    },
-    "11": {
-      "default": "The bot's ``serverstats`` function is now disabled.",
-      "translated": ""
-    },
-    "12": {
-      "default": "The bot's ``/myweapons`` function is now enabled.",
-      "translated": ""
-    },
-    "13": {
-      "default": "The bot's ``/myweapons`` function is now disabled.",
+      "default": "The bot's {botfunction} function is now disabled.",
       "translated": ""
     }
   },
@@ -1035,7 +757,7 @@
       "translated": ""
     },
     "9": {
-      "default": "``Updates`` Will send 1 (one) seed message and update it.",
+      "default": "{option} Will send 1 (one) seed message and update it.",
       "translated": ""
     },
     "5": {
@@ -1063,11 +785,11 @@
       "translated": ""
     },
     "8": {
-      "default": "Additional changes can be made using the ``/seedsettings set [option]`` command.",
+      "default": "Additional changes can be made using the {command} command.",
       "translated": ""
     },
     "10": {
-      "default": "``New`` Will send new message at all updates.",
+      "default": "{option} Will send new message at all updates.",
       "translated": ""
     },
     "11": {
@@ -1135,11 +857,45 @@
       "translated": ""
     },
     "27": {
-      "default": "``Updates`` Will send 1 (one) seed message and update it.",
+      "default": "{option} Will send 1 (one) seed message and update it.",
       "translated": ""
     },
     "28": {
-      "default": "``New`` Will send new message at all updates.",
+      "default": "{option} Will send new message at all updates.",
+      "translated": ""
+    }
+  },
+  "leaderboard": {
+    "1": {
+      "default": "Leaderboard {leaderboardoption} AllTime.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Leaderboard {leaderboardoption} for the Last 30 days.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Leaderboard {leaderboardoption} for last week.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Leaderboard {leaderboardoption} for the last 24h.",
+      "translated": ""
+    },
+    "5": {
+      "default": "TOP 10",
+      "translated": ""
+    },
+    "6": {
+      "default": "Kills",
+      "translated": ""
+    },
+    "7": {
+      "default": "and",
+      "translated": ""
+    },
+    "8": {
+      "default": "deaths",
       "translated": ""
     }
   }
