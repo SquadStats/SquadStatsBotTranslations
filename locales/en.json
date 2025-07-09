@@ -38,7 +38,7 @@
     "16": { "default": "Top Victim / Top Nemesis" },
     "17": { "default": "Top Revive / Top Revived" },
     "18": { "default": "Want more information on player stats?" },
-    "19": { "default": "Use" }
+    "19": { "default": "Use {command}" }
   },
   "leaderboard_default": {
     "1": { "default": "Leaderboard kill/death AllTime." },

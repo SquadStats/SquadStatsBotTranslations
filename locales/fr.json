@@ -141,7 +141,7 @@
       "translated": ""
     },
     "19": {
-      "default": "Use",
+      "default": "Use {command}",
       "translated": ""
     }
   },
