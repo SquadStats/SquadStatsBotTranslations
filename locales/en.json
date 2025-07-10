@@ -228,8 +228,19 @@
     "2": { "default": "Settings Changed" },
     "3": { "default": "Changed bot setting:" }
   },
-  "help": {
-    "1": { "default": "Instructions on how to use the bot." }
+  "help_serverstatus": {
+    "1": { "default": "Command:\n{command} {commandoption}``" },
+    "2": { "default": "{optionall}: Return all server status information." },
+    "3": { "default": "{optionmap}: Return current map information." },
+    "4": { "default": "{optionnextmap}: Return next map information." },
+    "5": { "default": "{optionplayers}: Return current player amount information." },
+    "6": { "default": "{optiontime}: Return current game duration information." },
+    "7": { "default": "If no {option} is selected, the default is {optionall}." },
+    "8": { "default": "Examples:" },
+    "9": { "default": "{command}: Return all server information." },
+    "10": { "default": "{Command} {optionall}: Return all server information." },
+    "11": { "default": "{Command} {optionmap}: Return current map information." }
+
   },
   "seedcontroller": {
     "1": { "default": "Automatic seed messages settings" },

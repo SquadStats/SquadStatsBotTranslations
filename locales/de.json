@@ -757,12 +757,6 @@
       "translated": ""
     }
   },
-  "help": {
-    "1": {
-      "default": "Instructions on how to use the bot.",
-      "translated": ""
-    }
-  },
   "seedcontroller": {
     "1": {
       "default": "Automatic seed messages settings",
@@ -908,6 +902,52 @@
     },
     "8": {
       "default": "deaths",
+      "translated": ""
+    }
+  },
+  "help_serverstatus": {
+    "1": {
+      "default": "Command:\n{command} {commandoption}``",
+      "translated": ""
+    },
+    "2": {
+      "default": "{optionall}: Return all server status information.",
+      "translated": ""
+    },
+    "3": {
+      "default": "{optionmap}: Return current map information.",
+      "translated": ""
+    },
+    "4": {
+      "default": "{optionnextmap}: Return next map information.",
+      "translated": ""
+    },
+    "5": {
+      "default": "{optionplayers}: Return current player amount information.",
+      "translated": ""
+    },
+    "6": {
+      "default": "{optiontime}: Return current game duration information.",
+      "translated": ""
+    },
+    "7": {
+      "default": "If no {option} is selected, the default is {optionall}.",
+      "translated": ""
+    },
+    "8": {
+      "default": "Examples:",
+      "translated": ""
+    },
+    "9": {
+      "default": "{command}: Return all server information.",
+      "translated": ""
+    },
+    "10": {
+      "default": "{Command} {optionall}: Return all server information.",
+      "translated": ""
+    },
+    "11": {
+      "default": "{Command} {optionmap}: Return current map information.",
       "translated": ""
     }
   }
