@@ -150,7 +150,10 @@
     "4": { "default": "Map:" },
     "5": { "default": "Game mode:" },
     "6": { "default": "Map Duration:" },
-    "7": { "default": "Next map:" }
+    "7": { "default": "Next map:" },
+    "8": { "default": "Current map:" },
+    "9": { "default": "Current Gamemode:" },
+    "10": { "default": "Next map:" }
   },
   "serverstatus_map": {
     "1": { "default": "Current map:" },
