@@ -509,6 +509,18 @@
     "7": {
       "default": "Next map:",
       "translated": ""
+    },
+    "8": {
+      "default": "Current map:",
+      "translated": ""
+    },
+    "9": {
+      "default": "Current Gamemode:",
+      "translated": ""
+    },
+    "10": {
+      "default": "Next map:",
+      "translated": ""
     }
   },
   "serverstatus_map": {
