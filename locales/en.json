@@ -111,7 +111,9 @@
     "39": { "default": "Favorite Map" },
     "40": { "default": "Top Victim / Top Nemesis" },
     "41": { "default": "Top Revive / Top Revived" },
-    "42": { "default": "rank #" }
+    "42": { "default": "rank #" },
+    "43": { "default": "Want more information on player stats?" },
+    "44": { "default": "Use {command}" }
   },
   "linkaccount_warnings": {
     "1": { "default": "Account linking." },

@@ -377,6 +377,14 @@
     "42": {
       "default": "rank #",
       "translated": ""
+    },
+    "43": {
+      "default": "Want more information on player stats?",
+      "translated": ""
+    },
+    "44": {
+      "default": "Use {command}",
+      "translated": ""
     }
   },
   "linkaccount_warnings": {
