@@ -1,8 +1,22 @@
+<div align="center">
+<img src="https://squadstats.nl/media/image/squadstatsnl.png" alt="Logo" width="500"/>
+
+[![Bot Version](https://img.shields.io/badge/Bot_version-1.8.3-green?style=for-the-badge)](#) [![API Version](https://img.shields.io/badge/API_version-1.1.2-green?style=for-the-badge)](#) [![Controller Version](https://img.shields.io/badge/Controller_version-1.0.0-green?style=for-the-badge)](#)
+
+| 🌍 Language | 🧠 Completion & Badge | 🧑‍💻 Contributor(s) | 📄 File |
+|-------------|------------------------|---------------------|---------|
+| 🌐 English (Base) — `en` | <span style='color:limegreen'>[##########] 100.0%</span> ![en](https://img.shields.io/badge/En-100%25-brightgreen?style=flat&labelColor=555) | SquadStats Team | [`en.json`](https://github.com/SquadStats/SquadStatsBotTranslations/blob/beta/locales/en.json) |
+| 🇩🇪 German — `de` | <span style='color:gray'>[----------] 1.6%</span> ![de](https://img.shields.io/badge/De-1%25-lightgrey?style=flat&labelColor=555) | _Open for contributors!_ | [`de.json`](https://github.com/SquadStats/SquadStatsBotTranslations/blob/beta/locales/de.json) |
+| 🇪🇸 Spanish — `es` | <span style='color:gray'>[----------] 0.0%</span> ![es](https://img.shields.io/badge/Es-0%25-lightgrey?style=flat&labelColor=555) | _Open for contributors!_ | [`es.json`](https://github.com/SquadStats/SquadStatsBotTranslations/blob/beta/locales/es.json) |
+| 🇫🇷 French — `fr` | <span style='color:gray'>[----------] 0.0%</span> ![fr](https://img.shields.io/badge/Fr-0%25-lightgrey?style=flat&labelColor=555) | _Open for contributors!_ | [`fr.json`](https://github.com/SquadStats/SquadStatsBotTranslations/blob/beta/locales/fr.json) |
+| 🇵🇹 Portuguese — `pt` | <span style='color:gray'>[----------] 0.0%</span> ![pt](https://img.shields.io/badge/Pt-0%25-lightgrey?style=flat&labelColor=555) | _Open for contributors!_ | [`pt.json`](https://github.com/SquadStats/SquadStatsBotTranslations/blob/beta/locales/pt.json) |
+
+<div align="left">
+  
 # 📘 SquadStatsBot Translations
 This repository contains language files for the **SquadStats Discord Bot**. These files allow the bot to support multiple languages, making it more accessible and user-friendly around the world.
 
 ---
-## 📁 Structure
 
 All translation files are stored in the `locales/` folder.
 
