@@ -28,7 +28,7 @@
   "myweapons": {
     "1": {
       "default": "Squad Top Weapons player stats all-time.",
-      "translated": "Stats des meilleures armes dans Squad - tous les temps."
+      "translated": "Stats des meilleures armes dans Squad - depuis le début."
     },
     "2": {
       "default": "Squad Top Weapons player stats for the Last 30 days.",
@@ -70,7 +70,7 @@
   "serverstats": {
     "1": {
       "default": "Squad server Stats all-time.",
-      "translated": "Stats du serveur Squad - tous les temps."
+      "translated": "Stats du serveur Squad - depuis le début."
     },
     "2": {
       "default": "Squad server Stats for the Last 30 days.",
@@ -148,7 +148,7 @@
   "leaderboard_default": {
     "1": {
       "default": "Leaderboard kill/death AllTime.",
-      "translated": "Classement frags/morts (K/D)- tous les temps."
+      "translated": "Classement frags/morts (K/D)- depuis le début."
     },
     "2": {
       "default": "Leaderboard kill/death for the Last 30 days.",
@@ -288,7 +288,7 @@
     },
     "20": {
       "default": "Squad Player Stats all-time.",
-      "translated": "Stats des joueurs Squad - tous les temps."
+      "translated": "Stats des joueurs Squad - depuis le début."
     },
     "21": {
       "default": "Squad Player Stats for the last 30 days.",
@@ -874,7 +874,7 @@
   "leaderboard": {
     "1": {
       "default": "Leaderboard {leaderboardoption} AllTime.",
-      "translated": "Classement {leaderboardoption} - tous les temps."
+      "translated": "Classement {leaderboardoption} - depuis le début."
     },
     "2": {
       "default": "Leaderboard {leaderboardoption} for the Last 30 days.",
@@ -949,6 +949,80 @@
     "11": {
       "default": "{Command} {optionmap}: Return current map information.",
       "translated": "{Command} {optionmap} : Affiche les informations de la carte actuelle."
+    }
+  },
+  "help_statsbot": {
+    "1": {
+      "default": "Instructions sur l'utilisation du bot pour les statistiques des joueurs.",
+      "translated": "Instructions sur l'utilisation du bot pour les statistiques des joueurs."
+    },
+    "2": {
+      "default": "Below you will find information on how to use the Statsbot.",
+      "translated": "Tu trouvera ci-dessous les instructions pour utiliser le Statsbot."
+    },
+    "3": {
+      "default": "You also find a list with all the available options.",
+      "translated": "Tu trouveras également une liste de toutes les options disponibles."
+    },
+    "4": {
+      "default": "Command:\n{command} {commandoption1} {commandoption2}``",
+      "translated": "Commande:\n{command} {commandoption1} {commandoption2}``"
+    },
+    "5": {
+      "default": "Return Player stats information",
+      "translated": "Renvoie les informations de statistiques d’un joueur"
+    },
+    "6": {
+      "default": "Return Player by id stats information",
+      "translated": "Renvoie les infos de stats d’un joueur en utilisant son identifiant"
+    },
+    "7": {
+      "default": "Return Player weapon stats information",
+      "translated": "Affiche les statistiques d’un joueur concernant ses armes"
+    },
+    "8": {
+      "default": "Return server stats information",
+      "translated": "Affiche les informations de statistiques du serveur"
+    },
+    "9": {
+      "default": "Return Player Top 10 player information",
+      "translated": "Affiche le top 10 des joueurs avec leurs stats"
+    },
+    "10": {
+      "default": "{duration}: Return all time stats",
+      "translated": "{duration}: Affiche les statistiques globales depuis le début"
+    },
+    "11": {
+      "default": "{duration}: Return montly stats. (30 days)",
+      "translated": "{duration}: Affiche les statistiques mensuelle (30 derniers jours)"
+    },
+    "12": {
+      "default": "{duration}: Return weekly stats. (7 days)",
+      "translated": "{duration}: Affiche les statistiques de la semaine (7 derniers jours)."
+    },
+    "13": {
+      "default": "{duration}: Return daily stats. (24 hour)",
+      "translated": "{duration}: Affiche les statistiques des dernières 24 heures."
+    },
+    "14": {
+      "default": "If no {option} option is selected, the default is {duration}.",
+      "translated": "Si aucune option {option} n’est sélectionnée, la durée par défaut est {duration}."
+    },
+    "15": {
+      "default": "{seedoption}: Return stats with seeding data.",
+      "translated": "seedoption}: Affiche les statistiques en incluant les données de seeding."
+    },
+    "16": {
+      "default": "{seedoption}: Return stats with only seeding data.",
+      "translated": "{seedoption} : Affiche uniquement les statistiques pendant le seeding."
+    },
+    "17": {
+      "default": "{seedoption}: Return stats without seeding data.",
+      "translated": "{seedoption} : Affiche les stats en excluant le seeding."
+    },
+    "18": {
+      "default": "If no {option} option is selected, the default is {seedoption}.",
+      "translated": "Sans option {option} sélectionné, c’est {seedoption} qui est utilisé par défaut."
     }
   }
 }
