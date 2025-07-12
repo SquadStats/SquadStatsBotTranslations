@@ -961,7 +961,7 @@
   },
   "help_statsbot": {
     "1": {
-      "default": "Instructions sur l'utilisation du bot pour les statistiques des joueurs.",
+      "default": "Instructions on how to use the bot for playerstats.",
       "translated": "Instructions sur l'utilisation du bot pour les statistiques des joueurs."
     },
     "2": {
