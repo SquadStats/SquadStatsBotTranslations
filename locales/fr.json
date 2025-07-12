@@ -344,11 +344,11 @@
     },
     "34": {
       "default": "Times Teamkilled",
-      "translated": "Fois tué par un allié"
+      "translated": "Nombre de fois où tu as été tué par un coéquipier"
     },
     "35": {
       "default": "Total Revived",
-      "translated": "Nombre de fois réanimé"
+      "translated": "Nombre total de fois réanimé"
     },
     "36": {
       "default": "Vehicle kills",
