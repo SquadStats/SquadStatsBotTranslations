@@ -8,7 +8,7 @@
 | 🌐 English (Base) — `en` | <span style='color:limegreen'>[##########] 100.0%</span> ![en](https://img.shields.io/badge/En-100%25-brightgreen?style=flat&labelColor=555) | SquadStats Team | [`en.json`](https://github.com/SquadStats/SquadStatsBotTranslations/blob/beta/locales/en.json) |
 | 🇩🇪 German — `de` | <span style='color:gray'>[----------] 1.6%</span> ![de](https://img.shields.io/badge/De-1%25-lightgrey?style=flat&labelColor=555) | _Open for contributors!_ | [`de.json`](https://github.com/SquadStats/SquadStatsBotTranslations/blob/beta/locales/de.json) |
 | 🇪🇸 Spanish — `es` | <span style='color:gray'>[----------] 0.0%</span> ![es](https://img.shields.io/badge/Es-0%25-lightgrey?style=flat&labelColor=555) | _Open for contributors!_ | [`es.json`](https://github.com/SquadStats/SquadStatsBotTranslations/blob/beta/locales/es.json) |
-| 🇫🇷 French — `fr` | <span style='color:gray'>[----------] 0.0%</span> ![fr](https://img.shields.io/badge/Fr-0%25-lightgrey?style=flat&labelColor=555) | _Open for contributors!_ | [`fr.json`](https://github.com/SquadStats/SquadStatsBotTranslations/blob/beta/locales/fr.json) |
+| 🇫🇷 French — `fr` | <span style='color:limegreen'>[##########] 100.0%</span> ![fr](https://img.shields.io/badge/Fr-100%25-brightgreen?style=flat&labelColor=555) | [@H4wKs](https://github.com/H4wKs) | [`fr.json`](https://github.com/SquadStats/SquadStatsBotTranslations/blob/beta/locales/fr.json) |
 | 🇵🇹 Portuguese — `pt` | <span style='color:gray'>[----------] 0.0%</span> ![pt](https://img.shields.io/badge/Pt-0%25-lightgrey?style=flat&labelColor=555) | _Open for contributors!_ | [`pt.json`](https://github.com/SquadStats/SquadStatsBotTranslations/blob/beta/locales/pt.json) |
 
 <div align="left">
