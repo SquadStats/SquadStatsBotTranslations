@@ -385,6 +385,46 @@
     "44": {
       "default": "Use {command}",
       "translated": ""
+    },
+    "45": {
+      "default": "Unknown",
+      "translated": ""
+    },
+    "46": {
+      "default": "is killed {counter} times",
+      "translated": ""
+    },
+    "47": {
+      "default": "is killed by",
+      "translated": ""
+    },
+    "48": {
+      "default": "times",
+      "translated": ""
+    },
+    "49": {
+      "default": "is revived {counter} times",
+      "translated": ""
+    },
+    "50": {
+      "default": "nobody revived",
+      "translated": ""
+    },
+    "51": {
+      "default": "is revived by",
+      "translated": ""
+    },
+    "52": {
+      "default": "times",
+      "translated": ""
+    },
+    "53": {
+      "default": "is not revived.",
+      "translated": ""
+    },
+    "54": {
+      "default": "Unknown",
+      "translated": ""
     }
   },
   "linkaccount_warnings": {
