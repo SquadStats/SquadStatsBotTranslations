@@ -157,11 +157,11 @@
       "translated": ""
     },
     "24": {
-      "default": "is revived {counter} times",
+      "default": "revived {counter} players",
       "translated": ""
     },
-    "25": {
-      "default": "revived {counter} players",
+    "23": {
+      "default": "is revived {counter} times",
       "translated": ""
     }
   },
