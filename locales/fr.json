@@ -143,6 +143,26 @@
     "19": {
       "default": "Use {command}",
       "translated": "Utilise {command}"
+    },
+    "20": {
+      "default": "Unknown",
+      "translated": ""
+    },
+    "21": {
+      "default": "is killed {counter} times",
+      "translated": ""
+    },
+    "22": {
+      "default": "killed {counter} players",
+      "translated": ""
+    },
+    "24": {
+      "default": "is revived {counter} times",
+      "translated": ""
+    },
+    "25": {
+      "default": "revived {counter} players",
+      "translated": ""
     }
   },
   "leaderboard_default": {
