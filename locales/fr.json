@@ -1096,75 +1096,75 @@
   "medals": {
     "1": {
       "default": "Player qualified for a medal!!",
-      "translated": ""
+      "translated": "Le joueur a obtenu une médaille !!"
     },
     "2": {
       "default": "You qualified for a {medal} medal {user}!!",
-      "translated": ""
+      "translated": "Tu as obtenu la médaille {medal} {user} !!"
     },
     "3": {
       "default": "You can claim the role/medal by using the command {command} in {channel}",
-      "translated": ""
+      "translated": "Tu peux réclamer le rôle/la médaille en utilisant la commande {command} dans {channel}"
     },
     "4": {
       "default": "This also give you access to the {channel} channel.",
-      "translated": ""
+      "translated": "Cela te donne aussi accès au salon {channel}."
     },
     "5": {
       "default": "You have earned a medal!",
-      "translated": ""
+      "translated": "Tu as gagné une médaille !"
     },
     "6": {
       "default": "Congratulations {player}!!",
-      "translated": ""
+      "translated": "Félicitations {player} !!"
     },
     "7": {
       "default": "You have received the {medal} medal.",
-      "translated": ""
+      "translated": "Tu as reçu la médaille {medal}."
     },
     "8": {
       "default": "You will keep the medal at least till {time}",
-      "translated": ""
+      "translated": "Tu conserveras cette médaille au moins jusqu’au {time}"
     },
     "9": {
       "default": "This also give you access to the {channel} channel.",
-      "translated": ""
+      "translated": "Cela te donne aussi accès au salon {channel}."
     },
     "10": {
       "default": "An medal is earned!",
-      "translated": ""
+      "translated": "Une médaille a été obtenue !"
     },
     "11": {
       "default": "Congratulations to {player}!!",
-      "translated": ""
+      "translated": "Félicitations à {player} !!"
     },
     "12": {
       "default": "This player have received the {medal} medal.",
-      "translated": ""
+      "translated": "Ce joueur a reçu la médaille {medal}."
     },
     "13": {
       "default": "And will keep the medal at least till {time}",
-      "translated": ""
+      "translated": "Et il la gardera au moins jusqu’au {time}"
     },
     "14": {
       "default": "This also give you access to the {channel} channel.",
-      "translated": ""
+      "translated": "Cela te donne aussi accès au salon {channel}."
     },
     "15": {
       "default": "Congratulations {player}!!",
-      "translated": ""
+      "translated": "Félicitations {player} !!"
     },
     "16": {
       "default": "Medal claim has expired!!",
-      "translated": ""
+      "translated": "La réclamation de la médaille a expiré !!"
     },
     "17": {
       "default": "The claim on your {medal} medal has expired {user}.",
-      "translated": ""
+      "translated": "La réclamation de ta médaille {medal} a expiré {user}."
     },
     "18": {
       "default": "You can reclaim the role/medal by using the command {command} in {channel}",
-      "translated": ""
+      "translated": "Tu peux récupérer le rôle/la médaille en utilisant la commande {command} dans {channel}"
     }
   }
 }
