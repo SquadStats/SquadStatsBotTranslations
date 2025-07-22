@@ -1166,5 +1166,111 @@
       "default": "You can reclaim the role/medal by using the command {command} in {channel}",
       "translated": ""
     }
+  },
+  "seedbot": {
+    "1": {
+      "default": "We started Seeding! Come help us!",
+      "translated": ""
+    }
+  },
+  "help_mysqstats": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_mysqstatsbyid": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_linksqstats": {
+    "1": {
+      "default": "Instructions on how to link the statsbot.",
+      "translated": ""
+    }
+  },
+  "help_myweapons": {
+    "1": {
+      "default": "Instructions on how to use the bot",
+      "translated": ""
+    }
+  },
+  "help_serverstats": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_leaderboard": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_setupbot": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_botsettings": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_seedsettings": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_seedcontroller": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_silentcontroller": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_seedbot": {
+    "1": {
+      "default": "Automatic seed messages help",
+      "translated": ""
+    }
+  },
+  "help_errors": {
+    "1": {
+      "default": "Error using the help command.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Please use only one of the two options for the help command.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Only {botoption} or {commandoption}.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Or select the help subject below.",
+      "translated": ""
+    }
+  },
+  "disabled_function": {
+    "1": {
+      "default": "This function is disabled by this community.",
+      "translated": ""
+    },
+    "2": {
+      "default": "For more information ask an admin, they have the option of activating this function if they wish.",
+      "translated": ""
+    }
   }
 }
