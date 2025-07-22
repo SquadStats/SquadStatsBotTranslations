@@ -1,0 +1,1276 @@
+{
+  "player_found": {
+    "1": {
+      "default": "Players Info",
+      "translated": ""
+    },
+    "2": {
+      "default": "Found in Game Name:",
+      "translated": ""
+    },
+    "3": {
+      "default": "First seen:",
+      "translated": ""
+    },
+    "4": {
+      "default": "Last seen:",
+      "translated": ""
+    },
+    "5": {
+      "default": "Steam ID:",
+      "translated": ""
+    },
+    "6": {
+      "default": "Eos ID:",
+      "translated": ""
+    }
+  },
+  "myweapons": {
+    "1": {
+      "default": "Squad Top Weapons player stats all-time.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Squad Top Weapons player stats for the Last 30 days.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Squad Top Weapons player stats for the Last 7 days.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Squad Top Weapons player stats for the Last 24 hours.",
+      "translated": ""
+    },
+    "5": {
+      "default": "TOP WEAPONS",
+      "translated": ""
+    },
+    "6": {
+      "default": "Weapon Kills",
+      "translated": ""
+    },
+    "7": {
+      "default": "Weapon:",
+      "translated": ""
+    },
+    "8": {
+      "default": "Total of",
+      "translated": ""
+    },
+    "9": {
+      "default": "Kills",
+      "translated": ""
+    },
+    "10": {
+      "default": "Weapon Deaths:",
+      "translated": ""
+    }
+  },
+  "serverstats": {
+    "1": {
+      "default": "Squad server Stats all-time.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Squad server Stats for the Last 30 days.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Squad server Stats for the Last 7 days.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Squad server Stats for the Last 24h.",
+      "translated": ""
+    },
+    "5": {
+      "default": "Server kill Stats",
+      "translated": ""
+    },
+    "6": {
+      "default": "Total Kills",
+      "translated": ""
+    },
+    "7": {
+      "default": "Total Deaths",
+      "translated": ""
+    },
+    "8": {
+      "default": "Total Wounds",
+      "translated": ""
+    },
+    "9": {
+      "default": "Teamplayer Stats",
+      "translated": ""
+    },
+    "10": {
+      "default": "Teamkills",
+      "translated": ""
+    },
+    "11": {
+      "default": "Total Revives",
+      "translated": ""
+    },
+    "12": {
+      "default": "Knifekills",
+      "translated": ""
+    },
+    "13": {
+      "default": "Favorites",
+      "translated": ""
+    },
+    "14": {
+      "default": "Favorite Weapon",
+      "translated": ""
+    },
+    "15": {
+      "default": "Favorite Map",
+      "translated": ""
+    },
+    "16": {
+      "default": "Top Victim / Top Nemesis",
+      "translated": ""
+    },
+    "17": {
+      "default": "Top Revive / Top Revived",
+      "translated": ""
+    },
+    "18": {
+      "default": "Want more information on player stats?",
+      "translated": ""
+    },
+    "19": {
+      "default": "Use {command}",
+      "translated": ""
+    },
+    "20": {
+      "default": "Unknown",
+      "translated": ""
+    },
+    "21": {
+      "default": "is killed {counter} times",
+      "translated": ""
+    },
+    "22": {
+      "default": "killed {counter} players",
+      "translated": ""
+    },
+    "23": {
+      "default": "is revived {counter} times",
+      "translated": ""
+    },
+    "24": {
+      "default": "revived {counter} players",
+      "translated": ""
+    }
+  },
+  "leaderboard_default": {
+    "1": {
+      "default": "Leaderboard kill/death AllTime.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Leaderboard kill/death for the Last 30 days.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Leaderboard kill/death for last week.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Leaderboard kill/death for the last 24h.",
+      "translated": ""
+    },
+    "5": {
+      "default": "TOP 10",
+      "translated": ""
+    },
+    "6": {
+      "default": "Kills",
+      "translated": ""
+    },
+    "7": {
+      "default": "and",
+      "translated": ""
+    },
+    "8": {
+      "default": "deaths",
+      "translated": ""
+    }
+  },
+  "leaderboard": {
+    "1": {
+      "default": "Leaderboard {leaderboardoption} AllTime.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Leaderboard {leaderboardoption} for the Last 30 days.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Leaderboard {leaderboardoption} for last week.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Leaderboard {leaderboardoption} for the last 24h.",
+      "translated": ""
+    },
+    "5": {
+      "default": "TOP 10",
+      "translated": ""
+    },
+    "6": {
+      "default": "Kills",
+      "translated": ""
+    },
+    "7": {
+      "default": "and",
+      "translated": ""
+    },
+    "8": {
+      "default": "deaths",
+      "translated": ""
+    }
+  },
+  "mysqstatsbyid": {
+    "1": {
+      "default": "The value is not an SteamID.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Please make sure you use the SteamID64.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Or use {command} to begin linking your account.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Want more information on player stats?",
+      "translated": ""
+    },
+    "5": {
+      "default": "Use {command}",
+      "translated": ""
+    },
+    "6": {
+      "default": "No user data found for the specific SteamID.",
+      "translated": ""
+    },
+    "7": {
+      "default": "Please use {command} to begin linking your account.",
+      "translated": ""
+    }
+  },
+  "mysqstats": {
+    "1": {
+      "default": "Your Discord Account is not linked to an In Game Account.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Please use {command} to begin linking your account.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Or use {command}",
+      "translated": ""
+    },
+    "4": {
+      "default": "Command:",
+      "translated": ""
+    },
+    "5": {
+      "default": "Want more information on player stats?",
+      "translated": ""
+    },
+    "6": {
+      "default": "{option}",
+      "translated": ""
+    },
+    "7": {
+      "default": "{duration}: Return all time stats",
+      "translated": ""
+    },
+    "8": {
+      "default": "{duration}: Return montly stats. (30 days)",
+      "translated": ""
+    },
+    "9": {
+      "default": "{duration}: Return weekly stats. (7 days)",
+      "translated": ""
+    },
+    "10": {
+      "default": "{duration}: Return daily stats. (24 hour)",
+      "translated": ""
+    },
+    "11": {
+      "default": "If no {option} option is selected, the default is {duration}.",
+      "translated": ""
+    },
+    "12": {
+      "default": "{option}",
+      "translated": ""
+    },
+    "13": {
+      "default": "{seedoption}: Return stats with seeding data.",
+      "translated": ""
+    },
+    "14": {
+      "default": "{seedoption}: Return stats with only seeding data.",
+      "translated": ""
+    },
+    "15": {
+      "default": "{seedoption}: Return stats without seeding data.",
+      "translated": ""
+    },
+    "16": {
+      "default": "If no {option} option is selected, the default is {seedoption}.",
+      "translated": ""
+    },
+    "17": {
+      "default": "Example:",
+      "translated": ""
+    },
+    "18": {
+      "default": "Return all stats with seed data",
+      "translated": ""
+    },
+    "19": {
+      "default": "Use {command}",
+      "translated": ""
+    },
+    "20": {
+      "default": "Squad Player Stats all-time.",
+      "translated": ""
+    },
+    "21": {
+      "default": "Squad Player Stats for the last 30 days.",
+      "translated": ""
+    },
+    "22": {
+      "default": "Squad Player Stats for the last 7 days.",
+      "translated": ""
+    },
+    "23": {
+      "default": "Squad Player Stats for the last 24 hours.",
+      "translated": ""
+    },
+    "24": {
+      "default": "Players Stats",
+      "translated": ""
+    },
+    "25": {
+      "default": "Total Kills",
+      "translated": ""
+    },
+    "26": {
+      "default": "Total Deaths",
+      "translated": ""
+    },
+    "27": {
+      "default": "K/D Ratio",
+      "translated": ""
+    },
+    "28": {
+      "default": "Total Wounds",
+      "translated": ""
+    },
+    "29": {
+      "default": "Total Wounded",
+      "translated": ""
+    },
+    "30": {
+      "default": "Games",
+      "translated": ""
+    },
+    "31": {
+      "default": "Teamkills",
+      "translated": ""
+    },
+    "32": {
+      "default": "Total Revives",
+      "translated": ""
+    },
+    "33": {
+      "default": "Knifekills",
+      "translated": ""
+    },
+    "34": {
+      "default": "Times Teamkilled",
+      "translated": ""
+    },
+    "35": {
+      "default": "Total Revived",
+      "translated": ""
+    },
+    "36": {
+      "default": "Vehicle kills",
+      "translated": ""
+    },
+    "37": {
+      "default": "Favorites",
+      "translated": ""
+    },
+    "38": {
+      "default": "Favorite Weapon",
+      "translated": ""
+    },
+    "39": {
+      "default": "Favorite Map",
+      "translated": ""
+    },
+    "40": {
+      "default": "Top Victim / Top Nemesis",
+      "translated": ""
+    },
+    "41": {
+      "default": "Top Revive / Top Revived",
+      "translated": ""
+    },
+    "42": {
+      "default": "rank #",
+      "translated": ""
+    },
+    "43": {
+      "default": "Want more information on player stats?",
+      "translated": ""
+    },
+    "44": {
+      "default": "Use {command}",
+      "translated": ""
+    },
+    "45": {
+      "default": "Unknown",
+      "translated": ""
+    },
+    "46": {
+      "default": "is killed {counter} times",
+      "translated": ""
+    },
+    "47": {
+      "default": "is killed by",
+      "translated": ""
+    },
+    "48": {
+      "default": "times",
+      "translated": ""
+    },
+    "49": {
+      "default": "is revived {counter} times",
+      "translated": ""
+    },
+    "50": {
+      "default": "nobody revived",
+      "translated": ""
+    },
+    "51": {
+      "default": "is revived by",
+      "translated": ""
+    },
+    "52": {
+      "default": "times",
+      "translated": ""
+    },
+    "53": {
+      "default": "is not revived.",
+      "translated": ""
+    },
+    "54": {
+      "default": "Unknown",
+      "translated": ""
+    }
+  },
+  "linkaccount_warnings": {
+    "1": {
+      "default": "Account linking.",
+      "translated": ""
+    },
+    "2": {
+      "default": "This account is not allowed to link.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Please contact an admin if support is needed.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Banned acount trying to link account",
+      "translated": ""
+    },
+    "5": {
+      "default": "An on SquadStats banned account have tried to link their account.",
+      "translated": ""
+    },
+    "6": {
+      "default": "Name:",
+      "translated": ""
+    },
+    "7": {
+      "default": "SteamID:",
+      "translated": ""
+    },
+    "8": {
+      "default": "DiscordID:",
+      "translated": ""
+    },
+    "9": {
+      "default": "Last IP:",
+      "translated": ""
+    },
+    "10": {
+      "default": "Banned:",
+      "translated": ""
+    },
+    "11": {
+      "default": "Reason:",
+      "translated": ""
+    }
+  },
+  "linkaccount": {
+    "1": {
+      "default": "Account linking.",
+      "translated": ""
+    },
+    "2": {
+      "default": "You already linked your account in an other community.",
+      "translated": ""
+    },
+    "3": {
+      "default": "AutoLink completed.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Your account is now also linked for this community",
+      "translated": ""
+    },
+    "5": {
+      "default": "Your linking code is:",
+      "translated": ""
+    },
+    "6": {
+      "default": "How to link?",
+      "translated": ""
+    },
+    "7": {
+      "default": "Please use {command}",
+      "translated": ""
+    },
+    "8": {
+      "default": "in-game to link your account.",
+      "translated": ""
+    },
+    "9": {
+      "default": "This code is valid for 48 hours",
+      "translated": ""
+    }
+  },
+  "linkaccountdirectmessage": {
+    "1": {
+      "default": "Thank you for using the SquadStats Bot!",
+      "translated": ""
+    },
+    "2": {
+      "default": "Unfortunately, the {command} command cannot be used in a Direct Message to the bot yet.",
+      "translated": ""
+    },
+    "3": {
+      "default": "You can use the command in Discord servers that use SquadStats Bot.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Below are some (random) examples of communities using SquadStats",
+      "translated": ""
+    }
+  },
+  "serverstatus": {
+    "1": {
+      "default": "Online Players:",
+      "translated": ""
+    },
+    "2": {
+      "default": "In queue:",
+      "translated": ""
+    },
+    "3": {
+      "default": "Max players:",
+      "translated": ""
+    },
+    "4": {
+      "default": "Map:",
+      "translated": ""
+    },
+    "5": {
+      "default": "Game mode:",
+      "translated": ""
+    },
+    "6": {
+      "default": "Map Duration:",
+      "translated": ""
+    },
+    "7": {
+      "default": "Next map:",
+      "translated": ""
+    },
+    "8": {
+      "default": "Current map:",
+      "translated": ""
+    },
+    "9": {
+      "default": "Current Gamemode:",
+      "translated": ""
+    },
+    "10": {
+      "default": "Next map:",
+      "translated": ""
+    }
+  },
+  "serverstatus_map": {
+    "1": {
+      "default": "Current map:",
+      "translated": ""
+    },
+    "2": {
+      "default": "Current Gamemode:",
+      "translated": ""
+    },
+    "3": {
+      "default": "Next map:",
+      "translated": ""
+    }
+  },
+  "serverstatus_player": {
+    "1": {
+      "default": "Online Players:",
+      "translated": ""
+    },
+    "2": {
+      "default": "In queue:",
+      "translated": ""
+    },
+    "3": {
+      "default": "Max players",
+      "translated": ""
+    }
+  },
+  "serverstatus_time": {
+    "1": {
+      "default": "Map Duration:",
+      "translated": ""
+    }
+  },
+  "serverstatus_nextmap": {
+    "1": {
+      "default": "Next Map:",
+      "translated": ""
+    }
+  },
+  "silentcontroller": {
+    "1": {
+      "default": "Control silent serverinformation messages",
+      "translated": ""
+    },
+    "2": {
+      "default": "Send server information.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Select option below.",
+      "translated": ""
+    },
+    "4": {
+      "default": "It will generate messages sended from the bot.",
+      "translated": ""
+    }
+  },
+  "medalsettings": {
+    "1": {
+      "default": "Here you will find the current Medal settings.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Current Settings:",
+      "translated": ""
+    },
+    "3": {
+      "default": "Roles Regular:",
+      "translated": ""
+    },
+    "4": {
+      "default": "Roles Seed:",
+      "translated": ""
+    },
+    "5": {
+      "default": "Settings Changed",
+      "translated": ""
+    },
+    "6": {
+      "default": "Changed medal setting:",
+      "translated": ""
+    },
+    "7": {
+      "default": "Are you sure?!",
+      "translated": ""
+    },
+    "8": {
+      "default": "Please confirm your action below.",
+      "translated": ""
+    },
+    "9": {
+      "default": "Press yes if you want the bot to create all the needed roles for the medal function.",
+      "translated": ""
+    },
+    "10": {
+      "default": "It also will set the roleID's in medalsettings.",
+      "translated": ""
+    },
+    "11": {
+      "default": "Creating medals.",
+      "translated": ""
+    },
+    "12": {
+      "default": "The bot started creating the needed roles for the bots medalfunction.",
+      "translated": ""
+    },
+    "13": {
+      "default": "It also will set the roleID's in medalsettings.",
+      "translated": ""
+    },
+    "14": {
+      "default": "Check the current settings by clicking on the button bellow.",
+      "translated": ""
+    },
+    "15": {
+      "default": "Sometimes the bot isnt able to create all roles at once, if that is the case, please retry.",
+      "translated": ""
+    },
+    "16": {
+      "default": "Missing permissions",
+      "translated": ""
+    },
+    "17": {
+      "default": "The bot is missing permissions to create new roles.",
+      "translated": ""
+    },
+    "18": {
+      "default": "Please check the permissions in discord.",
+      "translated": ""
+    },
+    "19": {
+      "default": "Needed permission is ``Manage Roles``",
+      "translated": ""
+    }
+  },
+  "seedsettings": {
+    "1": {
+      "default": "Seed Settings Changed",
+      "translated": ""
+    },
+    "2": {
+      "default": "Changed setting:",
+      "translated": ""
+    },
+    "3": {
+      "default": "Automatic seed messages settings",
+      "translated": ""
+    },
+    "4": {
+      "default": "Here you find the current settings for **Automatic** seed bot.",
+      "translated": ""
+    },
+    "5": {
+      "default": "Auto Seed\nweekdays:",
+      "translated": ""
+    },
+    "6": {
+      "default": "Auto Seed\nFridays:",
+      "translated": ""
+    },
+    "7": {
+      "default": "Auto seed\nWeekends:",
+      "translated": ""
+    },
+    "8": {
+      "default": "Current seedchannel:",
+      "translated": ""
+    },
+    "9": {
+      "default": "Current ping groups:",
+      "translated": ""
+    },
+    "10": {
+      "default": "Automatic seed messages time",
+      "translated": ""
+    },
+    "11": {
+      "default": "Specified **Week** Time value is an incorrect time format.",
+      "translated": ""
+    },
+    "12": {
+      "default": "Please use ``HH:mm`` Ex. ``14:30``",
+      "translated": ""
+    },
+    "13": {
+      "default": "The timesetting is not changed.",
+      "translated": ""
+    },
+    "14": {
+      "default": "Specified **Friday** Time value is an incorrect time format.",
+      "translated": ""
+    },
+    "15": {
+      "default": "Specified **Weekend** Time value is an incorrect time format.",
+      "translated": ""
+    }
+  },
+  "botfunctions": {
+    "1": {
+      "default": "Bot Functions",
+      "translated": ""
+    },
+    "2": {
+      "default": "Bellow you can enable and disable bot functions.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Current settings changed!",
+      "translated": ""
+    },
+    "4": {
+      "default": "The bot's {botfunction} function is now enabled.",
+      "translated": ""
+    },
+    "5": {
+      "default": "The bot's {botfunction} function is now disabled.",
+      "translated": ""
+    }
+  },
+  "botsettings": {
+    "1": {
+      "default": "Current Settings",
+      "translated": ""
+    },
+    "2": {
+      "default": "Settings Changed",
+      "translated": ""
+    },
+    "3": {
+      "default": "Changed bot setting:",
+      "translated": ""
+    }
+  },
+  "seedcontroller": {
+    "1": {
+      "default": "Automatic seed messages settings",
+      "translated": ""
+    },
+    "2": {
+      "default": "Current settings for **Automatic** seed messages.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Here you can turn the automatic seed messages on or off.",
+      "translated": ""
+    },
+    "4": {
+      "default": "The bot will start sending messages on the set time.",
+      "translated": ""
+    },
+    "5": {
+      "default": "Auto Seed\nweekdays:",
+      "translated": ""
+    },
+    "6": {
+      "default": "Auto Seed\nFridays:",
+      "translated": ""
+    },
+    "7": {
+      "default": "Auto seed\nWeekends:",
+      "translated": ""
+    },
+    "8": {
+      "default": "Additional changes can be made using the {command} command.",
+      "translated": ""
+    },
+    "9": {
+      "default": "{option} Will send 1 (one) seed message and update it.",
+      "translated": ""
+    },
+    "10": {
+      "default": "{option} Will send new message at all updates.",
+      "translated": ""
+    },
+    "11": {
+      "default": "Here you find the current settings for **Automatic** seed bot.",
+      "translated": ""
+    },
+    "12": {
+      "default": "Current seedchannel",
+      "translated": ""
+    },
+    "13": {
+      "default": "Auto Delete seed messages",
+      "translated": ""
+    },
+    "14": {
+      "default": "Automatic seed messages has turned On",
+      "translated": ""
+    },
+    "15": {
+      "default": "Automatic seed messages has turned Off",
+      "translated": ""
+    },
+    "16": {
+      "default": "Automatic seed messages controller",
+      "translated": ""
+    },
+    "17": {
+      "default": "Control the Automatic seed messages",
+      "translated": ""
+    },
+    "18": {
+      "default": "Seed bot started",
+      "translated": ""
+    },
+    "19": {
+      "default": "It will generate messages until match is live",
+      "translated": ""
+    },
+    "20": {
+      "default": "Seed bot stopped",
+      "translated": ""
+    },
+    "21": {
+      "default": "The seed bot stopped generating messages",
+      "translated": ""
+    },
+    "22": {
+      "default": "Seed bot deleted all messages.",
+      "translated": ""
+    },
+    "23": {
+      "default": "The seed bot cleared the seeding channel.",
+      "translated": ""
+    },
+    "24": {
+      "default": "Manual seedbot controller",
+      "translated": ""
+    },
+    "25": {
+      "default": "Here you are able to control the seed bot manually, you can start the seeding process here directly.",
+      "translated": ""
+    },
+    "26": {
+      "default": "Probably because you want to start seeding earlier or at a different time.",
+      "translated": ""
+    },
+    "27": {
+      "default": "{option} Will send 1 (one) seed message and update it.",
+      "translated": ""
+    },
+    "28": {
+      "default": "{option} Will send new message at all updates.",
+      "translated": ""
+    }
+  },
+  "medals": {
+    "1": {
+      "default": "Player qualified for a medal!!",
+      "translated": ""
+    },
+    "2": {
+      "default": "You qualified for a {medal} medal {user}!!",
+      "translated": ""
+    },
+    "3": {
+      "default": "You can claim the role/medal by using the command {command} in {channel}",
+      "translated": ""
+    },
+    "4": {
+      "default": "This also give you access to the {channel} channel.",
+      "translated": ""
+    },
+    "5": {
+      "default": "You have earned a medal!",
+      "translated": ""
+    },
+    "6": {
+      "default": "Congratulations {player}!!",
+      "translated": ""
+    },
+    "7": {
+      "default": "You have received the {medal} medal.",
+      "translated": ""
+    },
+    "8": {
+      "default": "You will keep the medal at least till {time}",
+      "translated": ""
+    },
+    "9": {
+      "default": "This also give you access to the {channel} channel.",
+      "translated": ""
+    },
+    "10": {
+      "default": "An medal is earned!",
+      "translated": ""
+    },
+    "11": {
+      "default": "Congratulations to {player}!!",
+      "translated": ""
+    },
+    "12": {
+      "default": "This player have received the {medal} medal.",
+      "translated": ""
+    },
+    "13": {
+      "default": "And will keep the medal at least till {time}",
+      "translated": ""
+    },
+    "14": {
+      "default": "This also give you access to the {channel} channel.",
+      "translated": ""
+    },
+    "15": {
+      "default": "Congratulations {player}!!",
+      "translated": ""
+    },
+    "16": {
+      "default": "Medal claim has expired!!",
+      "translated": ""
+    },
+    "17": {
+      "default": "The claim on your {medal} medal has expired {user}.",
+      "translated": ""
+    },
+    "18": {
+      "default": "You can reclaim the role/medal by using the command {command} in {channel}",
+      "translated": ""
+    }
+  },
+  "seedbot": {
+    "1": {
+      "default": "We started Seeding! Come help us!",
+      "translated": ""
+    }
+  },
+  "help_statsbot": {
+    "1": {
+      "default": "Instructions on how to use the bot for playerstats.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Below you will find information on how to use the Statsbot.",
+      "translated": ""
+    },
+    "3": {
+      "default": "You also find a list with all the available options.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Command:\n{command} {commandoption1} {commandoption2}``",
+      "translated": ""
+    },
+    "5": {
+      "default": "Return Player stats information",
+      "translated": ""
+    },
+    "6": {
+      "default": "Return Player by id stats information",
+      "translated": ""
+    },
+    "7": {
+      "default": "Return Player weapon stats information",
+      "translated": ""
+    },
+    "8": {
+      "default": "Return server stats information",
+      "translated": ""
+    },
+    "9": {
+      "default": "Return Player Top 10 player information",
+      "translated": ""
+    },
+    "10": {
+      "default": "{duration}: Return all time stats",
+      "translated": ""
+    },
+    "11": {
+      "default": "{duration}: Return montly stats. (30 days)",
+      "translated": ""
+    },
+    "12": {
+      "default": "{duration}: Return weekly stats. (7 days)",
+      "translated": ""
+    },
+    "13": {
+      "default": "{duration}: Return daily stats. (24 hour)",
+      "translated": ""
+    },
+    "14": {
+      "default": "If no {option} option is selected, the default is {duration}.",
+      "translated": ""
+    },
+    "15": {
+      "default": "{seedoption}: Return stats with seeding data.",
+      "translated": ""
+    },
+    "16": {
+      "default": "{seedoption}: Return stats with only seeding data.",
+      "translated": ""
+    },
+    "17": {
+      "default": "{seedoption}: Return stats without seeding data.",
+      "translated": ""
+    },
+    "18": {
+      "default": "If no {option} option is selected, the default is {seedoption}.",
+      "translated": ""
+    }
+  },
+  "help_serverstatus": {
+    "1": {
+      "default": "Command:\n{command} {commandoption}``",
+      "translated": ""
+    },
+    "2": {
+      "default": "{optionall}: Return all server status information.",
+      "translated": ""
+    },
+    "3": {
+      "default": "{optionmap}: Return current map information.",
+      "translated": ""
+    },
+    "4": {
+      "default": "{optionnextmap}: Return next map information.",
+      "translated": ""
+    },
+    "5": {
+      "default": "{optionplayers}: Return current player amount information.",
+      "translated": ""
+    },
+    "6": {
+      "default": "{optiontime}: Return current game duration information.",
+      "translated": ""
+    },
+    "7": {
+      "default": "If no {option} is selected, the default is {optionall}.",
+      "translated": ""
+    },
+    "8": {
+      "default": "Examples:",
+      "translated": ""
+    },
+    "9": {
+      "default": "{command}: Return all server information.",
+      "translated": ""
+    },
+    "10": {
+      "default": "{Command} {optionall}: Return all server information.",
+      "translated": ""
+    },
+    "11": {
+      "default": "{Command} {optionmap}: Return current map information.",
+      "translated": ""
+    }
+  },
+  "help_mysqstats": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_mysqstatsbyid": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_linksqstats": {
+    "1": {
+      "default": "Instructions on how to link the statsbot.",
+      "translated": ""
+    }
+  },
+  "help_myweapons": {
+    "1": {
+      "default": "Instructions on how to use the bot",
+      "translated": ""
+    }
+  },
+  "help_serverstats": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_leaderboard": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_setupbot": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_botsettings": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_seedsettings": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_seedcontroller": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_silentcontroller": {
+    "1": {
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    }
+  },
+  "help_seedbot": {
+    "1": {
+      "default": "Automatic seed messages help",
+      "translated": ""
+    }
+  },
+  "help_errors": {
+    "1": {
+      "default": "Error using the help command.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Please use only one of the two options for the help command.",
+      "translated": ""
+    },
+    "3": {
+      "default": "Only {botoption} or {commandoption}.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Or select the help subject below.",
+      "translated": ""
+    }
+  },
+  "disabled_function": {
+    "1": {
+      "default": "This function is disabled by this community.",
+      "translated": ""
+    },
+    "2": {
+      "default": "For more information ask an admin, they have the option of activating this function if they wish.",
+      "translated": ""
+    }
+  }
+}
