@@ -332,23 +332,7 @@
     "11": { "default": "{Command} {optionmap}: Return current map information." }
   },
   "help_mysqstats": {
-	"1": { "default": "Instructions on how to use the bot." },
-	"2": { "default": "Below you will find information on how to use the {command} command." },
-	"3": { "default": "You also find a list with all the available options." },
-	"4": { "default": "Command:\n{command} {commandoption1} {commandoption2}``" },
-	"5": { "default": "{duration}: Return all time stats" },
-    "6": { "default": "{duration}: Return montly stats. (30 days)" },
-    "7": { "default": "{duration}: Return weekly stats. (7 days)" },
-    "8": { "default": "{duration}: Return daily stats. (24 hour)" },
-    "9": { "default": "If no {option} option is selected, the default is {duration}." },
-    "10": { "default": "{seedoption}: Return stats with seeding data." },
-    "11": { "default": "{seedoption}: Return stats with only seeding data." },
-    "12": { "default": "{seedoption}: Return stats without seeding data." },
-    "13": { "default": "If no {option} option is selected, the default is {seedoption}." },
-	"14": { "default": "Example:" },
-    "15": { "default": "{command}: Return montly stats without seed data" },
-    "16": { "default": "{command}: Return all stats without seed data" },
-    "17": { "default": "{command}: Return all stats with seed data" }
+    "1": { "default": "Instructions on how to use the bot." }
   },
   "help_mysqstatsbyid": {
     "1": { "default": "Instructions on how to use the bot." }
