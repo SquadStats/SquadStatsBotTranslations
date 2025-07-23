@@ -1341,7 +1341,71 @@
   },
   "help_myweapons": {
     "1": {
-      "default": "Instructions on how to use the bot",
+      "default": "Instructions on how to use the bot.",
+      "translated": ""
+    },
+    "2": {
+      "default": "Below you will find information on how to use the {command} command.",
+      "translated": ""
+    },
+    "3": {
+      "default": "You also find a list with all the available options.",
+      "translated": ""
+    },
+    "4": {
+      "default": "Command:\n{command} {commandoption1} {commandoption2}``",
+      "translated": ""
+    },
+    "5": {
+      "default": "{duration}: Return all time stats",
+      "translated": ""
+    },
+    "6": {
+      "default": "{duration}: Return montly stats. (30 days)",
+      "translated": ""
+    },
+    "7": {
+      "default": "{duration}: Return weekly stats. (7 days)",
+      "translated": ""
+    },
+    "8": {
+      "default": "{duration}: Return daily stats. (24 hour)",
+      "translated": ""
+    },
+    "9": {
+      "default": "If no {option} option is selected, the default is {duration}.",
+      "translated": ""
+    },
+    "10": {
+      "default": "{seedoption}: Return stats with seeding data.",
+      "translated": ""
+    },
+    "11": {
+      "default": "{seedoption}: Return stats with only seeding data.",
+      "translated": ""
+    },
+    "12": {
+      "default": "{seedoption}: Return stats without seeding data.",
+      "translated": ""
+    },
+    "13": {
+      "default": "If no {option} option is selected, the default is {seedoption}.",
+      "translated": ""
+    },
+    "14": {
+      "default": "Example:",
+      "translated": ""
+    },
+    "15": {
+      "default": "{command}: Return montly stats without seed data",
+      "translated": ""
+    },
+    "16": {
+      "default": "{command}: Return all stats without seed data",
+      "translated": ""
+    },
+    "17": {
+      "default": "{command}: Return all stats with seed data",
       "translated": ""
     }
   },
