@@ -2,1275 +2,1275 @@
   "player_found": {
     "1": {
       "default": "Players Info",
-      "translated": ""
+      "translated": "Oyuncu Bilgisi"
     },
     "2": {
       "default": "Found in Game Name:",
-      "translated": ""
+      "translated": "Oyunda Bulunan İsim:"
     },
     "3": {
       "default": "First seen:",
-      "translated": ""
+      "translated": "İlk Görülme:"
     },
     "4": {
       "default": "Last seen:",
-      "translated": ""
+      "translated": "Son Görülme:"
     },
     "5": {
       "default": "Steam ID:",
-      "translated": ""
+      "translated": "Steam ID"
     },
     "6": {
       "default": "Eos ID:",
-      "translated": ""
+      "translated": "Eos ID"
     }
   },
   "myweapons": {
     "1": {
       "default": "Squad Top Weapons player stats all-time.",
-      "translated": ""
+      "translated": "Tüm zamanların Squad En İyi Silahlar oyuncu istatistikleri."
     },
     "2": {
       "default": "Squad Top Weapons player stats for the Last 30 days.",
-      "translated": ""
+      "translated": "Son 30 günün Squad En İyi Silahlar oyuncu istatistikleri."
     },
     "3": {
       "default": "Squad Top Weapons player stats for the Last 7 days.",
-      "translated": ""
+      "translated": "Son 7 günün Squad En İyi Silahlar oyuncu istatistikleri."
     },
     "4": {
       "default": "Squad Top Weapons player stats for the Last 24 hours.",
-      "translated": ""
+      "translated": "Son 24 saatin Squad En İyi Silahlar oyuncu istatistikleri."
     },
     "5": {
       "default": "TOP WEAPONS",
-      "translated": ""
+      "translated": "EN İYİ SİLAHLAR"
     },
     "6": {
       "default": "Weapon Kills",
-      "translated": ""
+      "translated": "Silahla Öldürme"
     },
     "7": {
       "default": "Weapon:",
-      "translated": ""
+      "translated": "Silah"
     },
     "8": {
       "default": "Total of",
-      "translated": ""
+      "translated": "Toplam"
     },
     "9": {
       "default": "Kills",
-      "translated": ""
+      "translated": "Öldürme"
     },
     "10": {
       "default": "Weapon Deaths:",
-      "translated": ""
+      "translated": "Silahla Ölüm:"
     }
   },
   "serverstats": {
-    "1": {
-      "default": "Squad server Stats all-time.",
-      "translated": ""
-    },
-    "2": {
-      "default": "Squad server Stats for the Last 30 days.",
-      "translated": ""
-    },
-    "3": {
-      "default": "Squad server Stats for the Last 7 days.",
-      "translated": ""
-    },
-    "4": {
-      "default": "Squad server Stats for the Last 24h.",
-      "translated": ""
-    },
-    "5": {
-      "default": "Server kill Stats",
-      "translated": ""
-    },
-    "6": {
-      "default": "Total Kills",
-      "translated": ""
-    },
-    "7": {
-      "default": "Total Deaths",
-      "translated": ""
-    },
-    "8": {
-      "default": "Total Wounds",
-      "translated": ""
-    },
-    "9": {
-      "default": "Teamplayer Stats",
-      "translated": ""
-    },
-    "10": {
-      "default": "Teamkills",
-      "translated": ""
-    },
-    "11": {
-      "default": "Total Revives",
-      "translated": ""
-    },
-    "12": {
-      "default": "Knifekills",
-      "translated": ""
-    },
-    "13": {
-      "default": "Favorites",
-      "translated": ""
-    },
-    "14": {
-      "default": "Favorite Weapon",
-      "translated": ""
-    },
-    "15": {
-      "default": "Favorite Map",
-      "translated": ""
-    },
-    "16": {
-      "default": "Top Victim / Top Nemesis",
-      "translated": ""
-    },
-    "17": {
-      "default": "Top Revive / Top Revived",
-      "translated": ""
-    },
-    "18": {
-      "default": "Want more information on player stats?",
-      "translated": ""
-    },
-    "19": {
-      "default": "Use {command}",
-      "translated": ""
-    },
-    "20": {
-      "default": "Unknown",
-      "translated": ""
-    },
-    "21": {
-      "default": "is killed {counter} times",
-      "translated": ""
-    },
-    "22": {
-      "default": "killed {counter} players",
-      "translated": ""
-    },
-    "23": {
-      "default": "is revived {counter} times",
-      "translated": ""
-    },
-    "24": {
-      "default": "revived {counter} players",
-      "translated": ""
-    }
+  "1": {
+    "default": "Squad server Stats all-time.",
+    "translated": "Tüm zamanların Squad sunucu istatistikleri."
+  },
+  "2": {
+    "default": "Squad server Stats for the Last 30 days.",
+    "translated": "Son 30 günün Squad sunucu istatistikleri."
+  },
+  "3": {
+    "default": "Squad server Stats for the Last 7 days.",
+    "translated": "Son 7 günün Squad sunucu istatistikleri."
+  },
+  "4": {
+    "default": "Squad server Stats for the Last 24h.",
+    "translated": "Son 24 saatin Squad sunucu istatistikleri."
+  },
+  "5": {
+    "default": "Server kill Stats",
+    "translated": "Sunucu öldürme istatistikleri"
+  },
+  "6": {
+    "default": "Total Kills",
+    "translated": "Toplam Öldürme"
+  },
+  "7": {
+    "default": "Total Deaths",
+    "translated": "Toplam Ölüm"
+  },
+  "8": {
+    "default": "Total Wounds",
+    "translated": "Toplam Yaralanma"
+  },
+  "9": {
+    "default": "Teamplayer Stats",
+    "translated": "Takım oyuncusu istatistikleri"
+  },
+  "10": {
+    "default": "Teamkills",
+    "translated": "Takım arkadaşını öldürme"
+  },
+  "11": {
+    "default": "Total Revives",
+    "translated": "Toplam canlandırma"
+  },
+  "12": {
+    "default": "Knifekills",
+    "translated": "Bıçakla öldürme"
+  },
+  "13": {
+    "default": "Favorites",
+    "translated": "Favoriler"
+  },
+  "14": {
+    "default": "Favorite Weapon",
+    "translated": "Favori silah"
+  },
+  "15": {
+    "default": "Favorite Map",
+    "translated": "Favori harita"
+  },
+  "16": {
+    "default": "Top Victim / Top Nemesis",
+    "translated": "En çok öldürülen / En büyük düşman"
+  },
+  "17": {
+    "default": "Top Revive / Top Revived",
+    "translated": "En çok canlandıran / En çok canlandırılan"
+  },
+  "18": {
+    "default": "Want more information on player stats?",
+    "translated": "Oyuncu istatistikleri hakkında daha fazla bilgi mi istiyorsunuz?"
+  },
+  "19": {
+    "default": "Use {command}",
+    "translated": "{command} komutunu kullanın"
+  },
+  "20": {
+    "default": "Unknown",
+    "translated": "Bilinmiyor"
+  },
+  "21": {
+    "default": "is killed {counter} times",
+    "translated": "{counter} kez öldürüldü"
+  },
+  "22": {
+    "default": "killed {counter} players",
+    "translated": "{counter} oyuncu öldürdü"
+  },
+  "24": {
+    "default": "revived {counter} players",
+    "translated": "{counter} oyuncu canlandırdı"
+  },
+  "23": {
+    "default": "is revived {counter} times",
+    "translated": "{counter} kez canlandırıldı"
+  }
   },
   "leaderboard_default": {
     "1": {
       "default": "Leaderboard kill/death AllTime.",
-      "translated": ""
+      "translated": "Tüm zamanların öldürme/ölüm sıralaması."
     },
     "2": {
       "default": "Leaderboard kill/death for the Last 30 days.",
-      "translated": ""
+      "translated": "Son 30 günün öldürme/ölüm sıralaması."
     },
     "3": {
       "default": "Leaderboard kill/death for last week.",
-      "translated": ""
+      "translated": "Geçen haftanın öldürme/ölüm sıralaması."
     },
     "4": {
       "default": "Leaderboard kill/death for the last 24h.",
-      "translated": ""
+      "translated": "Son 24 saatin öldürme/ölüm sıralaması."
     },
     "5": {
       "default": "TOP 10",
-      "translated": ""
+      "translated": "EN İYİ 10"
     },
     "6": {
       "default": "Kills",
-      "translated": ""
+      "translated": "Öldürme"
     },
     "7": {
       "default": "and",
-      "translated": ""
+      "translated": "ve"
     },
     "8": {
       "default": "deaths",
-      "translated": ""
-    }
-  },
-  "leaderboard": {
-    "1": {
-      "default": "Leaderboard {leaderboardoption} AllTime.",
-      "translated": ""
-    },
-    "2": {
-      "default": "Leaderboard {leaderboardoption} for the Last 30 days.",
-      "translated": ""
-    },
-    "3": {
-      "default": "Leaderboard {leaderboardoption} for last week.",
-      "translated": ""
-    },
-    "4": {
-      "default": "Leaderboard {leaderboardoption} for the last 24h.",
-      "translated": ""
-    },
-    "5": {
-      "default": "TOP 10",
-      "translated": ""
-    },
-    "6": {
-      "default": "Kills",
-      "translated": ""
-    },
-    "7": {
-      "default": "and",
-      "translated": ""
-    },
-    "8": {
-      "default": "deaths",
-      "translated": ""
+      "translated": "Ölüm"
     }
   },
   "mysqstatsbyid": {
     "1": {
       "default": "The value is not an SteamID.",
-      "translated": ""
+      "translated": "Girilen değer bir SteamID değil."
     },
     "2": {
       "default": "Please make sure you use the SteamID64.",
-      "translated": ""
+      "translated": "Lütfen SteamID64 kullandığınızdan emin olun."
     },
     "3": {
       "default": "Or use {command} to begin linking your account.",
-      "translated": ""
+      "translated": "Veya hesabınızı bağlamak için {command} komutunu kullanın."
     },
     "4": {
       "default": "Want more information on player stats?",
-      "translated": ""
+      "translated": "Oyuncu istatistikleri hakkında daha fazla bilgi mi istiyorsunuz?"
     },
     "5": {
       "default": "Use {command}",
-      "translated": ""
+      "translated": "{command} komutunu kullanın"
     },
     "6": {
       "default": "No user data found for the specific SteamID.",
-      "translated": ""
+      "translated": "Belirtilen SteamID için kullanıcı verisi bulunamadı."
     },
     "7": {
       "default": "Please use {command} to begin linking your account.",
-      "translated": ""
+      "translated": "Lütfen hesabınızı bağlamak için {command} komutunu kullanın."
     }
   },
   "mysqstats": {
     "1": {
       "default": "Your Discord Account is not linked to an In Game Account.",
-      "translated": ""
+      "translated": "Discord hesabınız oyun içi bir hesapla bağlantılı değil."
     },
     "2": {
       "default": "Please use {command} to begin linking your account.",
-      "translated": ""
+      "translated": "Lütfen hesabınızı bağlamak için {command} komutunu kullanın."
     },
     "3": {
       "default": "Or use {command}",
-      "translated": ""
+      "translated": "Ya da {command} komutunu kullanın"
     },
     "4": {
       "default": "Command:",
-      "translated": ""
+      "translated": "Komut:"
     },
     "5": {
       "default": "Want more information on player stats?",
-      "translated": ""
+      "translated": "Oyuncu istatistikleri hakkında daha fazla bilgi ister misiniz?"
     },
     "6": {
       "default": "{option}",
-      "translated": ""
+      "translated": "{option}"
     },
     "7": {
       "default": "{duration}: Return all time stats",
-      "translated": ""
+      "translated": "{duration}: Tüm zamanların istatistiklerini getirir"
     },
     "8": {
       "default": "{duration}: Return montly stats. (30 days)",
-      "translated": ""
+      "translated": "{duration}: Aylık istatistikleri getirir. (30 gün)"
     },
     "9": {
       "default": "{duration}: Return weekly stats. (7 days)",
-      "translated": ""
+      "translated": "{duration}: Haftalık istatistikleri getirir. (7 gün)"
     },
     "10": {
       "default": "{duration}: Return daily stats. (24 hour)",
-      "translated": ""
+      "translated": "{duration}: Günlük istatistikleri getirir. (24 saat)"
     },
     "11": {
       "default": "If no {option} option is selected, the default is {duration}.",
-      "translated": ""
+      "translated": "Herhangi bir {option} seçilmezse, varsayılan değer {duration} olur."
     },
     "12": {
       "default": "{option}",
-      "translated": ""
+      "translated": "{option}"
     },
     "13": {
       "default": "{seedoption}: Return stats with seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Seed verisiyle istatistikleri getirir."
     },
     "14": {
       "default": "{seedoption}: Return stats with only seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Sadece seed verisiyle istatistikleri getirir."
     },
     "15": {
       "default": "{seedoption}: Return stats without seeding data.",
-      "translated": ""
+      "translated": "{seedoption}: Seed verisi olmadan istatistikleri getirir."
     },
     "16": {
       "default": "If no {option} option is selected, the default is {seedoption}.",
-      "translated": ""
+      "translated": "Herhangi bir {option} seçilmezse, varsayılan değer {seedoption} olur."
     },
     "17": {
       "default": "Example:",
-      "translated": ""
+      "translated": "Örnek:"
     },
     "18": {
       "default": "Return all stats with seed data",
-      "translated": ""
+      "translated": "Tüm istatistikleri seed verisiyle getir"
     },
     "19": {
       "default": "Use {command}",
-      "translated": ""
+      "translated": "{command} komutunu kullanın"
     },
     "20": {
       "default": "Squad Player Stats all-time.",
-      "translated": ""
+      "translated": "Tüm zamanların Squad oyuncu istatistikleri."
     },
     "21": {
       "default": "Squad Player Stats for the last 30 days.",
-      "translated": ""
+      "translated": "Son 30 günün Squad oyuncu istatistikleri."
     },
     "22": {
       "default": "Squad Player Stats for the last 7 days.",
-      "translated": ""
+      "translated": "Son 7 günün Squad oyuncu istatistikleri."
     },
     "23": {
       "default": "Squad Player Stats for the last 24 hours.",
-      "translated": ""
+      "translated": "Son 24 saatin Squad oyuncu istatistikleri."
     },
     "24": {
       "default": "Players Stats",
-      "translated": ""
+      "translated": "Oyuncu İstatistikleri"
     },
     "25": {
       "default": "Total Kills",
-      "translated": ""
+      "translated": "Toplam Öldürme"
     },
     "26": {
       "default": "Total Deaths",
-      "translated": ""
+      "translated": "Toplam Ölüm"
     },
     "27": {
       "default": "K/D Ratio",
-      "translated": ""
+      "translated": "K/D Oranı"
     },
     "28": {
       "default": "Total Wounds",
-      "translated": ""
+      "translated": "Toplam Yaralanma"
     },
     "29": {
       "default": "Total Wounded",
-      "translated": ""
+      "translated": "Toplam Yaralanan"
     },
     "30": {
       "default": "Games",
-      "translated": ""
+      "translated": "Oyunlar"
     },
     "31": {
       "default": "Teamkills",
-      "translated": ""
+      "translated": "Takım Arkadaşını Öldürme"
     },
     "32": {
       "default": "Total Revives",
-      "translated": ""
+      "translated": "Toplam Canlandırma"
     },
     "33": {
       "default": "Knifekills",
-      "translated": ""
+      "translated": "Bıçakla Öldürme"
     },
     "34": {
       "default": "Times Teamkilled",
-      "translated": ""
+      "translated": "Kaç Kez Takım Arkadaşı Tarafından Öldürüldü"
     },
     "35": {
       "default": "Total Revived",
-      "translated": ""
+      "translated": "Toplam Canlandırılan"
     },
     "36": {
       "default": "Vehicle kills",
-      "translated": ""
+      "translated": "Araçla Öldürme"
     },
     "37": {
       "default": "Favorites",
-      "translated": ""
+      "translated": "Favoriler"
     },
     "38": {
       "default": "Favorite Weapon",
-      "translated": ""
+      "translated": "Favori Silah"
     },
     "39": {
       "default": "Favorite Map",
-      "translated": ""
+      "translated": "Favori Harita"
     },
     "40": {
       "default": "Top Victim / Top Nemesis",
-      "translated": ""
+      "translated": "En Çok Öldürdüğü / En Büyük Düşman"
     },
     "41": {
       "default": "Top Revive / Top Revived",
-      "translated": ""
+      "translated": "En Çok Canlandırdığı / En Çok Canlandırıldığı"
     },
     "42": {
       "default": "rank #",
-      "translated": ""
+      "translated": "sıra #"
     },
     "43": {
       "default": "Want more information on player stats?",
-      "translated": ""
+      "translated": "Oyuncu istatistikleri hakkında daha fazla bilgi ister misiniz?"
     },
     "44": {
       "default": "Use {command}",
-      "translated": ""
+      "translated": "{command} komutunu kullanın"
     },
     "45": {
       "default": "Unknown",
-      "translated": ""
+      "translated": "Bilinmiyor"
     },
     "46": {
       "default": "is killed {counter} times",
-      "translated": ""
+      "translated": "{counter} kez öldürüldü"
     },
     "47": {
       "default": "is killed by",
-      "translated": ""
+      "translated": "tarafından öldürüldü"
     },
     "48": {
       "default": "times",
-      "translated": ""
+      "translated": "kez"
     },
     "49": {
       "default": "is revived {counter} times",
-      "translated": ""
+      "translated": "{counter} kez canlandırıldı"
     },
     "50": {
       "default": "nobody revived",
-      "translated": ""
+      "translated": "hiç kimse canlandırmadı"
     },
     "51": {
       "default": "is revived by",
-      "translated": ""
+      "translated": "tarafından canlandırıldı"
     },
     "52": {
       "default": "times",
-      "translated": ""
+      "translated": "kez"
     },
     "53": {
       "default": "is not revived.",
-      "translated": ""
+      "translated": "canlandırılmadı."
     },
     "54": {
       "default": "Unknown",
-      "translated": ""
+      "translated": "Bilinmiyor"
     }
   },
   "linkaccount_warnings": {
     "1": {
       "default": "Account linking.",
-      "translated": ""
+      "translated": "Hesap bağlantısı."
     },
     "2": {
       "default": "This account is not allowed to link.",
-      "translated": ""
+      "translated": "Bu hesabın bağlantı kurmasına izin verilmiyor."
     },
     "3": {
       "default": "Please contact an admin if support is needed.",
-      "translated": ""
+      "translated": "Destek gerekiyorsa lütfen bir yöneticiyle iletişime geçin."
     },
     "4": {
       "default": "Banned acount trying to link account",
-      "translated": ""
+      "translated": "Yasaklı bir hesap bağlantı kurmaya çalışıyor"
     },
     "5": {
       "default": "An on SquadStats banned account have tried to link their account.",
-      "translated": ""
+      "translated": "SquadStats üzerinde yasaklı bir hesap, hesabını bağlamaya çalıştı."
     },
     "6": {
       "default": "Name:",
-      "translated": ""
+      "translated": "İsim:"
     },
     "7": {
       "default": "SteamID:",
-      "translated": ""
+      "translated": "SteamID:"
     },
     "8": {
       "default": "DiscordID:",
-      "translated": ""
+      "translated": "DiscordID:"
     },
     "9": {
       "default": "Last IP:",
-      "translated": ""
+      "translated": "Son IP:"
     },
     "10": {
       "default": "Banned:",
-      "translated": ""
+      "translated": "Yasaklı:"
     },
     "11": {
       "default": "Reason:",
-      "translated": ""
+      "translated": "Sebep:"
     }
   },
   "linkaccount": {
     "1": {
       "default": "Account linking.",
-      "translated": ""
+      "translated": "Hesap bağlantısı."
     },
     "2": {
       "default": "You already linked your account in an other community.",
-      "translated": ""
+      "translated": "Hesabınızı zaten başka bir toplulukta bağladınız."
     },
     "3": {
       "default": "AutoLink completed.",
-      "translated": ""
+      "translated": "Otomatik bağlantı tamamlandı."
     },
     "4": {
       "default": "Your account is now also linked for this community",
-      "translated": ""
+      "translated": "Hesabınız artık bu topluluk için de bağlantılı"
     },
     "5": {
       "default": "Your linking code is:",
-      "translated": ""
+      "translated": "Bağlantı kodunuz:"
     },
     "6": {
       "default": "How to link?",
-      "translated": ""
+      "translated": "Nasıl bağlanılır?"
     },
     "7": {
       "default": "Please use {command}",
-      "translated": ""
+      "translated": "Lütfen {command} komutunu kullanın"
     },
     "8": {
       "default": "in-game to link your account.",
-      "translated": ""
+      "translated": "oyun içinde hesabınızı bağlamak için."
     },
     "9": {
       "default": "This code is valid for 48 hours",
-      "translated": ""
+      "translated": "Bu kod 48 saat boyunca geçerlidir"
     }
   },
   "linkaccountdirectmessage": {
     "1": {
       "default": "Thank you for using the SquadStats Bot!",
-      "translated": ""
+      "translated": "SquadStats Bot'u kullandığınız için teşekkür ederiz!"
     },
     "2": {
       "default": "Unfortunately, the {command} command cannot be used in a Direct Message to the bot yet.",
-      "translated": ""
+      "translated": "Maalesef, {command} komutu henüz bota doğrudan mesaj ile kullanılamıyor."
     },
     "3": {
       "default": "You can use the command in Discord servers that use SquadStats Bot.",
-      "translated": ""
+      "translated": "Bu komutu SquadStats Bot'u kullanan Discord sunucularında kullanabilirsiniz."
     },
     "4": {
       "default": "Below are some (random) examples of communities using SquadStats",
-      "translated": ""
+      "translated": "Aşağıda SquadStats kullanan topluluklardan bazı (rastgele) örnekler verilmiştir"
     }
   },
   "serverstatus": {
     "1": {
       "default": "Online Players:",
-      "translated": ""
+      "translated": "Çevrimiçi Oyuncular:"
     },
     "2": {
       "default": "In queue:",
-      "translated": ""
+      "translated": "Kuyrukta:"
     },
     "3": {
       "default": "Max players:",
-      "translated": ""
+      "translated": "Maksimum oyuncu:"
     },
     "4": {
       "default": "Map:",
-      "translated": ""
+      "translated": "Harita:"
     },
     "5": {
       "default": "Game mode:",
-      "translated": ""
+      "translated": "Oyun modu:"
     },
     "6": {
       "default": "Map Duration:",
-      "translated": ""
+      "translated": "Harita Süresi:"
     },
     "7": {
       "default": "Next map:",
-      "translated": ""
+      "translated": "Sonraki harita:"
     },
     "8": {
       "default": "Current map:",
-      "translated": ""
+      "translated": "Mevcut harita:"
     },
     "9": {
       "default": "Current Gamemode:",
-      "translated": ""
+      "translated": "Mevcut Oyun Modu:"
     },
     "10": {
       "default": "Next map:",
-      "translated": ""
+      "translated": "Sonraki harita:"
     }
   },
   "serverstatus_map": {
     "1": {
       "default": "Current map:",
-      "translated": ""
+      "translated": "Mevcut harita:"
     },
     "2": {
       "default": "Current Gamemode:",
-      "translated": ""
+      "translated": "Mevcut Oyun Modu:"
     },
     "3": {
       "default": "Next map:",
-      "translated": ""
+      "translated": "Sonraki harita:"
     }
   },
   "serverstatus_player": {
     "1": {
       "default": "Online Players:",
-      "translated": ""
+      "translated": "Çevrimiçi Oyuncular:"
     },
     "2": {
       "default": "In queue:",
-      "translated": ""
+      "translated": "Kuyrukta:"
     },
     "3": {
       "default": "Max players",
-      "translated": ""
+      "translated": "Maksimum oyuncu"
     }
   },
   "serverstatus_time": {
     "1": {
       "default": "Map Duration:",
-      "translated": ""
+      "translated": "Harita Süresi:"
     }
   },
   "serverstatus_nextmap": {
     "1": {
       "default": "Next Map:",
-      "translated": ""
+      "translated": "Sonraki Harita:"
     }
   },
   "silentcontroller": {
     "1": {
       "default": "Control silent serverinformation messages",
-      "translated": ""
+      "translated": "Sessiz sunucu bilgisi mesajlarını kontrol et"
     },
     "2": {
       "default": "Send server information.",
-      "translated": ""
+      "translated": "Sunucu bilgisini gönder."
     },
     "3": {
       "default": "Select option below.",
-      "translated": ""
+      "translated": "Aşağıdan bir seçenek seçin."
     },
     "4": {
       "default": "It will generate messages sended from the bot.",
-      "translated": ""
+      "translated": "Bu, bot tarafından gönderilecek mesajları oluşturur."
     }
   },
   "medalsettings": {
     "1": {
       "default": "Here you will find the current Medal settings.",
-      "translated": ""
+      "translated": "Burada mevcut Madalya ayarlarını bulabilirsiniz."
     },
     "2": {
       "default": "Current Settings:",
-      "translated": ""
+      "translated": "Mevcut Ayarlar:"
     },
     "3": {
       "default": "Roles Regular:",
-      "translated": ""
+      "translated": "Normal Roller:"
     },
     "4": {
       "default": "Roles Seed:",
-      "translated": ""
+      "translated": "Seed Roller:"
     },
     "5": {
       "default": "Settings Changed",
-      "translated": ""
+      "translated": "Ayarlar Değiştirildi"
     },
     "6": {
       "default": "Changed medal setting:",
-      "translated": ""
+      "translated": "Değiştirilen madalya ayarı:"
     },
     "7": {
       "default": "Are you sure?!",
-      "translated": ""
+      "translated": "Emin misiniz?!"
     },
     "8": {
       "default": "Please confirm your action below.",
-      "translated": ""
+      "translated": "Lütfen aşağıdan işleminizi onaylayın."
     },
     "9": {
       "default": "Press yes if you want the bot to create all the needed roles for the medal function.",
-      "translated": ""
+      "translated": "Madalya işlevi için gerekli tüm rolleri botun oluşturmasını istiyorsanız evet'e basın."
     },
     "10": {
       "default": "It also will set the roleID's in medalsettings.",
-      "translated": ""
+      "translated": "Ayrıca madalya ayarlarına rol kimliklerini de ekleyecektir."
     },
     "11": {
       "default": "Creating medals.",
-      "translated": ""
+      "translated": "Madalya oluşturuluyor."
     },
     "12": {
       "default": "The bot started creating the needed roles for the bots medalfunction.",
-      "translated": ""
+      "translated": "Bot, madalya işlevi için gerekli rolleri oluşturmaya başladı."
     },
     "13": {
       "default": "It also will set the roleID's in medalsettings.",
-      "translated": ""
+      "translated": "Ayrıca madalya ayarlarına rol kimliklerini de ekleyecektir."
     },
     "14": {
       "default": "Check the current settings by clicking on the button bellow.",
-      "translated": ""
+      "translated": "Aşağıdaki butona tıklayarak mevcut ayarları kontrol edin."
     },
     "15": {
       "default": "Sometimes the bot isnt able to create all roles at once, if that is the case, please retry.",
-      "translated": ""
+      "translated": "Bazen bot tüm rolleri bir kerede oluşturamayabilir, böyle bir durumda lütfen tekrar deneyin."
     },
     "16": {
       "default": "Missing permissions",
-      "translated": ""
+      "translated": "İzinler eksik"
     },
     "17": {
       "default": "The bot is missing permissions to create new roles.",
-      "translated": ""
+      "translated": "Botun yeni roller oluşturmak için gerekli izinleri yok."
     },
     "18": {
       "default": "Please check the permissions in discord.",
-      "translated": ""
+      "translated": "Lütfen Discord'daki izinleri kontrol edin."
     },
     "19": {
       "default": "Needed permission is ``Manage Roles``",
-      "translated": ""
+      "translated": "Gerekli izin: ``Rolleri Yönet``"
     }
   },
   "seedsettings": {
     "1": {
       "default": "Seed Settings Changed",
-      "translated": ""
+      "translated": "Seed Ayarları Değiştirildi"
     },
     "2": {
       "default": "Changed setting:",
-      "translated": ""
+      "translated": "Değiştirilen ayar:"
     },
     "3": {
       "default": "Automatic seed messages settings",
-      "translated": ""
+      "translated": "Otomatik seed mesajı ayarları"
     },
     "4": {
       "default": "Here you find the current settings for **Automatic** seed bot.",
-      "translated": ""
+      "translated": "Burada **Otomatik** seed botunun mevcut ayarlarını bulabilirsiniz."
     },
     "5": {
       "default": "Auto Seed\nweekdays:",
-      "translated": ""
+      "translated": "Otomatik Seed\ntüm hafta içi günleri:"
     },
     "6": {
       "default": "Auto Seed\nFridays:",
-      "translated": ""
+      "translated": "Otomatik Seed\nCuma günleri:"
     },
     "7": {
       "default": "Auto seed\nWeekends:",
-      "translated": ""
+      "translated": "Otomatik Seed\nHafta sonları:"
     },
     "8": {
       "default": "Current seedchannel:",
-      "translated": ""
+      "translated": "Mevcut seed kanalı:"
     },
     "9": {
       "default": "Current ping groups:",
-      "translated": ""
+      "translated": "Mevcut ping grupları:"
     },
     "10": {
       "default": "Automatic seed messages time",
-      "translated": ""
+      "translated": "Otomatik seed mesajı zamanı"
     },
     "11": {
       "default": "Specified **Week** Time value is an incorrect time format.",
-      "translated": ""
+      "translated": "Belirtilen **Hafta İçi** zaman formatı geçersiz."
     },
     "12": {
       "default": "Please use ``HH:mm`` Ex. ``14:30``",
-      "translated": ""
+      "translated": "Lütfen ``SS:dd`` biçimini kullanın. Örn: ``14:30``"
     },
     "13": {
       "default": "The timesetting is not changed.",
-      "translated": ""
+      "translated": "Zaman ayarı değiştirilmedi."
     },
     "14": {
       "default": "Specified **Friday** Time value is an incorrect time format.",
-      "translated": ""
+      "translated": "Belirtilen **Cuma** zaman formatı geçersiz."
     },
     "15": {
       "default": "Specified **Weekend** Time value is an incorrect time format.",
-      "translated": ""
+      "translated": "Belirtilen **Hafta Sonu** zaman formatı geçersiz."
     }
   },
   "botfunctions": {
     "1": {
       "default": "Bot Functions",
-      "translated": ""
+      "translated": "Bot İşlevleri"
     },
     "2": {
       "default": "Bellow you can enable and disable bot functions.",
-      "translated": ""
+      "translated": "Aşağıdan bot işlevlerini etkinleştirebilir veya devre dışı bırakabilirsiniz."
     },
     "3": {
       "default": "Current settings changed!",
-      "translated": ""
+      "translated": "Mevcut ayarlar değiştirildi!"
     },
     "4": {
       "default": "The bot's {botfunction} function is now enabled.",
-      "translated": ""
+      "translated": "Botun {botfunction} işlevi artık etkinleştirildi."
     },
     "5": {
       "default": "The bot's {botfunction} function is now disabled.",
-      "translated": ""
+      "translated": "Botun {botfunction} işlevi artık devre dışı bırakıldı."
     }
   },
   "botsettings": {
     "1": {
       "default": "Current Settings",
-      "translated": ""
+      "translated": "Mevcut Ayarlar"
     },
     "2": {
       "default": "Settings Changed",
-      "translated": ""
+      "translated": "Ayarlar Değiştirildi"
     },
     "3": {
       "default": "Changed bot setting:",
-      "translated": ""
+      "translated": "Değiştirilen bot ayarı:"
     }
   },
   "seedcontroller": {
     "1": {
       "default": "Automatic seed messages settings",
-      "translated": ""
+      "translated": "Otomatik seed mesajı ayarları"
     },
     "2": {
       "default": "Current settings for **Automatic** seed messages.",
-      "translated": ""
+      "translated": "**Otomatik** seed mesajları için mevcut ayarlar."
     },
     "3": {
       "default": "Here you can turn the automatic seed messages on or off.",
-      "translated": ""
+      "translated": "Buradan otomatik seed mesajlarını açıp kapatabilirsiniz."
     },
     "4": {
       "default": "The bot will start sending messages on the set time.",
-      "translated": ""
+      "translated": "Bot, belirlenen zamanda mesaj göndermeye başlayacak."
     },
     "5": {
       "default": "Auto Seed\nweekdays:",
-      "translated": ""
+      "translated": "Otomatik Seed\nhafta içi:"
     },
     "6": {
       "default": "Auto Seed\nFridays:",
-      "translated": ""
+      "translated": "Otomatik Seed\nCuma:"
     },
     "7": {
       "default": "Auto seed\nWeekends:",
-      "translated": ""
+      "translated": "Otomatik Seed\nhafta sonu:"
     },
     "8": {
       "default": "Additional changes can be made using the {command} command.",
-      "translated": ""
+      "translated": "Ek değişiklikler için {command} komutu kullanılabilir."
     },
     "9": {
       "default": "{option} Will send 1 (one) seed message and update it.",
-      "translated": ""
+      "translated": "{option} tek bir seed mesajı gönderir ve onu günceller."
     },
     "10": {
       "default": "{option} Will send new message at all updates.",
-      "translated": ""
+      "translated": "{option} her güncellemede yeni bir mesaj gönderir."
     },
     "11": {
       "default": "Here you find the current settings for **Automatic** seed bot.",
-      "translated": ""
+      "translated": "Burada **Otomatik** seed botunun mevcut ayarlarını bulabilirsiniz."
     },
     "12": {
       "default": "Current seedchannel",
-      "translated": ""
+      "translated": "Mevcut seed kanalı"
     },
     "13": {
       "default": "Auto Delete seed messages",
-      "translated": ""
+      "translated": "Seed mesajlarını otomatik sil"
     },
     "14": {
       "default": "Automatic seed messages has turned On",
-      "translated": ""
+      "translated": "Otomatik seed mesajları açıldı"
     },
     "15": {
       "default": "Automatic seed messages has turned Off",
-      "translated": ""
+      "translated": "Otomatik seed mesajları kapatıldı"
     },
     "16": {
       "default": "Automatic seed messages controller",
-      "translated": ""
+      "translated": "Otomatik seed mesajları denetleyicisi"
     },
     "17": {
       "default": "Control the Automatic seed messages",
-      "translated": ""
+      "translated": "Otomatik seed mesajlarını kontrol et"
     },
     "18": {
       "default": "Seed bot started",
-      "translated": ""
+      "translated": "Seed botu başlatıldı"
     },
     "19": {
       "default": "It will generate messages until match is live",
-      "translated": ""
+      "translated": "Maç başlayana kadar mesaj üretmeye devam edecek"
     },
     "20": {
       "default": "Seed bot stopped",
-      "translated": ""
+      "translated": "Seed botu durduruldu"
     },
     "21": {
       "default": "The seed bot stopped generating messages",
-      "translated": ""
+      "translated": "Seed botu mesaj üretmeyi durdurdu"
     },
     "22": {
       "default": "Seed bot deleted all messages.",
-      "translated": ""
+      "translated": "Seed botu tüm mesajları sildi."
     },
     "23": {
       "default": "The seed bot cleared the seeding channel.",
-      "translated": ""
+      "translated": "Seed botu seed kanalını temizledi."
     },
     "24": {
       "default": "Manual seedbot controller",
-      "translated": ""
+      "translated": "Manuel seed botu denetleyicisi"
     },
     "25": {
       "default": "Here you are able to control the seed bot manually, you can start the seeding process here directly.",
-      "translated": ""
+      "translated": "Buradan seed botunu manuel olarak kontrol edebilir, seed sürecini doğrudan başlatabilirsiniz."
     },
     "26": {
       "default": "Probably because you want to start seeding earlier or at a different time.",
-      "translated": ""
+      "translated": "Muhtemelen seed işlemini daha erken veya farklı bir zamanda başlatmak istediğiniz için."
     },
     "27": {
       "default": "{option} Will send 1 (one) seed message and update it.",
-      "translated": ""
+      "translated": "{option} tek bir seed mesajı gönderir ve onu günceller."
     },
     "28": {
       "default": "{option} Will send new message at all updates.",
-      "translated": ""
+      "translated": "{option} her güncellemede yeni bir mesaj gönderir."
     }
   },
-  "medals": {
+  "leaderboard": {
     "1": {
-      "default": "Player qualified for a medal!!",
-      "translated": ""
+      "default": "Leaderboard {leaderboardoption} AllTime.",
+      "translated": "Tüm zamanların {leaderboardoption} sıralaması."
     },
     "2": {
-      "default": "You qualified for a {medal} medal {user}!!",
-      "translated": ""
+      "default": "Leaderboard {leaderboardoption} for the Last 30 days.",
+      "translated": "Son 30 günün {leaderboardoption} sıralaması."
     },
     "3": {
-      "default": "You can claim the role/medal by using the command {command} in {channel}",
-      "translated": ""
+      "default": "Leaderboard {leaderboardoption} for last week.",
+      "translated": "Geçen haftanın {leaderboardoption} sıralaması."
     },
     "4": {
-      "default": "This also give you access to the {channel} channel.",
-      "translated": ""
+      "default": "Leaderboard {leaderboardoption} for the last 24h.",
+      "translated": "Son 24 saatin {leaderboardoption} sıralaması."
     },
     "5": {
-      "default": "You have earned a medal!",
-      "translated": ""
+      "default": "TOP 10",
+      "translated": "EN İYİ 10"
     },
     "6": {
-      "default": "Congratulations {player}!!",
-      "translated": ""
+      "default": "Kills",
+      "translated": "Öldürme"
     },
     "7": {
-      "default": "You have received the {medal} medal.",
-      "translated": ""
+      "default": "and",
+      "translated": "ve"
     },
     "8": {
-      "default": "You will keep the medal at least till {time}",
-      "translated": ""
-    },
-    "9": {
-      "default": "This also give you access to the {channel} channel.",
-      "translated": ""
-    },
-    "10": {
-      "default": "An medal is earned!",
-      "translated": ""
-    },
-    "11": {
-      "default": "Congratulations to {player}!!",
-      "translated": ""
-    },
-    "12": {
-      "default": "This player have received the {medal} medal.",
-      "translated": ""
-    },
-    "13": {
-      "default": "And will keep the medal at least till {time}",
-      "translated": ""
-    },
-    "14": {
-      "default": "This also give you access to the {channel} channel.",
-      "translated": ""
-    },
-    "15": {
-      "default": "Congratulations {player}!!",
-      "translated": ""
-    },
-    "16": {
-      "default": "Medal claim has expired!!",
-      "translated": ""
-    },
-    "17": {
-      "default": "The claim on your {medal} medal has expired {user}.",
-      "translated": ""
-    },
-    "18": {
-      "default": "You can reclaim the role/medal by using the command {command} in {channel}",
-      "translated": ""
-    }
-  },
-  "seedbot": {
-    "1": {
-      "default": "We started Seeding! Come help us!",
-      "translated": ""
-    }
-  },
-  "help_statsbot": {
-    "1": {
-      "default": "Instructions on how to use the bot for playerstats.",
-      "translated": ""
-    },
-    "2": {
-      "default": "Below you will find information on how to use the Statsbot.",
-      "translated": ""
-    },
-    "3": {
-      "default": "You also find a list with all the available options.",
-      "translated": ""
-    },
-    "4": {
-      "default": "Command:\n{command} {commandoption1} {commandoption2}``",
-      "translated": ""
-    },
-    "5": {
-      "default": "Return Player stats information",
-      "translated": ""
-    },
-    "6": {
-      "default": "Return Player by id stats information",
-      "translated": ""
-    },
-    "7": {
-      "default": "Return Player weapon stats information",
-      "translated": ""
-    },
-    "8": {
-      "default": "Return server stats information",
-      "translated": ""
-    },
-    "9": {
-      "default": "Return Player Top 10 player information",
-      "translated": ""
-    },
-    "10": {
-      "default": "{duration}: Return all time stats",
-      "translated": ""
-    },
-    "11": {
-      "default": "{duration}: Return montly stats. (30 days)",
-      "translated": ""
-    },
-    "12": {
-      "default": "{duration}: Return weekly stats. (7 days)",
-      "translated": ""
-    },
-    "13": {
-      "default": "{duration}: Return daily stats. (24 hour)",
-      "translated": ""
-    },
-    "14": {
-      "default": "If no {option} option is selected, the default is {duration}.",
-      "translated": ""
-    },
-    "15": {
-      "default": "{seedoption}: Return stats with seeding data.",
-      "translated": ""
-    },
-    "16": {
-      "default": "{seedoption}: Return stats with only seeding data.",
-      "translated": ""
-    },
-    "17": {
-      "default": "{seedoption}: Return stats without seeding data.",
-      "translated": ""
-    },
-    "18": {
-      "default": "If no {option} option is selected, the default is {seedoption}.",
-      "translated": ""
+      "default": "deaths",
+      "translated": "Ölümler"
     }
   },
   "help_serverstatus": {
     "1": {
       "default": "Command:\n{command} {commandoption}``",
-      "translated": ""
+      "translated": "Komut:\n{command} {commandoption}``"
     },
     "2": {
       "default": "{optionall}: Return all server status information.",
-      "translated": ""
+      "translated": "{optionall}: Tüm sunucu durumu bilgilerini döndürür."
     },
     "3": {
       "default": "{optionmap}: Return current map information.",
-      "translated": ""
+      "translated": "{optionmap}: Mevcut harita bilgisini döndürür."
     },
     "4": {
       "default": "{optionnextmap}: Return next map information.",
-      "translated": ""
+      "translated": "{optionnextmap}: Sonraki harita bilgisini döndürür."
     },
     "5": {
       "default": "{optionplayers}: Return current player amount information.",
-      "translated": ""
+      "translated": "{optionplayers}: Mevcut oyuncu sayısı bilgisini döndürür."
     },
     "6": {
       "default": "{optiontime}: Return current game duration information.",
-      "translated": ""
+      "translated": "{optiontime}: Mevcut oyun süresi bilgisini döndürür."
     },
     "7": {
       "default": "If no {option} is selected, the default is {optionall}.",
-      "translated": ""
+      "translated": "Herhangi bir {option} seçilmezse, varsayılan değer {optionall} olur."
     },
     "8": {
       "default": "Examples:",
-      "translated": ""
+      "translated": "Örnekler:"
     },
     "9": {
       "default": "{command}: Return all server information.",
-      "translated": ""
+      "translated": "{command}: Tüm sunucu bilgilerini döndürür."
     },
     "10": {
       "default": "{Command} {optionall}: Return all server information.",
-      "translated": ""
+      "translated": "{Command} {optionall}: Tüm sunucu bilgilerini döndürür."
     },
     "11": {
       "default": "{Command} {optionmap}: Return current map information.",
-      "translated": ""
+      "translated": "{Command} {optionmap}: Mevcut harita bilgilerini döndürür."
+    }
+  },
+  "help_statsbot": {
+    "1": {
+      "default": "Instructions on how to use the bot for playerstats.",
+      "translated": "Oyuncu istatistikleri için botun nasıl kullanılacağına dair talimatlar."
+    },
+    "2": {
+      "default": "Below you will find information on how to use the Statsbot.",
+      "translated": "Aşağıda Statsbot'un nasıl kullanılacağına dair bilgiler bulacaksınız."
+    },
+    "3": {
+      "default": "You also find a list with all the available options.",
+      "translated": "Ayrıca tüm mevcut seçeneklerin bir listesini de bulabilirsiniz."
+    },
+    "4": {
+      "default": "Command:\n{command} {commandoption1} {commandoption2}``",
+      "translated": "Komut:\n{command} {commandoption1} {commandoption2}``"
+    },
+    "5": {
+      "default": "Return Player stats information",
+      "translated": "Oyuncu istatistik bilgilerini döndürür"
+    },
+    "6": {
+      "default": "Return Player by id stats information",
+      "translated": "Oyuncunun kimliğine göre istatistik bilgilerini döndürür"
+    },
+    "7": {
+      "default": "Return Player weapon stats information",
+      "translated": "Oyuncunun silah istatistik bilgilerini döndürür"
+    },
+    "8": {
+      "default": "Return server stats information",
+      "translated": "Sunucu istatistik bilgilerini döndürür"
+    },
+    "9": {
+      "default": "Return Player Top 10 player information",
+      "translated": "Oyuncu ilk 10 oyuncu bilgilerini döndürür"
+    },
+    "10": {
+      "default": "{duration}: Return all time stats",
+      "translated": "{duration}: Tüm zamanların istatistiklerini döndürür"
+    },
+    "11": {
+      "default": "{duration}: Return montly stats. (30 days)",
+      "translated": "{duration}: Aylık istatistikleri döndürür. (30 gün)"
+    },
+    "12": {
+      "default": "{duration}: Return weekly stats. (7 days)",
+      "translated": "{duration}: Haftalık istatistikleri döndürür. (7 gün)"
+    },
+    "13": {
+      "default": "{duration}: Return daily stats. (24 hour)",
+      "translated": "{duration}: Günlük istatistikleri döndürür. (24 saat)"
+    },
+    "14": {
+      "default": "If no {option} option is selected, the default is {duration}.",
+      "translated": "Herhangi bir {option} seçilmezse, varsayılan değer {duration} olur."
+    },
+    "15": {
+      "default": "{seedoption}: Return stats with seeding data.",
+      "translated": "{seedoption}: Seed verisiyle istatistikleri döndürür."
+    },
+    "16": {
+      "default": "{seedoption}: Return stats with only seeding data.",
+      "translated": "{seedoption}: Sadece seed verisiyle istatistikleri döndürür."
+    },
+    "17": {
+      "default": "{seedoption}: Return stats without seeding data.",
+      "translated": "{seedoption}: Seed verisi olmadan istatistikleri döndürür."
+    },
+    "18": {
+      "default": "If no {option} option is selected, the default is {seedoption}.",
+      "translated": "Herhangi bir {option} seçilmezse, varsayılan değer {seedoption} olur."
+    }
+  },
+  "medals": {
+    "1": {
+      "default": "Player qualified for a medal!!",
+      "translated": "Oyuncu bir madalya kazanmaya hak kazandı!!"
+    },
+    "2": {
+      "default": "You qualified for a {medal} medal {user}!!",
+      "translated": "{user}, {medal} madalyasını almaya hak kazandınız!!"
+    },
+    "3": {
+      "default": "You can claim the role/medal by using the command {command} in {channel}",
+      "translated": "{channel} kanalında {command} komutunu kullanarak rolü/madalyayı alabilirsiniz"
+    },
+    "4": {
+      "default": "This also give you access to the {channel} channel.",
+      "translated": "Bu size ayrıca {channel} kanalına erişim sağlar."
+    },
+    "5": {
+      "default": "You have earned a medal!",
+      "translated": "Bir madalya kazandınız!"
+    },
+    "6": {
+      "default": "Congratulations {player}!!",
+      "translated": "Tebrikler {player}!!"
+    },
+    "7": {
+      "default": "You have received the {medal} medal.",
+      "translated": "{medal} madalyasını aldınız."
+    },
+    "8": {
+      "default": "You will keep the medal at least till {time}",
+      "translated": "Bu madalyayı en az {time} tarihine kadar elinizde tutacaksınız"
+    },
+    "9": {
+      "default": "This also give you access to the {channel} channel.",
+      "translated": "Bu size ayrıca {channel} kanalına erişim sağlar."
+    },
+    "10": {
+      "default": "An medal is earned!",
+      "translated": "Bir madalya kazanıldı!"
+    },
+    "11": {
+      "default": "Congratulations to {player}!!",
+      "translated": "{player} tebrikler!!"
+    },
+    "12": {
+      "default": "This player have received the {medal} medal.",
+      "translated": "Bu oyuncu {medal} madalyasını aldı."
+    },
+    "13": {
+      "default": "And will keep the medal at least till {time}",
+      "translated": "Ve bu madalyayı en az {time} tarihine kadar elinde tutacak"
+    },
+    "14": {
+      "default": "This also give you access to the {channel} channel.",
+      "translated": "Bu size ayrıca {channel} kanalına erişim sağlar."
+    },
+    "15": {
+      "default": "Congratulations {player}!!",
+      "translated": "Tebrikler {player}!!"
+    },
+    "16": {
+      "default": "Medal claim has expired!!",
+      "translated": "Madalya talebi süresi doldu!!"
+    },
+    "17": {
+      "default": "The claim on your {medal} medal has expired {user}.",
+      "translated": "{user}, {medal} madalyanızın talep süresi doldu."
+    },
+    "18": {
+      "default": "You can reclaim the role/medal by using the command {command} in {channel}",
+      "translated": "{channel} kanalında {command} komutunu kullanarak rolü/madalyayı yeniden talep edebilirsiniz"
+    }
+  },
+  "seedbot": {
+    "1": {
+      "default": "We started Seeding! Come help us!",
+      "translated": "Seed işlemine başladık! Hadi bize katıl!"
     }
   },
   "help_mysqstats": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Botun nasıl kullanılacağına dair talimatlar."
     }
   },
   "help_mysqstatsbyid": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Botun nasıl kullanılacağına dair talimatlar."
     }
   },
   "help_linksqstats": {
     "1": {
       "default": "Instructions on how to link the statsbot.",
-      "translated": ""
+      "translated": "Statsbot'u nasıl bağlayacağınızla ilgili talimatlar."
     }
   },
   "help_myweapons": {
     "1": {
       "default": "Instructions on how to use the bot",
-      "translated": ""
+      "translated": "Botun nasıl kullanılacağına dair talimatlar"
     }
   },
   "help_serverstats": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Botun nasıl kullanılacağına dair talimatlar."
     }
   },
   "help_leaderboard": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Botun nasıl kullanılacağına dair talimatlar."
     }
   },
   "help_setupbot": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Botun nasıl kullanılacağına dair talimatlar."
     }
   },
   "help_botsettings": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Botun nasıl kullanılacağına dair talimatlar."
     }
   },
   "help_seedsettings": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Botun nasıl kullanılacağına dair talimatlar."
     }
   },
   "help_seedcontroller": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Botun nasıl kullanılacağına dair talimatlar."
     }
   },
   "help_silentcontroller": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Botun nasıl kullanılacağına dair talimatlar."
     }
   },
   "help_seedbot": {
     "1": {
       "default": "Automatic seed messages help",
-      "translated": ""
+      "translated": "Otomatik seed mesajları yardımı"
     }
   },
   "help_errors": {
     "1": {
       "default": "Error using the help command.",
-      "translated": ""
+      "translated": "Yardım komutu kullanılırken hata oluştu."
     },
     "2": {
       "default": "Please use only one of the two options for the help command.",
-      "translated": ""
+      "translated": "Lütfen yardım komutu için yalnızca iki seçenekten birini kullanın."
     },
     "3": {
       "default": "Only {botoption} or {commandoption}.",
-      "translated": ""
+      "translated": "Sadece {botoption} veya {commandoption} kullanılabilir."
     },
     "4": {
       "default": "Or select the help subject below.",
-      "translated": ""
+      "translated": "Ya da aşağıdan yardım konusunu seçin."
     }
   },
   "disabled_function": {
     "1": {
       "default": "This function is disabled by this community.",
-      "translated": ""
+      "translated": "Bu işlev bu topluluk tarafından devre dışı bırakılmıştır."
     },
     "2": {
       "default": "For more information ask an admin, they have the option of activating this function if they wish.",
-      "translated": ""
+      "translated": "Daha fazla bilgi için bir yöneticiye danışın, isterlerse bu işlevi etkinleştirme seçeneğine sahiptirler."
     }
   }
 }
