@@ -1317,6 +1317,26 @@
     "1": {
       "default": "Instructions on how to link the statsbot.",
       "translated": ""
+    },
+    "2": {
+      "default": "Below you will find information on how to link your account the {clanname} {botname}.",
+      "translated": ""
+    },
+    "3": {
+      "default": "How to link your discord to you in-game account?",
+      "translated": ""
+    },
+    "4": {
+      "default": "Please use {command} in {statschannel} channel To receive a linkcode to link your account to an in-game account.",
+      "translated": ""
+    },
+    "5": {
+      "default": "In reply to this command, you will receive the linkcode.",
+      "translated": ""
+    },
+    "6": {
+      "default": "Following, start Squad, connect to our server and use {command} in-game to link your account.",
+      "translated": ""
     }
   },
   "help_myweapons": {
