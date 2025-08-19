@@ -146,23 +146,23 @@
     },
     "20": {
       "default": "Unknown",
-      "translated": ""
+      "translated": "Inconnu"
     },
     "21": {
       "default": "is killed {counter} times",
-      "translated": ""
+      "translated": "a été tué {counter} joueurs"
     },
     "22": {
       "default": "killed {counter} players",
-      "translated": ""
+      "translated": "a tué {counter} joueurs"
     },
     "24": {
       "default": "revived {counter} players",
-      "translated": ""
+      "translated": "a réanimé {counter} joueurs"
     },
     "23": {
       "default": "is revived {counter} times",
-      "translated": ""
+      "translated": "a été réanimé {counter} fois"
     }
   },
   "leaderboard_default": {
@@ -408,43 +408,43 @@
     },
     "45": {
       "default": "Unknown",
-      "translated": ""
+      "translated": "Inconnu"
     },
     "46": {
       "default": "is killed {counter} times",
-      "translated": ""
+      "translated": "a été tué {counter} fois"
     },
     "47": {
       "default": "is killed by",
-      "translated": ""
+      "translated": "est tué par"
     },
     "48": {
       "default": "times",
-      "translated": ""
+      "translated": "fois"
     },
     "49": {
       "default": "is revived {counter} times",
-      "translated": ""
+      "translated": "a été réanimé {counter} fois"
     },
     "50": {
       "default": "nobody revived",
-      "translated": ""
+      "translated": "personne n’a réanimé"
     },
     "51": {
       "default": "is revived by",
-      "translated": ""
+      "translated": "est réanimé par"
     },
     "52": {
       "default": "times",
-      "translated": ""
+      "translated": "fois"
     },
     "53": {
       "default": "is not revived.",
-      "translated": ""
+      "translated": "n'a pas été réanimé."
     },
     "54": {
       "default": "Unknown",
-      "translated": ""
+      "translated": "Inconnu"
     }
   },
   "linkaccount_warnings": {
@@ -1170,383 +1170,383 @@
   "seedbot": {
     "1": {
       "default": "We started Seeding! Come help us!",
-      "translated": ""
+      "translated": "On a commencé le seed ! Viens nous aider !"
     }
   },
   "help_mysqstats": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Instructions pour utiliser le bot."
     },
     "2": {
       "default": "Below you will find information on how to use the {command} command.",
-      "translated": ""
+      "translated": "Tu trouveras ci-dessous les informations sur l’utilisation de la commande {command}."
     },
     "3": {
       "default": "You also find a list with all the available options.",
-      "translated": ""
+      "translated": "Tu trouveras aussi une liste de toutes les options disponibles."
     },
     "4": {
       "default": "Command:\n{command} {commandoption1} {commandoption2}``",
-      "translated": ""
+      "translated": "Commande :\n{command} {commandoption1} {commandoption2}``"
     },
     "5": {
       "default": "{duration}: Return all time stats",
-      "translated": ""
+      "translated": "{duration} : Affiche toutes les statistiques depuis le début"
     },
     "6": {
       "default": "{duration}: Return montly stats. (30 days)",
-      "translated": ""
+      "translated": "{duration} : Affiche les statistiques mensuelles (30 jours)"
     },
     "7": {
       "default": "{duration}: Return weekly stats. (7 days)",
-      "translated": ""
+      "translated": "{duration} : Affiche les statistiques hebdomadaires (7 jours)"
     },
     "8": {
       "default": "{duration}: Return daily stats. (24 hour)",
-      "translated": ""
+      "translated": "{duration} : Affiche les statistiques quotidiennes (24 heures)"
     },
     "9": {
       "default": "If no {option} option is selected, the default is {duration}.",
-      "translated": ""
+      "translated": "Si aucune option {option} n’est sélectionnée, la valeur par défaut est {duration}."
     },
     "10": {
       "default": "{seedoption}: Return stats with seeding data.",
-      "translated": ""
+      "translated": "{seedoption} : Affiche les statistiques avec les données de seed."
     },
     "11": {
       "default": "{seedoption}: Return stats with only seeding data.",
-      "translated": ""
+      "translated": "{seedoption} : Affiche uniquement les statistiques de seed."
     },
     "12": {
       "default": "{seedoption}: Return stats without seeding data.",
-      "translated": ""
+      "translated": "{seedoption} : Affiche les statistiques sans les données de seed."
     },
     "13": {
       "default": "If no {option} option is selected, the default is {seedoption}.",
-      "translated": ""
+      "translated": "Si aucune option {option} n’est sélectionnée, la valeur par défaut est {seedoption}."
     },
     "14": {
       "default": "Example:",
-      "translated": ""
+      "translated": "Exemple :"
     },
     "15": {
       "default": "{command}: Return montly stats without seed data",
-      "translated": ""
+      "translated": "{command} : Affiche les statistiques mensuelles sans données de seed"
     },
     "16": {
       "default": "{command}: Return all stats without seed data",
-      "translated": ""
+      "translated": "{command} : Affiche toutes les statistiques sans données de seed"
     },
     "17": {
       "default": "{command}: Return all stats with seed data",
-      "translated": ""
+      "translated": "{command} : Affiche toutes les statistiques avec données de seed"
     }
   },
   "help_mysqstatsbyid": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Instructions pour utiliser le bot."
     },
     "2": {
       "default": "Below you will find information on how to use the {command} command.",
-      "translated": ""
+      "translated": "Tu trouveras ci-dessous les informations sur l’utilisation de la commande {command}."
     },
     "3": {
       "default": "You also find a list with all the available options.",
-      "translated": ""
+      "translated": "Tu trouveras aussi une liste de toutes les options disponibles."
     },
     "4": {
       "default": "Command:\n{command} {commandoption1} {commandoption2}``",
-      "translated": ""
+      "translated": "Commande :\\n{command} {commandoption1} {commandoption2}``"
     },
     "5": {
       "default": "{duration}: Return all time stats",
-      "translated": ""
+      "translated": "{duration} : Affiche toutes les statistiques depuis le début"
     },
     "6": {
       "default": "{duration}: Return montly stats. (30 days)",
-      "translated": ""
+      "translated": "{duration} : Affiche les statistiques mensuelles (30 jours)"
     },
     "7": {
       "default": "{duration}: Return weekly stats. (7 days)",
-      "translated": ""
+      "translated": "{duration} : Affiche les statistiques hebdomadaires (7 jours)"
     },
     "8": {
       "default": "{duration}: Return daily stats. (24 hour)",
-      "translated": ""
+      "translated": "{duration} : Affiche les statistiques quotidiennes (24 heures)"
     },
     "9": {
       "default": "If no {option} option is selected, the default is {duration}.",
-      "translated": ""
+      "translated": "Si aucune option {option} n’est sélectionnée, la valeur par défaut est {duration}."
     },
     "10": {
       "default": "{seedoption}: Return stats with seeding data.",
-      "translated": ""
+      "translated": "{seedoption} : Affiche les statistiques avec les données de seed."
     },
     "11": {
       "default": "{seedoption}: Return stats with only seeding data.",
-      "translated": ""
+      "translated": "seedoption} : Affiche uniquement les statistiques de seed."
     },
     "12": {
       "default": "{seedoption}: Return stats without seeding data.",
-      "translated": ""
+      "translated": "{seedoption} : Affiche les statistiques sans les données de seed."
     },
     "13": {
       "default": "If no {option} option is selected, the default is {seedoption}.",
-      "translated": ""
+      "translated": "Si aucune option {option} n’est sélectionnée, la valeur par défaut est {seedoption}."
     },
     "14": {
       "default": "Example:",
-      "translated": ""
+      "translated": "Exemple :"
     },
     "15": {
       "default": "{command}: Return montly stats without seed data",
-      "translated": ""
+      "translated": "{command} : Affiche les statistiques mensuelles sans données de seed."
     },
     "16": {
       "default": "{command}: Return all stats without seed data",
-      "translated": ""
+      "translated": "{command} : Affiche toutes les statistiques sans données de seed."
     },
     "17": {
       "default": "{command}: Return all stats with seed data",
-      "translated": ""
+      "translated": "{command} : Affiche toutes les statistiques avec données de seed."
     }
   },
   "help_linksqstats": {
     "1": {
       "default": "Instructions on how to link the statsbot.",
-      "translated": ""
+      "translated": "Instructions pour lier le bot de statistiques."
     },
     "2": {
       "default": "Below you will find information on how to link your account the {clanname} {botname}.",
-      "translated": ""
+      "translated": "Tu trouveras ci-dessous les informations pour lier ton compte au {botname} de {clanname}."
     },
     "3": {
       "default": "How to link your discord to you in-game account?",
-      "translated": ""
+      "translated": "Comment lier ton Discord à ton compte en jeu ?"
     },
     "4": {
       "default": "Please use {command} in {statschannel} channel To receive a linkcode to link your account to an in-game account.",
-      "translated": ""
+      "translated": "Utilise la commande {command} dans le canal {statschannel} pour recevoir un code de liaison afin de lier ton compte à un compte en jeu."
     },
     "5": {
       "default": "In reply to this command, you will receive the linkcode.",
-      "translated": ""
+      "translated": "En réponse à cette commande, tu recevras le code de connexion."
     },
     "6": {
       "default": "Following, start Squad, connect to our server and use {command} in-game to link your account.",
-      "translated": ""
+      "translated": "Ensuite, lance Squad, connecte-toi à notre serveur et utilise {command} en jeu pour lier ton compte."
     }
   },
   "help_myweapons": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Instructions pour utiliser le bot."
     },
     "2": {
       "default": "Below you will find information on how to use the {command} command.",
-      "translated": ""
+      "translated": "Tu trouveras ci-dessous les informations sur l’utilisation de la commande {command}."
     },
     "3": {
       "default": "You also find a list with all the available options.",
-      "translated": ""
+      "translated": "Tu trouveras aussi une liste de toutes les options disponibles."
     },
     "4": {
       "default": "Command:\n{command} {commandoption1} {commandoption2}``",
-      "translated": ""
+      "translated": "Commande :\\n{command} {commandoption1} {commandoption2}``"
     },
     "5": {
       "default": "{duration}: Return all time stats",
-      "translated": ""
+      "translated": "{duration} : Affiche toutes les statistiques depuis le début"
     },
     "6": {
       "default": "{duration}: Return montly stats. (30 days)",
-      "translated": ""
+      "translated": "{duration} : Affiche les statistiques mensuelles (30 jours)"
     },
     "7": {
       "default": "{duration}: Return weekly stats. (7 days)",
-      "translated": ""
+      "translated": "{duration} : Affiche les statistiques hebdomadaires (7 jours)"
     },
     "8": {
       "default": "{duration}: Return daily stats. (24 hour)",
-      "translated": ""
+      "translated": "{duration} : Affiche les statistiques quotidiennes (24 heures)"
     },
     "9": {
       "default": "If no {option} option is selected, the default is {duration}.",
-      "translated": ""
+      "translated": "Si aucune option {option} n’est sélectionnée, la valeur par défaut est {duration}."
     },
     "10": {
       "default": "{seedoption}: Return stats with seeding data.",
-      "translated": ""
+      "translated": "{seedoption} : Affiche les statistiques avec les données de seed."
     },
     "11": {
       "default": "{seedoption}: Return stats with only seeding data.",
-      "translated": ""
+      "translated": "{seedoption} : Affiche uniquement les statistiques de seed."
     },
     "12": {
       "default": "{seedoption}: Return stats without seeding data.",
-      "translated": ""
+      "translated": "{seedoption} : Affiche les statistiques sans les données de seed."
     },
     "13": {
       "default": "If no {option} option is selected, the default is {seedoption}.",
-      "translated": ""
+      "translated": "Si aucune option {option} n’est sélectionnée, la valeur par défaut est {seedoption}."
     },
     "14": {
       "default": "Example:",
-      "translated": ""
+      "translated": "Exemple :"
     },
     "15": {
       "default": "{command}: Return montly stats without seed data",
-      "translated": ""
+      "translated": "{command} : Affiche les statistiques mensuelles sans données de seed"
     },
     "16": {
       "default": "{command}: Return all stats without seed data",
-      "translated": ""
+      "translated": "{command} : Affiche toutes les statistiques sans données de seed"
     },
     "17": {
       "default": "{command}: Return all stats with seed data",
-      "translated": ""
+      "translated": "{command} : Affiche toutes les statistiques avec données de seed"
     }
   },
   "help_serverstats": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Instructions pour utiliser le bot."
     },
     "2": {
       "default": "Below you will find information on how to use the {command} command.",
-      "translated": ""
+      "translated": "u trouveras ci-dessous les informations sur l’utilisation de la commande {command}."
     },
     "3": {
       "default": "You also find a list with all the available options.",
-      "translated": ""
+      "translated": "Tu trouveras aussi une liste de toutes les options disponibles."
     },
     "4": {
       "default": "Command:\n{command} {commandoption1} {commandoption2}``",
-      "translated": ""
+      "translated": "Commande :\\n{command} {commandoption1} {commandoption2}``"
     },
     "5": {
       "default": "{duration}: Return all time stats",
-      "translated": ""
+      "translated": "{duration} : Affiche toutes les statistiques depuis le début"
     },
     "6": {
       "default": "{duration}: Return montly stats. (30 days)",
-      "translated": ""
+      "translated": "{duration} : Affiche les statistiques mensuelles (30 jours)"
     },
     "7": {
       "default": "{duration}: Return weekly stats. (7 days)",
-      "translated": ""
+      "translated": "{duration} : Affiche les statistiques hebdomadaires (7 jours)"
     },
     "8": {
       "default": "{duration}: Return daily stats. (24 hour)",
-      "translated": ""
+      "translated": "{duration} : Affiche les statistiques quotidiennes (24 heures)"
     },
     "9": {
       "default": "If no {option} option is selected, the default is {duration}.",
-      "translated": ""
+      "translated": "Si aucune option {option} n’est sélectionnée, la valeur par défaut est {duration}."
     },
     "10": {
       "default": "{seedoption}: Return stats with seeding data.",
-      "translated": ""
+      "translated": "{seedoption} : Affiche les statistiques avec les données de seed."
     },
     "11": {
       "default": "{seedoption}: Return stats with only seeding data.",
-      "translated": ""
+      "translated": "{seedoption} : Affiche uniquement les statistiques de seed."
     },
     "12": {
       "default": "{seedoption}: Return stats without seeding data.",
-      "translated": ""
+      "translated": "{seedoption} : Affiche les statistiques sans les données de seed."
     },
     "13": {
       "default": "If no {option} option is selected, the default is {seedoption}.",
-      "translated": ""
+      "translated": "Si aucune option {option} n’est sélectionnée, la valeur par défaut est {seedoption}."
     },
     "14": {
       "default": "Example:",
-      "translated": ""
+      "translated": "Exemple :"
     },
     "15": {
       "default": "{command}: Return montly stats without seed data",
-      "translated": ""
+      "translated": "{command} : Affiche les statistiques mensuelles sans données de seed"
     },
     "16": {
       "default": "{command}: Return all stats without seed data",
-      "translated": ""
+      "translated": "{command} : Affiche toutes les statistiques sans données de seed"
     },
     "17": {
       "default": "{command}: Return all stats with seed data",
-      "translated": ""
+      "translated": "Affiche toutes les statistiques avec données de seed"
     }
   },
   "help_leaderboard": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Instructions pour utiliser le bot."
     }
   },
   "help_setupbot": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Instructions pour utiliser le bot."
     }
   },
   "help_botsettings": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Instructions pour utiliser le bot."
     }
   },
   "help_seedsettings": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Instructions pour utiliser le bot."
     }
   },
   "help_seedcontroller": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Instructions pour utiliser le bot."
     }
   },
   "help_silentcontroller": {
     "1": {
       "default": "Instructions on how to use the bot.",
-      "translated": ""
+      "translated": "Instructions pour utiliser le bot."
     }
   },
   "help_seedbot": {
     "1": {
       "default": "Automatic seed messages help",
-      "translated": ""
+      "translated": "Aide sur les messages automatiques de seed"
     }
   },
   "help_errors": {
     "1": {
       "default": "Error using the help command.",
-      "translated": ""
+      "translated": "Erreur lors de l’utilisation de la commande d’aide."
     },
     "2": {
       "default": "Please use only one of the two options for the help command.",
-      "translated": ""
+      "translated": "Utilise seulement l’une des deux options pour la commande d’aide."
     },
     "3": {
       "default": "Only {botoption} or {commandoption}.",
-      "translated": ""
+      "translated": "Seulement {botoption} ou {commandoption}."
     },
     "4": {
       "default": "Or select the help subject below.",
-      "translated": ""
+      "translated": "Ou sélectionne le sujet d’aide ci-dessous."
     }
   },
   "disabled_function": {
     "1": {
       "default": "This function is disabled by this community.",
-      "translated": ""
+      "translated": "Cette fonctionnalité est désactivée par cette communauté."
     },
     "2": {
       "default": "For more information ask an admin, they have the option of activating this function if they wish.",
-      "translated": ""
+      "translated": "Pour plus d’informations, demande à un admin. Ils peuvent activer cette fonctionnalité s’ils le souhaitent."
     }
   }
 }
